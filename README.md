@@ -47,9 +47,9 @@ If you want to search & filters the complete database of [Pharmaceuticals one wo
 | tablets.tech    | premium   |          | 36%    | 7      |                         |                  |                  |
 | tablets.zone    | expired   |          | 36%    | 7      | Spaceship, Inc.         | 27/04/2024 17:17 | 27/04/2025 17:17 |
 | solutions.at    | available |          | 56%    | 9      |                         |                  |                  |
-| solutions.cloud | available |          | 56%    | 9      |                         |                  |                  |
+| solutions.cloud | premium   |          | 56%    | 9      |                         |                  |                  |
 | solutions.com   | resell    |          | 56%    | 9      | Dynadot Inc             | 19/10/1988 04:00 | 18/10/2025 04:00 |
-| solutions.dev   | available |          | 56%    | 9      |                         |                  |                  |
+| solutions.dev   | premium   |          | 56%    | 9      |                         |                  |                  |
 | solutions.me    | resell    |          | 56%    | 9      | Dynadot Inc             | 09/07/2008 17:08 | 09/07/2026 17:08 |
 
 <p align="center">
