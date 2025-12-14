@@ -715,6 +715,7 @@ e3d48ae2-eaee-4d45-90b1-0d595ff1aa0f,release.domains,available,98,20,7,,,
 01b03bbd-2810-4304-b584-1c22498628d8,release.equipment,available,98,20,7,,,
 942f4103-11d3-42ec-b294-beb61e56246f,release.esq,premium,98,20,7,,,
 028c193b-d2a7-46a3-8616-359e4524d2d9,release.exposed,available,98,20,7,,,
+3ce7aa78-53c8-4e44-a7d5-5e97cd8e6536,release.express,expiring,98,20,7,"GoDaddy.com, LLC",12/01/2021 13:35,12/01/2026 13:35
 62afd534-2c3c-4b2a-8dc4-475b77514e12,release.fail,available,98,20,7,,,
 e4af969d-c7b0-40a1-b075-e19c6bc4272d,release.faith,premium,98,20,7,,,
 1c1550c5-6b64-44eb-884f-c451c01502de,release.family,available,98,20,7,,,
@@ -816,7 +817,7 @@ efc27f38-d759-4226-a422-d5530155019c,release.loans,available,98,20,7,,,
 e75dce93-1847-4120-9359-d1c8ea6efdbc,release.locker,available,98,20,7,,,
 53ac1ab0-2d2d-4e9a-865e-e4babc556270,release.lol,resell,98,20,7,Dynadot LLC,01/03/2025 17:53,01/03/2026 23:59
 46f4ac6c-1951-41c2-bd38-566a67f5f4c4,release.london,premium,98,20,7,,,
-73d4b1fd-7c57-4b23-a400-f5fa3f3b1400,release.love,resell,98,20,7,"GMO Internet, Inc. d/b/a Onamae.com",11/08/2025 04:08,11/08/2026 04:08
+73d4b1fd-7c57-4b23-a400-f5fa3f3b1400,release.love,sold,98,20,7,"GMO Internet, Inc. d/b/a Onamae.com",11/08/2025 04:08,11/08/2026 04:08
 2f5789a2-76f3-4df0-bea4-c0e642779072,release.ltda,available,98,20,7,,,
 7056d86d-e4fe-4abb-a4e2-d0d9caf628f5,release.luxe,available,98,20,7,,,
 b5024bd1-b61e-4bc3-a93d-b976a0ea0fe1,release.luxury,available,98,20,7,,,
@@ -944,6 +945,7 @@ cf0f323a-57c3-4343-9f9d-c0d6f3349941,release.tickets,available,98,20,7,,,
 7dcd7fc9-f553-4fb6-97c5-1632ad83b76e,release.tienda,available,98,20,7,,,
 b95c21d3-5a50-4414-a10f-98e6faf1bbe8,release.tips,available,98,20,7,,,
 e3384183-e25e-4146-bd54-c52af4c4d888,release.tires,available,98,20,7,,,
+6d72fe03-f330-4964-ae8c-4c0e04c8f224,release.to,resell,98,20,7,Government of Kingdom of Tonga,29/10/2021 02:27,03/11/2026 10:44
 ee4d18e7-3776-4502-8dd0-ca7ee2dc3efb,release.tools,sold,98,20,7,Porkbun LLC,29/08/2023 08:12,29/08/2026 08:12
 6ab42835-f50c-46ae-824a-9c7b892e949f,release.tours,available,98,20,7,,,
 4fb452c3-1e85-4bc3-8557-f31743af4485,release.town,available,98,20,7,,,
@@ -997,5 +999,3 @@ fb49941b-c444-482d-9441-f8f7669a6165,branded.theater,available,72,20,7,,,
 cb081956-50d4-4e3b-b1cb-f581847c19a8,branded.tips,available,72,20,7,,,
 8e8437fd-430a-4520-90a3-76784caa6589,branded.tires,available,72,20,7,,,
 35aa7d0e-e82e-4489-b341-8dae6f74ba60,branded.to,available,72,20,7,,,
-b03aa8a7-2858-478d-99dd-ecd175c86379,branded.top,sold,72,20,7,Dynadot LLC,28/09/2025 18:09,28/09/2026 18:09
-d9f8d5f6-46df-4a2e-b96c-fb753a00c72a,branded.tours,available,72,20,7,,,
