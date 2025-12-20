@@ -250,7 +250,7 @@ b5f70454-b9c7-49ef-9c98-4aa3909a91b2,prescription.dad,premium,,13,12,,,
 9503f403-2338-4d4d-bd5c-c76c155b88b2,prescription.date,premium,,13,12,,,
 8d5da9b9-727a-47ac-9de7-2cec83ddb4ae,prescription.dating,available,,13,12,,,
 c99f8639-bdef-414d-bd3b-153456c55962,prescription.day,premium,,13,12,,,
-68545ef3-752d-4ea5-a21a-b16d9616684e,prescription.de,resell,,13,12,,,
+68545ef3-752d-4ea5-a21a-b16d9616684e,prescription.de,expired,,13,12,,,
 4834d55a-ae07-4c66-96c9-2269a2a893f2,prescription.deal,premium,,13,12,,,
 76534bc9-a35e-42e1-95e4-a12f7d8efcaf,prescription.dealer,premium,,13,12,,,
 fc8b4c15-252f-4211-8f07-54c4b06e9247,prescription.degree,available,,13,12,,,
@@ -399,7 +399,7 @@ ee4c4842-9ea9-49fc-aed7-fe557d09e825,prescription.maison,available,,13,12,,,
 565759c3-f450-4506-8da7-7a3e820891e8,prescription.management,available,,13,12,,,
 413ca9b3-6aa2-4552-a760-dbb45127f674,prescription.market,available,,13,12,,,
 d4032ea4-8038-49b0-8e3b-fbfbf8628d2a,prescription.mba,available,,13,12,,,
-98846bd4-f14e-40e8-9849-8f53dc7be86d,prescription.me,resell,,13,12,"GoDaddy.com, LLC",26/05/2009 17:25,26/05/2026 17:25
+98846bd4-f14e-40e8-9849-8f53dc7be86d,prescription.me,premium,,13,12,,,
 ebf2d5dd-b763-4711-b62b-7fcd2ac17f04,prescription.media,available,,13,12,,,
 27dec3c4-d87c-451f-9ed0-650cce0439d6,prescription.melbourne,available,,13,12,,,
 52e6c2d6-20c2-412d-945a-d7d378709429,prescription.meme,premium,,13,12,,,
@@ -422,7 +422,7 @@ c7550d65-c247-454a-85fb-f7614a4f20f1,prescription.my,resell,,13,12,"Dynadot, LLC
 da682a64-d56f-478b-99b3-d00d80c7d318,prescription.name,available,,13,12,,,
 9f109555-cd47-4898-b82c-79cc7a58dcbe,prescription.navy,available,,13,12,,,
 6a7a3169-9fe0-40f0-a9b8-510cb533ab1a,prescription.net,sold,,13,12,"GoDaddy.com, LLC",31/07/1997 04:00,30/07/2026 04:00
-5be027c2-588e-41a7-bd28-2db553d02e2a,prescription.network,resell,,13,12,"Spaceship, Inc.",10/12/2014 16:15,10/12/2026 16:15
+5be027c2-588e-41a7-bd28-2db553d02e2a,prescription.network,sold,,13,12,"Spaceship, Inc.",10/12/2014 16:15,10/12/2026 16:15
 43c05a88-3ada-41e2-bfbd-389a9ceed142,prescription.news,available,,13,12,,,
 f9928dbf-2504-4d2b-9529-576a9de52e54,prescription.nexus,premium,,13,12,,,
 408fc246-2027-4989-8d0b-d581eaa93d5f,prescription.ngo,available,,13,12,,,
@@ -432,7 +432,7 @@ a792ca3e-93a4-45b1-b6ee-2dcb8969d838,prescription.nyc,resell,,13,12,Hello Intern
 3fbc79a5-86ad-4abc-b258-14c356b7616f,prescription.observer,premium,,13,12,,,
 88e04f21-fd37-4f57-bade-4fff76e6307f,prescription.one,expiring,,13,12,"Spaceship, Inc.",05/01/2024 15:51,05/01/2026 15:51
 587f71de-55e6-46ea-962e-a39c293f21ab,prescription.ong,available,,13,12,,,
-2ba80201-47cc-4544-a9e1-47010adff60a,prescription.onl,available,,13,12,,,
+2ba80201-47cc-4544-a9e1-47010adff60a,prescription.onl,sold,,13,12,Dynadot Inc,15/12/2025 02:02,15/12/2026 02:02
 28583c97-cde8-472b-8c74-a564157e3911,prescription.online,premium,,13,12,,,
 4a0b1185-0343-4824-aacc-d468e3f9df88,prescription.ooo,available,,13,12,,,
 1713e491-3a0c-4b51-88e7-32a775675bac,prescription.organic,available,,13,12,,,
@@ -985,17 +985,17 @@ a69ea949-fc9d-4b31-b625-b16e7514c98d,release.xyz,sold,98,20,7,Dynadot LLC,28/10/
 783e9fbf-355d-47f8-a829-2b11cded321c,release.yachts,available,98,20,7,,,
 0a675738-d018-497a-b832-38062dca8486,release.yoga,sold,98,20,7,"NameCheap, Inc.",16/08/2024 08:10,16/08/2026 08:10
 afa81a1b-498c-492f-b5c8-3463d8451efb,release.zip,premium,98,20,7,,,
-c628a230-2ee3-48b1-b6f6-abbaaecea34a,branded.systems,expiring,72,20,7,Dynadot Inc,28/12/2019 16:20,28/12/2025 16:20
-63512c00-821b-43f4-a169-9da2c6b2245b,branded.talk,available,72,20,7,,,
-197cab9b-eb25-4a8e-b82f-2794f3aa9460,branded.tattoo,available,72,20,7,,,
-ce761165-c558-4653-b83a-4cded48a138f,branded.tax,available,72,20,7,,,
-ad7852ce-2ba2-4856-89c5-4a484ffdfc3c,branded.taxi,available,72,20,7,,,
-b913c375-1736-49c8-a750-b6a334544c70,branded.tel,resell,72,20,7,Dynadot Inc,24/03/2025 20:50,24/03/2026 20:50
-818c0bc9-236e-4a43-a51c-4075cd37526c,branded.tennis,available,72,20,7,,,
-fb49941b-c444-482d-9441-f8f7669a6165,branded.theater,available,72,20,7,,,
-6d6b24e8-d4a5-4938-95e2-ae19189b4498,branded.theatre,available,72,20,7,,,
-55f8c458-2e19-4d3c-9e72-2e794f6f1f53,branded.tickets,available,72,20,7,,,
-5b2bb758-e8aa-4cf4-ae00-d0e1031205b1,branded.tienda,available,72,20,7,,,
-cb081956-50d4-4e3b-b1cb-f581847c19a8,branded.tips,available,72,20,7,,,
-8e8437fd-430a-4520-90a3-76784caa6589,branded.tires,available,72,20,7,,,
-35aa7d0e-e82e-4489-b341-8dae6f74ba60,branded.to,available,72,20,7,,,
+c46a6e45-ee06-42ce-8853-ee73081f5140,branded.surgery,available,72,19,7,,,
+c8b780b1-2bf1-4e37-93f7-a728d819894d,branded.sydney,available,72,19,7,,,
+c628a230-2ee3-48b1-b6f6-abbaaecea34a,branded.systems,sold,72,19,7,Dynadot Inc,28/12/2019 16:20,28/12/2026 16:20
+63512c00-821b-43f4-a169-9da2c6b2245b,branded.talk,available,72,19,7,,,
+197cab9b-eb25-4a8e-b82f-2794f3aa9460,branded.tattoo,available,72,19,7,,,
+ce761165-c558-4653-b83a-4cded48a138f,branded.tax,available,72,19,7,,,
+ad7852ce-2ba2-4856-89c5-4a484ffdfc3c,branded.taxi,available,72,19,7,,,
+96484a99-d5e5-46c7-b35e-74813cb83f45,branded.team,expiring,72,19,7,"GoDaddy.com, LLC",14/01/2025 16:57,14/01/2026 16:57
+b913c375-1736-49c8-a750-b6a334544c70,branded.tel,resell,72,19,7,Dynadot Inc,24/03/2025 20:50,24/03/2026 20:50
+818c0bc9-236e-4a43-a51c-4075cd37526c,branded.tennis,available,72,19,7,,,
+fb49941b-c444-482d-9441-f8f7669a6165,branded.theater,available,72,19,7,,,
+6d6b24e8-d4a5-4938-95e2-ae19189b4498,branded.theatre,available,72,19,7,,,
+55f8c458-2e19-4d3c-9e72-2e794f6f1f53,branded.tickets,available,72,19,7,,,
+5b2bb758-e8aa-4cf4-ae00-d0e1031205b1,branded.tienda,available,72,19,7,,,
