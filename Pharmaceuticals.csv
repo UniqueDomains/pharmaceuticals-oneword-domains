@@ -688,7 +688,7 @@ a7b46a93-bbfd-4b0c-a326-8a5fcc98ff44,release.cruises,available,98,20,7,,,
 eadc3276-d6b5-4c21-912b-eb52efab328f,release.cyou,available,98,20,7,,,
 7c11f402-e9ad-4032-9786-a386efac9336,release.dad,premium,98,20,7,,,
 6e06ecdc-4cad-4d17-b562-42fb515f8f01,release.dance,available,98,20,7,,,
-d4611a39-4575-4b55-9f8d-c421e311fa8e,release.date,expiring,98,20,7,GoDaddy Online Services Cayman Islands Ltd.,16/12/2018 22:22,16/12/2025 22:22
+d4611a39-4575-4b55-9f8d-c421e311fa8e,release.date,resell,98,20,7,GoDaddy Online Services Cayman Islands Ltd.,16/12/2018 22:22,16/12/2026 22:22
 b7dfc7a9-ce25-44bd-a31c-df2814354c23,release.dating,available,98,20,7,,,
 793020ed-fead-4291-954d-44c00fad221e,release.day,premium,98,20,7,,,
 a6b5e901-698a-42ed-af7a-a90345b4a4b2,release.deal,available,98,20,7,,,
@@ -710,6 +710,7 @@ e817b78e-7f3a-4d25-a804-b6428a9f5495,release.digital,resell,98,20,7,"Sav.com, LL
 bd91af37-9a76-4978-80b7-cbd66ffd3867,release.dog,available,98,20,7,,,
 e3d48ae2-eaee-4d45-90b1-0d595ff1aa0f,release.domains,available,98,20,7,,,
 5594f286-1eff-4e87-8dfa-782c4d637273,release.download,premium,98,20,7,,,
+0f19942c-dd34-47b5-bb93-38a81d3108ff,release.earth,expiring,98,20,7,"GoDaddy.com, LLC",14/01/2020 15:42,14/01/2026 15:42
 89ba1943-4c69-4e41-b70f-37bc39469d8b,release.education,available,98,20,7,,,
 75502046-884d-4c7b-ad49-3343625c9188,release.enterprises,available,98,20,7,,,
 01b03bbd-2810-4304-b584-1c22498628d8,release.equipment,available,98,20,7,,,
@@ -720,11 +721,11 @@ e3d48ae2-eaee-4d45-90b1-0d595ff1aa0f,release.domains,available,98,20,7,,,
 e4af969d-c7b0-40a1-b075-e19c6bc4272d,release.faith,premium,98,20,7,,,
 1c1550c5-6b64-44eb-884f-c451c01502de,release.family,available,98,20,7,,,
 a174adbc-d02e-4b95-9115-2288cfeed64f,release.fans,premium,98,20,7,,,
-4ceeed97-cc36-4718-a910-98117723bb0b,release.farm,expiring,98,20,7,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,18/12/2024 14:33,18/12/2025 14:33
+4ceeed97-cc36-4718-a910-98117723bb0b,release.farm,sold,98,20,7,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,18/12/2024 14:33,18/12/2026 14:33
 a7ff97f1-1178-4093-bb63-80c9a51a8fdd,release.fashion,available,98,20,7,,,
 b84538fe-cc75-450a-8920-3faf53c314e5,release.feedback,available,98,20,7,,,
 34199b97-2645-4023-a13a-59ec92efbf4c,release.film,premium,98,20,7,,,
-1e8e423e-0b52-44da-94c8-e4214ca443f6,release.finance,expired,98,20,7,Dynadot Inc,30/09/2024 17:00,30/09/2025 17:00
+1e8e423e-0b52-44da-94c8-e4214ca443f6,release.finance,premium,98,20,7,,,
 6d09308f-1002-424d-bfd3-315a589d7531,release.fishing,premium,98,20,7,,,
 2054f1c8-9b12-4070-91cd-74c28c8885e0,release.fitness,available,98,20,7,,,
 114780b1-e813-492b-ba85-2b9577529c59,release.flights,available,98,20,7,,,
@@ -834,7 +835,7 @@ d574cd57-71da-466e-af01-d54d5172b1fa,release.menu,available,98,20,7,,,
 55401167-1c75-4420-80a3-e6484ba44927,release.moda,available,98,20,7,,,
 3eb6e980-f862-4dca-8639-a0dbe6ec3feb,release.moe,available,98,20,7,,,
 f802c517-b7fe-4ad2-b73c-427187b89007,release.mom,sold,98,20,7,"Spaceship, Inc.",18/11/2025 21:20,18/11/2026 23:59
-88010c00-69ce-4c83-b38f-87eabec54027,release.monster,expiring,98,20,7,"Domain.com, LLC",03/01/2020 12:19,03/01/2026 23:59
+88010c00-69ce-4c83-b38f-87eabec54027,release.monster,sold,98,20,7,"Domain.com, LLC",03/01/2020 12:19,03/01/2027 23:59
 edea5a64-c4b9-4185-a4c7-c6740dbd0b86,release.mortgage,premium,98,20,7,,,
 1f31d2ab-de4d-4ce9-bbaa-9e92cba8ecbb,release.motorcycles,available,98,20,7,,,
 84c19a17-087e-4f44-952c-eebb72a3905c,release.mov,premium,98,20,7,,,
@@ -909,7 +910,7 @@ b78837ca-24bf-40d4-b1a9-f5c86e67e9b8,release.shoes,available,98,20,7,,,
 52e4615d-4e3c-496a-a6ed-de642b83bfbf,release.singles,available,98,20,7,,,
 81e76f72-32d5-4672-99a9-c55ab9d5e628,release.site,premium,98,20,7,,,
 db41f68d-4e9a-4137-a939-4a2e2013d943,release.ski,available,98,20,7,,,
-b21c2a13-3eac-4a82-bdd0-ec8cd154c599,release.skin,expiring,98,20,7,Namecheap,14/12/2024 11:31,14/12/2025 23:59
+b21c2a13-3eac-4a82-bdd0-ec8cd154c599,release.skin,sold,98,20,7,Namecheap,14/12/2024 11:31,14/12/2026 23:59
 9a2018a5-dc96-476e-9be1-96055be9a8b9,release.so,resell,98,20,7,NameCheap,08/09/2022 02:31,08/09/2025 02:31
 6a3842bd-0092-4934-ac5d-81ed084fb269,release.soccer,available,98,20,7,,,
 3001d5e0-25d2-448c-a3c0-42f292bdeac2,release.software,premium,98,20,7,,,
@@ -960,7 +961,7 @@ e163d003-fd9b-4632-87e0-1b4e61175eda,release.uno,premium,98,20,7,,,
 2732da7d-87d9-47bb-a489-779d5d42412a,release.us,resell,98,20,7,"Global Domains International, Inc. DBA DomainCostClub.com",10/07/2013 18:05,09/07/2027 23:59
 dfa0d0f9-b7c4-4f5f-bf92-7d591b892246,release.vacations,available,98,20,7,,,
 07e47083-7b00-4363-80bf-b0e44dde2fb2,release.vana,available,98,20,7,,,
-5b6954e7-c04f-4e60-8533-2dd333892666,release.vc,sold,98,20,7,Dynadot Inc,11/09/2024 07:20,11/09/2026 07:20
+5b6954e7-c04f-4e60-8533-2dd333892666,release.vc,premium,98,20,7,,,
 358b834f-f279-4dab-9f86-2bf61f2dd4fe,release.vegas,available,98,20,7,,,
 3802b43c-2693-422e-a4e3-ba53ef13bca6,release.ventures,available,98,20,7,,,
 8f99dda9-00d3-4f2c-ad99-6a0a84b426c4,release.vet,available,98,20,7,,,
@@ -998,4 +999,3 @@ b913c375-1736-49c8-a750-b6a334544c70,branded.tel,resell,72,19,7,Dynadot Inc,24/0
 fb49941b-c444-482d-9441-f8f7669a6165,branded.theater,available,72,19,7,,,
 6d6b24e8-d4a5-4938-95e2-ae19189b4498,branded.theatre,available,72,19,7,,,
 55f8c458-2e19-4d3c-9e72-2e794f6f1f53,branded.tickets,available,72,19,7,,,
-5b2bb758-e8aa-4cf4-ae00-d0e1031205b1,branded.tienda,available,72,19,7,,,
