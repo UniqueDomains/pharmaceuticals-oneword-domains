@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below."
+title: "Pharmaceuticals One-Word Domains"
+type: dataset
+authors:
+  - name: "Unique Domains"
+version: "2026-04-12"
+date-released: "2026-04-12"
+url: "https://unique.domains/domains/sector/pharmaceuticals"
+repository-code: "https://github.com/UniqueDomains/pharmaceuticals-oneword-domains"
+license: "See LICENSE"
+abstract: "Daily-updated public extract of pharmaceuticals one-word domains from Unique Domains."
