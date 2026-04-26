@@ -1,29 +1,29 @@
-# Pharmaceuticals One-Word Domains (13,323)
+# Pharmaceuticals One-Word Domains (18,130)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-10%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C323%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C130%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of pharmaceuticals one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **13,323 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **18,130 domains** on the canonical page below.
 
-**Public extract:** 10,000 rows · **Live catalog:** 13,323 domains
+**Public extract:** 1,000 rows · **Live catalog:** 18,130 domains
 
-**Last updated:** 2026-04-13  
-**Canonical page:** `https://unique.domains/domains/sector/pharmaceuticals`  
+**Last updated:** 2026-04-26  
+**Canonical page:** `https://unique.domains/domains/sector/Pharmaceuticals`  
 **Best for:** founders, investors, studios
 
 ---
 
 <p align="center">
-  <a href="https://unique.domains/domains/sector/pharmaceuticals?utm_source=github&utm_medium=referral&utm_campaign=repo_pharmaceuticals_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
+  <a href="https://unique.domains/domains/sector/Pharmaceuticals?utm_source=github&utm_medium=referral&utm_campaign=repo_pharmaceuticals_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./pharmaceuticals.csv">CSV</a> / <a href="./pharmaceuticals.json">JSON</a>
   · <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_pharmaceuticals_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_pharmaceuticals_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
@@ -31,20 +31,20 @@ Daily-updated public extract of pharmaceuticals one-word domains from Unique Dom
 
 ---
 
-➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/sector/pharmaceuticals?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_pharmaceuticals_oneword_domains&utm_content=top_create_radar)  
-➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/sector/pharmaceuticals?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_pharmaceuticals_oneword_domains&utm_content=top_start_project)  
+➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/sector/Pharmaceuticals?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_pharmaceuticals_oneword_domains&utm_content=top_create_radar)  
+➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/sector/Pharmaceuticals?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_pharmaceuticals_oneword_domains&utm_content=top_start_project)  
 ➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_pharmaceuticals_oneword_domains&utm_content=top_api_docs)
 
 ---
 
 ## 📦 What this repository contains
 
-This repository is the public extract for the exact Unique Domains search represented by `https://unique.domains/domains/sector/pharmaceuticals`.
+This repository is the public extract for the exact Unique Domains search represented by `https://unique.domains/domains/sector/Pharmaceuticals`.
 
 ### Files
 
-- `pharmaceuticals.csv` — public CSV extract (10,000 rows)
-- `pharmaceuticals.json` — public JSON extract (10,000 rows)
+- `pharmaceuticals.csv` — public CSV extract (1,000 rows)
+- `pharmaceuticals.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| manufacturing.gg | available | $82.98     | —             | 70             | 80     | 13     | namecheap        |
-| health.theater   | resell    | $80.98     | —             | 92             | 43     | 6      | Sav.com, LLC     |
-| therapy.tech     | premium   | $781.25    | $3,125        | 94             | 92     | 7      | name.com         |
-| industry.new     | available | $549.99    | —             | 72             | 61     | 8      | name.com         |
-| technology.army  | resell    | $48.98     | —             | 88             | 35     | 10     | GoDaddy.com, LLC |
-| therapy.store    | premium   | $781.25    | $3,125        | 94             | 92     | 7      | name.com         |
-| industry.moi     | available | $39.99     | —             | 72             | 61     | 8      | name.com         |
-| study.farm       | resell    | $49.98     | —             | 102            | 32     | 5      | Spaceship, Inc.  |
-| therapy.site     | premium   | $1,562.50  | $6,250        | 94             | 92     | 7      | name.com         |
-| industry.kiwi    | available | $35.68     | —             | 72             | 61     | 8      | namecheap        |
-| medical.pics     | resell    | $1.99      | $45.99        | 100            | 32     | 7      | Dynadot LLC      |
-| therapy.online   | premium   | $3,125     | $12,500       | 94             | 92     | 7      | name.com         |
-| industry.desi    | available | $22.98     | —             | 72             | 61     | 8      | namecheap        |
-| medical.co       | resell    | $172,500   | $48.99        | 100            | 32     | 7      | GoDaddy.com, LLC |
-| drug.store       | premium   | $3,125     | $12,500       | 70             | 88     | 9      | name.com         |
-| the.hamburg      | available | $59.99     | —             | 88             | 58     | 3      | name.com         |
-| healthcare.info  | resell    | $22,994.25 | $35.99        | 76             | 31     | 10     | GoDaddy.com, LLC |
-| drugs.tech       | premium   | $1,625     | $6,500        | 44             | 88     | 5      | namecheap        |
-| the.desi         | available | $22.98     | —             | 88             | 58     | 3      | namecheap        |
-| healthcare.farm  | resell    | $49.98     | —             | 76             | 31     | 10     | Sav.com, LLC     |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| medicine.ninja   | available | $42.98    | —             | 94             | 27     | 8      | namecheap         |
+| pharmacology.io  | resell    | —         | —             | —              | 32     | 12     | Dynadot Inc       |
+| medicine.xyz     | premium   | $1,300    | $1,300        | 94             | 27     | 8      | namecheap         |
+| medicine.xxx     | available | $154.98   | —             | 80             | 27     | 8      | namecheap         |
+| pharmacology.co  | resell    | —         | —             | —              | 32     | 12     | InternetX GmbH    |
+| medicine.tech    | premium   | $781.25   | $3,125        | 94             | 27     | 8      | name.com          |
+| medicine.trading | available | $19.99    | —             | 80             | 27     | 8      | name.com          |
+| pharmacology.ai  | resell    | —         | —             | —              | 32     | 12     | Zenaida.cate.ai   |
+| medicine.store   | premium   | $3,125    | $12,500       | 94             | 27     | 8      | name.com          |
+| medicine.sex     | available | $154.98   | —             | 80             | 27     | 8      | namecheap         |
+| medicine.zone    | resell    | —         | —             | 94             | 27     | 8      | DNSPod, Inc.      |
+| medicine.space   | premium   | $1,625    | $6,500        | 94             | 27     | 8      | namecheap         |
+| medicine.paris   | available | $51.98    | —             | 80             | 27     | 8      | namecheap         |
+| medicine.wtf     | resell    | —         | —             | 94             | 27     | 8      | Sav.com, LLC - 46 |
+| medicine.site    | premium   | $3,125    | $12,500       | 94             | 27     | 8      | name.com          |
+| medicine.markets | available | $9.99     | —             | 80             | 27     | 8      | name.com          |
+| medicine.works   | resell    | —         | —             | 94             | 27     | 8      | Sav.com, LLC      |
+| medicine.online  | premium   | $7,812.50 | $31,250       | 94             | 27     | 8      | name.com          |
+| medicine.hamburg | available | $59.99    | —             | 80             | 27     | 8      | name.com          |
+| medicine.to      | resell    | —         | —             | 94             | 27     | 8      | NAMECHEAP         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,17 +91,17 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract           | Unique Domains                                   |
-| ------------------------ | ------------------------------------------------ |
-| 10,000-row public sample | 13,323 live domains                              |
-| Static CSV / JSON        | live search and daily refresh                    |
-| Basic exported fields    | deeper price, demand, risk, and workflow context |
-| No persistence           | Radar, saved search, and alerts                  |
-| No founder workflow      | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                                   |
+| ----------------------- | ------------------------------------------------ |
+| 1,000-row public sample | 18,130 live domains                              |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
-[Create Radar](https://unique.domains/domains/sector/pharmaceuticals?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_pharmaceuticals_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/sector/pharmaceuticals?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_pharmaceuticals_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_pharmaceuticals_oneword_domains&utm_content=related_pricing)
+[Create Radar](https://unique.domains/domains/sector/Pharmaceuticals?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_pharmaceuticals_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/sector/Pharmaceuticals?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_pharmaceuticals_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_pharmaceuticals_oneword_domains&utm_content=related_pricing)
 
 ## 🧱 Field summary
 
@@ -143,14 +143,14 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Pharmaceuticals One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Pharmaceuticals One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 
 ## 🔗 Related links
 
-- [Live search](https://unique.domains/domains/sector/pharmaceuticals?utm_source=github&utm_medium=referral&utm_campaign=repo_pharmaceuticals_oneword_domains&utm_content=top_open_search)
+- [Live search](https://unique.domains/domains/sector/Pharmaceuticals?utm_source=github&utm_medium=referral&utm_campaign=repo_pharmaceuticals_oneword_domains&utm_content=top_open_search)
 - [Technology and scoring](https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_pharmaceuticals_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_pharmaceuticals_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_pharmaceuticals_oneword_domains&utm_content=top_api_docs)
