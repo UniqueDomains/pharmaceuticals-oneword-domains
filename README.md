@@ -64,8 +64,8 @@ print(df.head())
 
 | domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| pharmaceutical.ceo   | premium   | —         | —             | 84             | 9      | 14     | —                                                   |
-| pharmaceutical.tours | premium   | —         | —             | 84             | 9      | 14     | —                                                   |
+| pharmaceutical.ceo   | premium   | —         | —             | 84             | 10     | 14     | —                                                   |
+| pharmaceutical.tours | premium   | —         | —             | 84             | 10     | 14     | —                                                   |
 | medicine.systems     | premium   | —         | —             | 80             | 26     | 8      | —                                                   |
 | medicine.ninja       | available | $42.98    | —             | 94             | 26     | 8      | namecheap                                           |
 | medicine.zone        | resell    | —         | —             | 94             | 26     | 8      | DNSPod, Inc.                                        |
