@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| dna.hospital      | available | $57.99    | $57.99        | high           | medium | 3      | namesilo                                     |
-| active.ag         | resell    | $89       | $141.99       | high           | low    | 6      | Sav.com, LLC                                 |
-| dna.surgery       | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                     |
-| lab.healthcare    | available | $88.99    | $88.99        | high           | medium | 3      | namesilo                                     |
-| active.pw         | resell    | $3,795    | $27.99        | high           | low    | 6      | Xiamen ChinaSource Internet Service Co., Ltd |
-| lab.best          | premium   | $83.30    | $83.30        | high           | medium | 3      | namesilo                                     |
-| lab.hiv           | available | $184.99   | —             | high           | medium | 3      | name.com                                     |
-| active.report     | resell    | $14.99    | $29.99        | high           | low    | 6      | NameCheap, Inc.                              |
-| lab.hospital      | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                     |
-| lab.surgery       | available | $54.99    | $54.99        | high           | medium | 3      | namesilo                                     |
-| medical.co        | resell    | $172,500  | $48.99        | high           | low    | 7      | GoDaddy.com, LLC                             |
-| lab.rehab         | premium   | $242      | $242          | high           | medium | 3      | namesilo                                     |
-| cure.hospital     | available | $57.99    | $57.99        | high           | low    | 4      | namesilo                                     |
-| experiment.health | resell    | $19.99    | —             | high           | low    | 10     | Spaceship, Inc.                              |
-| lab.tech          | premium   | $3,125    | —             | high           | medium | 3      | name.com                                     |
-| cure.science      | available | $11.99    | $11.99        | high           | low    | 4      | namesilo                                     |
-| dna.doctor        | resell    | —         | —             | high           | medium | 3      | Go France Domains, LLC                       |
-| care.rehab        | premium   | $260      | $260          | high           | low    | 4      | namecheap                                    |
-| cure.surgery      | available | $67.49    | $71.99        | high           | low    | 4      | name.com                                     |
-| dna.health        | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                             |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
+| lab.audio          | available | $104.99   | $114.99       | high           | medium | 3      | namesilo               |
+| shop.international | resell    | —         | —             | high           | medium | 4      | Go Canada Domains, LLC |
+| lab.shop           | premium   | $1,250    | —             | high           | medium | 3      | name.com               |
+| care.ryukyu        | available | $22.98    | —             | medium         | medium | 4      | namecheap              |
+| cells.info         | resell    | —         | —             | medium         | low    | 5      | NameCheap, Inc.        |
+| pod.healthcare     | premium   | $118.80   | $118.80       | medium         | medium | 3      | namesilo               |
+| pill.gg            | available | $82.98    | —             | medium         | low    | 4      | namecheap              |
+| genes.health       | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC       |
+| pod.icu            | premium   | $384      | $768          | medium         | medium | 3      | namesilo               |
+| cells.adult        | available | $166.98   | —             | medium         | low    | 5      | namecheap              |
+| doctor.boutique    | resell    | —         | —             | high           | low    | 6      | Dynadot Inc            |
+| pod.science        | premium   | $625      | $81.25        | medium         | medium | 3      | name.com               |
+| cells.airforce     | available | $134.98   | —             | medium         | low    | 5      | namecheap              |
+| doctor.group       | resell    | —         | —             | high           | low    | 6      | Dynadot Inc            |
+| cells.accountant   | premium   | $437.50   | —             | medium         | low    | 5      | name.com               |
+| cells.associates   | available | $21.99    | —             | medium         | low    | 5      | name.com               |
+| health.cc          | resell    | —         | —             | high           | medium | 6      | Dynadot Inc            |
+| cells.art          | premium   | $153.75   | —             | medium         | low    | 5      | name.com               |
+| cells.barcelona    | available | $38.98    | —             | medium         | low    | 5      | namecheap              |
+| health.talk        | resell    | —         | —             | high           | medium | 6      | Spaceship, Inc.        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
