@@ -1,10 +1,10 @@
-# One-Word Pharmaceutical Domain Names (149,393)
+# One-Word Pharmaceutical Domain Names (153,053)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-149%2C393%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-153%2C053%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers one-word domain names tied to the pharmaceuticals keyword, spanning 506 different TLDs with a median asking price of $714. Updated daily, it groups short, single-word names that fit pharmaceutical branding, from clinical terms to consumer-facing labels.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **149,393 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **153,053 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 149,393 domains · **Median ask:** $626.72 · **High-demand under $2,500:** 434
+**Public extract:** 1,000 rows · **Live catalog:** 153,053 domains · **Median ask:** $615.78 · **High-demand under $2,500:** 480
 
 **Last updated:** 2026-08-18
 **Canonical page:** `https://unique.domains/domains/sector/pharmaceuticals`
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
-| lab.audio          | available | $104.99   | $114.99       | high           | medium | 3      | namesilo               |
-| shop.international | resell    | —         | —             | high           | medium | 4      | Go Canada Domains, LLC |
-| lab.shop           | premium   | $1,250    | —             | high           | medium | 3      | name.com               |
-| care.ryukyu        | available | $22.98    | —             | medium         | medium | 4      | namecheap              |
-| cells.info         | resell    | —         | —             | medium         | low    | 5      | NameCheap, Inc.        |
-| pod.healthcare     | premium   | $118.80   | $118.80       | medium         | medium | 3      | namesilo               |
-| pill.gg            | available | $82.98    | —             | medium         | low    | 4      | namecheap              |
-| genes.health       | resell    | —         | —             | medium         | low    | 5      | GoDaddy.com, LLC       |
-| pod.icu            | premium   | $384      | $768          | medium         | medium | 3      | namesilo               |
-| cells.adult        | available | $166.98   | —             | medium         | low    | 5      | namecheap              |
-| doctor.boutique    | resell    | —         | —             | high           | low    | 6      | Dynadot Inc            |
-| pod.science        | premium   | $625      | $81.25        | medium         | medium | 3      | name.com               |
-| cells.airforce     | available | $134.98   | —             | medium         | low    | 5      | namecheap              |
-| doctor.group       | resell    | —         | —             | high           | low    | 6      | Dynadot Inc            |
-| cells.accountant   | premium   | $437.50   | —             | medium         | low    | 5      | name.com               |
-| cells.associates   | available | $21.99    | —             | medium         | low    | 5      | name.com               |
-| health.cc          | resell    | —         | —             | high           | medium | 6      | Dynadot Inc            |
-| cells.art          | premium   | $153.75   | —             | medium         | low    | 5      | name.com               |
-| cells.barcelona    | available | $38.98    | —             | medium         | low    | 5      | namecheap              |
-| health.talk        | resell    | —         | —             | high           | medium | 6      | Spaceship, Inc.        |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
+| dna.hospital      | available | $57.99    | $57.99        | high           | medium | 3      | namesilo               |
+| experiment.health | resell    | $19.99    | —             | high           | low    | 10     | Spaceship, Inc.        |
+| dna.surgery       | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo               |
+| lab.healthcare    | available | $88.99    | $88.99        | high           | medium | 3      | namesilo               |
+| dna.doctor        | resell    | —         | —             | high           | medium | 3      | Go France Domains, LLC |
+| lab.best          | premium   | $83.30    | $83.30        | high           | medium | 3      | namesilo               |
+| lab.hiv           | available | $184.99   | —             | high           | medium | 3      | name.com               |
+| dna.health        | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC       |
+| lab.hospital      | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo               |
+| lab.surgery       | available | $54.99    | $54.99        | high           | medium | 3      | namesilo               |
+| lab.doctor        | resell    | —         | —             | high           | medium | 3      | Go Canada Domains, LLC |
+| care.inc          | premium   | $2,061.50 | $2,660        | medium         | low    | 4      | namesilo               |
+| pod.surgery       | available | $54.99    | $54.99        | medium         | medium | 3      | namesilo               |
+| lab.health        | resell    | —         | —             | high           | medium | 3      | DotHealth LLC          |
+| care.surgery      | premium   | $520      | $520          | high           | low    | 4      | namecheap              |
+| cure.hospital     | available | $57.99    | $57.99        | high           | low    | 4      | namesilo               |
+| care.clinic       | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.        |
+| cure.healthcare   | premium   | $123.75   | $123.75       | high           | low    | 4      | name.com               |
+| cure.science      | available | $11.99    | $11.99        | high           | low    | 4      | namesilo               |
+| care.health       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 149,393 live domains                       |
+| 1,000-row public sample | 153,053 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 434 high-demand names under $2,500         |
+| Basic exported fields   | 480 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
