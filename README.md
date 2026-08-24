@@ -14,9 +14,9 @@ This selection covers one-word domain names tied to the pharmaceuticals keyword,
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **157,930 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 157,930 domains · **Median ask:** $598.85 · **High-demand under $2,500:** 480
+**Public extract:** 1,000 rows · **Live catalog:** 157,930 domains · **Median ask:** $598.89 · **High-demand under $2,500:** 480
 
-**Last updated:** 2026-08-22
+**Last updated:** 2026-08-24
 **Canonical page:** `https://unique.domains/domains/sector/pharmaceuticals`
 **Best for:** founders, investors, studios
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Pharmaceutical Domain Names*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Pharmaceutical Domain Names*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
