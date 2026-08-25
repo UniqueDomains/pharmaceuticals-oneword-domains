@@ -1,10 +1,10 @@
-# One-Word Pharmaceutical Domain Names (157,930)
+# One-Word Pharmaceutical Domain Names (160,525)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-157%2C930%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-160%2C525%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers one-word domain names tied to the pharmaceuticals keyword, spanning 506 different TLDs with a median asking price of $714. Updated daily, it groups short, single-word names that fit pharmaceutical branding, from clinical terms to consumer-facing labels.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **157,930 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **160,525 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 157,930 domains · **Median ask:** $598.89 · **High-demand under $2,500:** 480
+**Public extract:** 1,000 rows · **Live catalog:** 160,525 domains · **Median ask:** $589.80 · **High-demand under $2,500:** 480
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/sector/pharmaceuticals`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
-| dna.hospital      | available | $57.99    | $57.99        | high           | medium | 3      | namesilo               |
-| experiment.health | resell    | $19.99    | —             | high           | low    | 10     | Spaceship, Inc.        |
-| dna.surgery       | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo               |
-| lab.healthcare    | available | $88.99    | $88.99        | high           | medium | 3      | namesilo               |
-| dna.doctor        | resell    | —         | —             | high           | medium | 3      | Go France Domains, LLC |
-| lab.best          | premium   | $83.30    | $83.30        | high           | medium | 3      | namesilo               |
-| lab.hiv           | available | $184.99   | —             | high           | medium | 3      | name.com               |
-| dna.health        | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC       |
-| lab.hospital      | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo               |
-| lab.surgery       | available | $54.99    | $54.99        | high           | medium | 3      | namesilo               |
-| lab.doctor        | resell    | —         | —             | high           | medium | 3      | Go Canada Domains, LLC |
-| lab.rehab         | premium   | $242      | $242          | high           | medium | 3      | namesilo               |
-| cure.hospital     | available | $57.99    | $57.99        | high           | low    | 4      | namesilo               |
-| lab.health        | resell    | —         | —             | high           | medium | 3      | DotHealth LLC          |
-| care.inc          | premium   | $2,061.50 | $2,660        | medium         | low    | 4      | namesilo               |
-| cure.science      | available | $11.99    | $11.99        | high           | low    | 4      | namesilo               |
-| care.clinic       | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.        |
-| care.surgery      | premium   | $520      | $520          | high           | low    | 4      | namecheap              |
-| cure.surgery      | available | $67.49    | $71.99        | high           | low    | 4      | name.com               |
-| care.health       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC       |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
+| dna.hospital    | available | $57.99    | $57.99        | high           | medium | 3      | namesilo               |
+| dna.doctor      | resell    | —         | —             | high           | medium | 3      | Go France Domains, LLC |
+| lab.hospital    | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo               |
+| lab.healthcare  | available | $88.99    | $88.99        | high           | medium | 3      | namesilo               |
+| dna.health      | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC       |
+| care.inc        | premium   | $2,061.50 | $2,660        | medium         | low    | 4      | namesilo               |
+| lab.hiv         | available | $184.99   | —             | high           | medium | 3      | name.com               |
+| lab.doctor      | resell    | —         | —             | high           | medium | 3      | Go Canada Domains, LLC |
+| care.surgery    | premium   | $520      | $520          | high           | low    | 4      | namecheap              |
+| lab.surgery     | available | $54.99    | $54.99        | high           | medium | 3      | namesilo               |
+| lab.health      | resell    | —         | —             | high           | medium | 3      | DotHealth LLC          |
+| cure.healthcare | premium   | $123.75   | $123.75       | high           | low    | 4      | name.com               |
+| pod.surgery     | available | $54.99    | $54.99        | medium         | medium | 3      | namesilo               |
+| pod.doctor      | resell    | —         | —             | medium         | medium | 3      | GoDaddy.com, LLC       |
+| cure.shop       | premium   | $625      | —             | high           | low    | 4      | name.com               |
+| cure.hospital   | available | $57.99    | $57.99        | high           | low    | 4      | namesilo               |
+| care.health     | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC       |
+| gene.id         | premium   | $216.32   | $20.06        | high           | low    | 4      | namesilo               |
+| dose.doctor     | available | $14.99    | —             | high           | low    | 4      | name.com               |
+| cure.health     | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 157,930 live domains                       |
+| 1,000-row public sample | 160,525 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 480 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Pharmaceutical Domain Names*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Pharmaceutical Domain Names*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
