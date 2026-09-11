@@ -1,10 +1,10 @@
-# One-Word Pharmaceutical Domain Names (169,778)
+# One-Word Pharmaceutical Domain Names (170,242)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-169%2C778%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-170%2C242%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers one-word domain names tied to the pharmaceuticals keyword, spanning 506 different TLDs with a median asking price of $714. Updated daily, it groups short, single-word names that fit pharmaceutical branding, from clinical terms to consumer-facing labels.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **169,778 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **170,242 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 169,778 domains · **Median ask:** $563.97 · **High-demand under $2,500:** 453
+**Public extract:** 1,000 rows · **Live catalog:** 170,242 domains · **Median ask:** $562.67 · **High-demand under $2,500:** 448
 
-**Last updated:** 2026-09-09
+**Last updated:** 2026-09-11
 **Canonical page:** `https://unique.domains/domains/sector/pharmaceuticals`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| lab.audio          | available | $104.99   | $114.99       | high           | medium | 3      | namesilo                                            |
-| lab.media          | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                         |
-| lab.shop           | premium   | $1,250    | —             | high           | medium | 3      | name.com                                            |
-| care.ryukyu        | available | $22.98    | —             | medium         | medium | 4      | namecheap                                           |
-| life.school        | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                         |
-| cure.shop          | premium   | $625      | —             | high           | low    | 4      | name.com                                            |
-| pill.gg            | available | $82.98    | —             | medium         | low    | 4      | namecheap                                           |
-| shop.international | resell    | —         | —             | high           | medium | 4      | Go Canada Domains, LLC                              |
-| cells.bond         | premium   | $420      | $840          | medium         | low    | 5      | namecheap                                           |
-| shot.healthcare    | available | $88.99    | $88.99        | high           | low    | 4      | namesilo                                            |
-| genes.life         | resell    | —         | —             | medium         | low    | 5      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| cells.cricket      | premium   | $437.50   | —             | medium         | low    | 5      | name.com                                            |
-| cells.blue         | available | $23.99    | —             | medium         | low    | 5      | name.com                                            |
-| doctor.boutique    | resell    | —         | —             | high           | low    | 6      | Dynadot Inc                                         |
-| cells.phd          | premium   | $111.25   | —             | medium         | low    | 5      | name.com                                            |
-| cells.bz           | available | $25       | —             | medium         | low    | 5      | name.com                                            |
-| health.cc          | resell    | —         | —             | high           | medium | 6      | Dynadot Inc                                         |
-| cells.prof         | premium   | $111.25   | —             | medium         | low    | 5      | name.com                                            |
-| cells.cars         | available | $2,950    | —             | medium         | low    | 5      | namecheap                                           |
-| health.talk        | resell    | —         | —             | high           | medium | 6      | Spaceship, Inc.                                     |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| lab.audio       | available | $104.99   | $114.99       | high           | medium | 3      | namesilo         |
+| lab.media       | resell    | —         | —             | high           | medium | 3      | Porkbun LLC      |
+| lab.shop        | premium   | $1,250    | —             | high           | medium | 3      | name.com         |
+| shot.doctor     | available | $14.99    | —             | high           | low    | 4      | name.com         |
+| pod.doctor      | resell    | —         | —             | medium         | medium | 3      | GoDaddy.com, LLC |
+| pod.horse       | premium   | $500      | $46.99        | medium         | medium | 3      | name.com         |
+| shot.healthcare | available | $88.99    | $88.99        | high           | low    | 4      | namesilo         |
+| anti.health     | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc      |
+| case.id         | premium   | $216.32   | $20.06        | high           | low    | 4      | namesilo         |
+| shot.hospital   | available | $57.99    | $57.99        | high           | low    | 4      | namesilo         |
+| gene.pet        | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
+| cure.shop       | premium   | $625      | —             | high           | low    | 4      | name.com         |
+| shot.ryukyu     | available | $22.98    | —             | medium         | low    | 4      | namecheap        |
+| shop.guru       | resell    | —         | —             | high           | medium | 4      | Porkbun LLC      |
+| pill.fun        | premium   | $156.25   | —             | medium         | low    | 4      | name.com         |
+| shot.science    | available | $11.99    | $11.99        | high           | low    | 4      | namesilo         |
+| cells.cc        | resell    | —         | —             | medium         | low    | 5      | NameSilo, LLC    |
+| shop.channel    | premium   | $1,248.75 | —             | high           | medium | 4      | name.com         |
+| shot.surgery    | available | $54.99    | $54.99        | high           | low    | 4      | namesilo         |
+| cells.world     | resell    | —         | —             | medium         | low    | 5      | Spaceship, Inc.  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 169,778 live domains                       |
+| 1,000-row public sample | 170,242 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 453 high-demand names under $2,500         |
+| Basic exported fields   | 448 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Pharmaceutical Domain Names*. Version 2026-09-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Pharmaceutical Domain Names*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
