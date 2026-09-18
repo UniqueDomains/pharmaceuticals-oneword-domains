@@ -1,10 +1,10 @@
-# One-Word Pharmaceutical Domain Names (64,933)
+# One-Word Pharmaceutical Domain Names (66,528)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-64%2C933%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-66%2C528%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers one-word domain names tied to the pharmaceuticals keyword, spanning 506 different TLDs with a median asking price of $714. Updated daily, it groups short, single-word names that fit pharmaceutical branding, from clinical terms to consumer-facing labels.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **64,933 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **66,528 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 64,933 domains · **Median ask:** $554.43 · **High-demand under $2,500:** 153
+**Public extract:** 1,000 rows · **Live catalog:** 66,528 domains · **Median ask:** $544.26 · **High-demand under $2,500:** 149
 
-**Last updated:** 2026-09-16
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/sector/pharmaceuticals`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| lab.audio          | available | $104.99   | $114.99       | high           | medium | 3      | namesilo                                                |
-| ingredients.fun    | resell    | $4.99     | —             | medium         | low    | 11     | Chengdu West Dimension Digital Technology Co., Ltd.     |
-| lab.shop           | premium   | $1,250    | —             | high           | medium | 3      | name.com                                                |
-| pod.college        | available | $5        | $81.98        | medium         | medium | 3      | namecheap                                               |
-| lab.media          | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                             |
-| pod.associates     | premium   | $118.80   | $118.80       | medium         | medium | 3      | namesilo                                                |
-| pod.financial      | available | $17.48    | $66.98        | medium         | medium | 3      | namecheap                                               |
-| shop.international | resell    | —         | —             | high           | medium | 4      | Go Canada Domains, LLC                                  |
-| pod.cyou           | premium   | $384      | $768          | medium         | medium | 3      | namesilo                                                |
-| pod.forex          | available | $11.98    | $133.98       | medium         | medium | 3      | namecheap                                               |
-| cells.cam          | resell    | —         | —             | medium         | low    | 5      | Spaceship, Inc.                                         |
-| pod.dad            | premium   | $161.25   | $161.25       | medium         | medium | 3      | name.com                                                |
-| pod.holdings       | available | $64.99    | $64.99        | medium         | medium | 3      | namesilo                                                |
-| genes.group        | resell    | —         | —             | medium         | low    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| pod.day            | premium   | $161.25   | $161.25       | medium         | medium | 3      | name.com                                                |
-| pod.ngo            | available | $16.99    | $16.99        | medium         | medium | 3      | name.com                                                |
-| genes.life         | resell    | —         | —             | medium         | low    | 5      | Chengdu West Dimension Digital Technology Co., Ltd.     |
-| pod.deal           | premium   | $116      | $116          | medium         | medium | 3      | namesilo                                                |
-| pod.rich           | available | $94.99    | $1,999        | medium         | medium | 3      | namesilo                                                |
-| goods.homes        | resell    | —         | —             | high           | low    | 5      | Xiamen ChinaSource Internet Service Co., Ltd            |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| lab.audio          | available | $104.99   | $114.99       | high           | medium | 3      | namesilo                                            |
+| ingredients.fun    | resell    | $4.99     | —             | medium         | low    | 11     | Chengdu West Dimension Digital Technology Co., Ltd. |
+| lab.shop           | premium   | $1,250    | —             | high           | medium | 3      | name.com                                            |
+| pod.college        | available | $5        | $81.98        | medium         | medium | 3      | namecheap                                           |
+| lab.media          | resell    | —         | —             | high           | medium | 3      | Porkbun LLC                                         |
+| pod.art            | premium   | $1,662.50 | $83.30        | medium         | medium | 3      | namesilo                                            |
+| pod.forex          | available | $11.98    | $133.98       | medium         | medium | 3      | namecheap                                           |
+| pod.systems        | resell    | —         | —             | medium         | medium | 3      | Dynadot Inc                                         |
+| pod.associates     | premium   | $118.80   | $118.80       | medium         | medium | 3      | namesilo                                            |
+| pod.holdings       | available | $64.99    | $64.99        | medium         | medium | 3      | namesilo                                            |
+| shop.international | resell    | —         | —             | high           | medium | 4      | Go Canada Domains, LLC                              |
+| pod.bayern         | premium   | $57.72    | $50.99        | medium         | medium | 3      | name.com                                            |
+| pod.ltda           | available | $34.99    | $34.99        | medium         | medium | 3      | namesilo                                            |
+| cells.info         | resell    | —         | —             | medium         | low    | 5      | NameCheap, Inc.                                     |
+| pod.bid            | premium   | $625      | $81.25        | medium         | medium | 3      | name.com                                            |
+| pod.ngo            | available | $16.99    | $16.99        | medium         | medium | 3      | name.com                                            |
+| goods.homes        | resell    | —         | —             | high           | low    | 5      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| pod.cyou           | premium   | $384      | $768          | medium         | medium | 3      | namesilo                                            |
+| pod.rich           | available | $94.99    | $1,999        | medium         | medium | 3      | namesilo                                            |
+| shell.xyz          | resell    | —         | —             | medium         | medium | 5      | Spaceship, Inc.                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 64,933 live domains                        |
+| 1,000-row public sample | 66,528 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 153 high-demand names under $2,500         |
+| Basic exported fields   | 149 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Pharmaceutical Domain Names*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Pharmaceutical Domain Names*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
