@@ -1,748 +1,905 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-878ff537-0a3f-4012-8ab1-ab8de885aaa9,medical.world,resell,,,high,low,7,Porkbun LLC,30/03/2017 13:02,30/03/2027 13:02,
-eecce244-58f0-483a-998a-58eb45d4b494,pharmaceutical.xyz,resell,,,medium,low,14,Dynadot LLC,17/06/2019 07:24,17/06/2027 23:59,
-942a5f07-bbd1-4faa-8959-d1ca04de388a,health.talk,resell,,,high,medium,6,"Spaceship, Inc.",06/10/2025 21:42,06/10/2026 21:42,
-1c2186e0-d954-48d9-a927-9f6597753aa6,research.hair,resell,,,high,low,8,Dynadot LLC,02/09/2021 12:57,02/09/2026 23:59,
+fd87e7bc-bfee-41a2-b707-614d3029e6ee,medicine.cat,available,26.98,38.98,medium,low,8,namecheap,,,20/09/2026 02:42
 cd6cca07-5b54-4827-9c43-5ee56af9233e,prescription.trading,available,19.99,,high,low,12,name.com,,,
-e69d5cf8-facc-4a94-afe4-e6f42adea6df,pharmaceutical.care,premium,21.45,42.9,medium,low,14,namecheap,,,13/09/2026 03:31
-cfd4ba94-5622-4009-af1d-6b1ba8d46249,research.cafe,resell,,,high,low,8,"Global Domains International, Inc. DBA DomainCostClub.com",15/10/2025 15:15,15/10/2026 15:15,
+e69d5cf8-facc-4a94-afe4-e6f42adea6df,pharmaceutical.care,premium,38.94,38.94,low,low,14,namesilo,,,19/09/2026 04:12
 9389143c-c718-436e-b2ca-598f49a0f558,prescription.mobile,premium,750,,high,low,12,name.com,,,
-77f0ec34-2ba5-4382-b60c-8ce6544d06c5,health.cc,resell,,,high,medium,6,Dynadot Inc,09/11/1997 05:00,09/11/2029 05:00,
+483eb11a-b8a9-49bc-a3a2-fbb59f79e43f,medical.ski,available,27.99,64.99,medium,low,7,namesilo,,,20/09/2026 03:07
 98bb45dd-06a9-4b58-a696-d49eb8f557cb,compound.ryukyu,available,22.98,,high,low,8,namecheap,,,
-ac5c0179-caf6-4e89-aeb7-365230a885b7,research.quest,resell,,,high,low,8,Dynadot LLC,27/08/2024 17:22,27/08/2026 23:59,
-cc8ae1b9-be2e-4a3d-8476-250286021318,tablets.limited,available,14.99,,medium,low,7,name.com,,,
-e9aafde4-7106-4f57-be70-d8092256150d,tablets.inc,premium,2170,2800,medium,low,7,namecheap,,,
-54777fd0-b6b5-425a-99e5-5c3ee8864023,tablets.blackfriday,available,134.98,,medium,low,7,namecheap,,,
+00039d73-35f0-409f-a956-8eefc6e65bb2,medical.free,premium,116,116,medium,low,7,namesilo,,,20/09/2026 03:07
+3e2f04c8-c331-444c-b5a8-f58b8178d866,health.work,resell,,,medium,low,6,,,,19/09/2026 10:54
+e04a8117-b4b6-42b1-8227-0b68d5aae4ab,health.credit,resell,,,medium,low,6,Dynadot Inc,19/05/2024 15:15,19/05/2027 15:15,19/09/2026 10:54
 70033c60-19de-4f33-a6cb-42e0782b3087,prescription.moi,available,25.99,25.99,high,low,12,namesilo,,,
-8417d94f-04bb-4cfc-b436-a796ec0f95f9,tablets.tel,available,10.99,,medium,low,7,name.com,,,
-1b07cba1-f54c-4e09-aa26-b4353e6fda3a,tablets.osaka,available,39.99,,medium,low,7,name.com,,,
-c98d90c9-0dfe-4b71-9efa-4ddb209a7c11,tablets.college,available,29.99,,medium,low,7,name.com,,,
-060f7692-3049-40e8-bd8b-ba7c3966b507,tablets.vet,available,50.99,,medium,low,7,name.com,,,
 175cf707-e6e2-4cdc-b688-87168d752d4f,remedy.science,premium,3125,125,medium,low,6,name.com,,,13/08/2026 11:01
-f07c8e2c-5325-4a20-83cd-d0c4fa830cb3,tablets.spot,premium,125,,medium,low,7,name.com,,,
-96b2fe14-8af5-436a-ad9b-14272e522910,tablets.organic,available,19.99,,medium,low,7,name.com,,,
+3f9ab49a-b6bd-4e72-ae76-899593770189,remedy.schule,available,19.99,41.99,medium,low,6,name.com,,,13/08/2026 11:01
+2e6ee16c-fc56-48c4-a2e4-d67a00ba97a0,health.pro,resell,,,medium,low,6,,,,19/09/2026 10:54
+74363aff-2598-4c94-8f5b-b84f828fcbe5,remedy.degree,available,14.99,64.99,medium,low,6,name.com,,,13/08/2026 11:01
 84e90cc4-201d-4bc4-9ea1-b2586196edba,prescription.shop,resell,,,high,low,12,"Go Canada Domains, LLC",26/09/2016 15:00,26/09/2026 23:59,
 3cbd190e-4cbb-44d5-ba4d-5049cd78300a,prescription.desi,available,22.98,,high,low,12,namecheap,,,
-2a96caed-3581-4330-973f-8f8b1637c09d,tablets.training,available,21.99,,medium,low,7,name.com,,,
-ad2b5109-345d-48aa-9d32-6648fbf73a0a,tablets.yoga,available,45.98,,medium,low,7,namecheap,,,
-2e188ae0-8406-40ec-87ab-557a6d79140f,tablets.racing,available,16.98,,medium,low,7,namecheap,,,
-dac82c5a-00ad-4625-8e8a-29ec54f993f2,tablets.immobilien,available,14.99,,medium,low,7,name.com,,,
-6c3ab75a-bdee-49c3-9c92-81972a1f2891,tablets.meme,premium,437.5,,medium,low,7,name.com,,,
-b31e6fa1-89a1-43cc-a6b8-83b2711ee811,tablets.money,available,19.99,,medium,low,7,name.com,,,
-75b17ee9-47dc-4b3e-9039-6449ef690299,tablets.apartments,available,19.99,,medium,low,7,name.com,,,
-7aeaa498-8032-4da1-85e0-505d9a21d9c0,tablets.properties,available,10.99,,medium,low,7,name.com,,,
-cb070779-1c5b-41d5-8397-9eb64049cd2a,research.email,resell,,,high,low,8,"Global Domains International, Inc. DBA DomainCostClub.com",08/11/2025 15:15,08/11/2026 15:15,
+cdc3d6e5-43e2-4535-930e-b407ec02f356,medicine.show,resell,,,medium,low,8,,,,20/09/2026 02:42
+7f003e11-3578-4ae3-8e74-22a868f0f420,health.marketing,resell,,,medium,low,6,,,,19/09/2026 10:54
+6a661f57-5df8-46f3-b0c3-8fdcaddac09b,research.mom,resell,,,medium,low,8,Dynadot Inc,31/07/2026 20:59,31/07/2027 23:59,20/09/2026 02:40
+bbbf9882-c86c-4835-83c5-ec5f2bb9b956,remedy.bargains,available,14.98,37.98,medium,low,6,namecheap,,,13/08/2026 11:01
+c805b47f-2101-47ef-a3fb-4bca5fff2844,medical.shop,premium,6900,6900,medium,low,7,namesilo,,,20/09/2026 03:07
 4ad23ff6-60d7-48bf-b5c0-1e802fd4404d,treatment.shop,premium,625,,high,low,9,name.com,,,
-878e7840-eafa-4ded-ac6c-886fb77c60a5,tablets.archi,available,24.99,,medium,low,7,name.com,,,
-3b0f5ab4-ec0a-4186-8fbe-da58c4a6a33a,tablets.estate,available,14.99,,medium,low,7,name.com,,,
-2d0c3ec1-211b-4a16-b879-2565c9bb89b3,tablets.actor,available,19.99,,medium,low,7,name.com,,,
-0b068352-c895-4a20-93ec-da8d472f14da,tablets.maison,available,19.99,,medium,low,7,name.com,,,
-a1b6aed2-c032-4be0-a04f-a8629c9d4276,tablets.work,premium,125,,medium,low,7,name.com,,,
-92004b3d-d68b-4518-a08c-fab7c260bc9c,tablets.name,available,9.98,,medium,low,7,namecheap,,,
+efbd3dcc-0167-4a9c-98bd-4d5808823bcc,remedy.game,premium,1625,1625,medium,low,6,name.com,,,13/08/2026 11:01
+a2feb03f-c2fc-4624-a733-7cd7cbeace8b,remedy.lat,available,1.8,40.98,medium,low,6,namecheap,,,13/08/2026 11:01
+f24759f3-3545-4863-8722-b7bc9af9cb6f,remedy.training,available,8.98,53.98,medium,low,6,namecheap,,,13/08/2026 11:01
+621fc547-8ab1-4991-a7d4-a3b860c028f0,drugstore.miami,available,23.49,23.49,medium,low,9,namesilo,,,19/09/2026 19:43
 facaccf2-22b2-4b43-b673-219ff7b18019,prescription.forex,available,19.99,,high,low,12,name.com,,,
-6aafc856-0b03-4e45-8b20-f5e9b43062d1,tablets.sex,available,154.98,,medium,low,7,namecheap,,,
-e8e2f454-3462-4994-b094-2dbc3e37eca9,tablets.domains,available,19.99,,medium,low,7,name.com,,,
 60c5acb5-449b-4811-8d32-f563551502f6,remedy.tel,premium,10.62,10.62,medium,low,6,namesilo,,,13/08/2026 11:01
+0d9966ae-8fe0-4111-a166-a3f30cc58d30,clinical.dad,premium,161.25,161.25,medium,low,8,name.com,,,12/08/2026 11:04
 7d943b16-e341-43b7-af06-8acae2b56bba,prescription.paris,available,51.98,,high,low,12,namecheap,,,
 327c4c2b-aff9-43fc-be4f-0b9a8b3c4466,remedy.cooking,available,32.49,32.49,medium,low,6,namesilo,,,13/08/2026 11:01
 58047e12-4b46-47bd-8a68-5115a9a8eedf,remedy.poker,available,5.98,85.98,medium,low,6,namecheap,,,13/08/2026 11:01
 4ca6ca12-c7e4-4cdc-b8cb-ed4d3a8704a2,remedy.bot,resell,,,medium,low,6,"Spaceship, Inc.",16/05/2025 20:27,16/05/2027 20:27,13/08/2026 11:01
-8f6f0e7c-38b8-4af5-9a05-f19a8b47756a,tablets.credit,available,11.99,,medium,low,7,name.com,,,
 c66799de-6e95-4e6d-a4a1-f41bd5ccc10c,remedy.institute,available,5.98,37.98,medium,low,6,namecheap,,,13/08/2026 11:01
-5af94d6f-2b81-418a-88ed-616614613470,tablets.industries,available,17.49,,medium,low,7,name.com,,,
-7861cb68-3d7e-4ac4-becc-49f889037954,tablets.nexus,premium,311.25,,medium,low,7,name.com,,,
-cd023946-a444-4580-b9e0-18ca6d4c90b2,tablets.pw,premium,1295.84,,medium,low,7,name.com,,,
-0b18e2ce-0db8-49ec-ade1-12439f1b2937,tablets.cards,available,3.99,,medium,low,7,name.com,,,
-ca58d9bd-8575-48dc-9622-19507401d69d,tablets.agency,available,7.99,,medium,low,7,name.com,,,
-751d7fe2-9b31-42d1-84d1-951c1c284381,tablets.capital,available,9.99,,medium,low,7,name.com,,,
+0ac4bea2-5179-4778-a97a-5e8c290a7c5b,clinical.town,available,6.98,47.48,medium,low,8,namecheap,,,12/08/2026 11:04
 74ea7ae2-266e-41b4-860a-db33d903e414,remedy.miami,available,23.49,23.49,medium,low,6,namesilo,,,13/08/2026 11:01
-73295fdc-3d74-4b79-a6e5-ffb9178d92fa,pills.report,available,14.99,,medium,low,5,name.com,,,
-b9b7290c-398e-4ab9-8fba-47fd3bf26a41,tablets.immo,available,14.99,,medium,low,7,name.com,,,
 96d75dd1-7391-424c-9d33-518178a18148,remedy.futbol,available,5.98,21.98,medium,low,6,namecheap,,,13/08/2026 11:01
-43fbcf5c-f0fc-499a-853a-ae7280daea55,tablets.report,available,14.99,,medium,low,7,name.com,,,
-524bc4f8-07dc-4dc9-8671-d879f7735bb6,tablets.furniture,available,39.99,,medium,low,7,name.com,,,
-48cc6aaa-a72d-4da5-97e1-514aa31e1011,tablets.loan,available,9.98,,medium,low,7,namecheap,,,
+bdf9384e-8f64-4a60-8b1a-05a02e383d4c,safety.cab,available,32.99,32.99,medium,low,6,namesilo,,,08/09/2026 08:04
+a5ea1db2-221c-4c07-a4e0-006f44e211f1,drugstore.vodka,available,33.98,43.98,medium,low,9,namecheap,,,19/09/2026 19:43
 dfbaee2e-b970-42bf-86bd-f7b78bdd6caa,remedy.watch,available,3.48,56.98,medium,low,6,namecheap,,,13/08/2026 11:01
-b302c1f2-f13c-430a-8a9b-5e0900a02694,tablets.vote,available,49.99,,medium,low,7,name.com,,,
+26e06309-a06f-4b5b-b50e-ced8fc2f7883,clinical.mx,available,22.98,58.98,low,low,8,namecheap,,,12/08/2026 11:04
 ecd859d4-cbe9-4004-b6c8-0362feff30f4,prescription.construction,available,15.99,,high,low,12,name.com,,,
-dd07ec9b-c435-4208-8160-8dadf343bfb1,pills.menu,available,27.99,27.99,medium,low,5,namesilo,,,
-c043a0fd-9897-489e-a1fa-d5ec65232815,tablets.fashion,available,45.98,,medium,low,7,namecheap,,,
-f44d6b21-7508-493f-a02c-1e4ac8f3abd8,tablets.hockey,available,14.99,,medium,low,7,name.com,,,
-4f641c8e-aef3-4163-885f-6c61ae343168,tablets.download,premium,125,,medium,low,7,name.com,,,
-eee2383e-d2b7-4a1b-a1b3-de97c43cf1ca,tablets.stream,available,9.98,,medium,low,7,namecheap,,,
 ea3cf25c-ccee-499a-84b7-6d927c4099f8,remedy.style,available,7.98,49.98,medium,low,6,namecheap,,,13/08/2026 11:01
-447eb582-2b59-4c4c-9d3e-4bc3f1cf3713,pills.company,available,3.99,,medium,low,5,name.com,,,
-b5ae7325-e6ce-44bb-b47f-0c2fdabccee3,pills.foundation,available,5.99,,medium,low,5,name.com,,,
+e2e50fcd-6131-4f94-b9cf-532c854296b1,clinical.mov,premium,161.25,161.25,low,low,8,name.com,,,12/08/2026 11:04
+7e8b2e6d-5dc5-4f70-8eb7-bde29847b096,drugstore.mobile,premium,780,780,medium,low,9,namecheap,,,19/09/2026 19:43
+fc7f7bfb-57b2-40fc-835d-c6c01b06dacd,drugstore.storage,available,538.98,858,medium,low,9,namecheap,,,19/09/2026 19:43
+0eb92a14-2cb8-42c9-9c06-31ad31b58a3d,clinical.condos,available,58.99,58.99,low,low,8,namesilo,,,12/08/2026 11:04
 d1c26ab1-4e10-48fd-9eb2-2a803afcbe56,biomedical.hospital,available,55.98,71.98,medium,low,10,namecheap,,,10/08/2026 02:15
-95c0571b-a257-4f39-88d1-a251edba62b9,pills.haus,available,19.99,,medium,low,5,name.com,,,
 62ff7fc9-ba9e-4c6b-94a0-21b38b0b1312,remedy.place,available,22.49,22.49,medium,low,6,namesilo,,,13/08/2026 11:01
-397d5a17-a292-4369-a092-01c4934f5790,tablets.la,available,39,,medium,low,7,name.com,,,
-3d782628-9e9e-453f-a9e5-cc56fb12ef1e,pills.builders,available,7.99,,medium,low,5,name.com,,,
+3235aadb-1895-4802-8d14-c8cd316388b8,drugstore.holdings,available,64.99,64.99,medium,low,9,namesilo,,,19/09/2026 19:43
+fd3151fe-fa35-40b5-8437-7612de682de1,drugstore.taxi,available,8.98,69.98,medium,low,9,namecheap,,,19/09/2026 19:43
 8bc380e3-485a-44d6-bf88-5b1e709be426,clinical.vision,premium,78.54,78.54,medium,low,8,namesilo,,,12/08/2026 11:04
-bf153529-fb2a-477b-9b00-2b8cb7c35480,pills.security,available,1999.99,2049.99,medium,low,5,namesilo,,,
 2387c309-eed0-4f22-b2db-3225a9efa97d,remedy.estate,available,6.98,52.98,medium,low,6,namecheap,,,13/08/2026 11:01
 3b0888b8-eb31-48f9-b26d-40cefd2a2784,remedy.immo,available,14.99,45.99,medium,low,6,name.com,,,13/08/2026 11:01
-e4f681aa-0664-41f6-a685-6a33e31b0401,pills.organic,available,19.99,,medium,low,5,name.com,,,
-c671c2d9-40f3-4ce4-b5aa-4479a22c5fb0,pills.deals,available,5.99,,medium,low,5,name.com,,,
+ab344ca0-5974-42c4-a561-bef41e68d116,drugstore.rest,available,2.19,28.99,medium,low,9,namesilo,,,19/09/2026 19:43
+d3b7f681-55b6-4dc1-8a15-c7795fe0bc90,clinical.dentist,premium,500,500,low,low,8,name.com,,,12/08/2026 11:04
+98dfd3d1-cfff-46d9-ae9a-13b6b4a88250,capsule.engineer,available,17.99,56.99,medium,low,7,name.com,,,11/08/2026 18:13
 840287b5-61fd-4f9b-a8a7-a1143a25e31a,clinical.osaka,available,32.98,41.98,low,low,8,namecheap,,,12/08/2026 11:04
-53db2ac6-b440-4c12-9d42-10b009773c0a,tablets.deal,premium,125,,medium,low,7,name.com,,,
+f2a67e1e-0002-4c5d-9aef-3d68e8553efc,drugstore.moda,available,41.99,41.99,medium,low,9,namesilo,,,19/09/2026 19:43
 244198a7-9970-41c4-9a07-025b7d34c3da,remedy.financial,available,17.48,66.98,medium,low,6,namecheap,,,13/08/2026 11:01
-b4be4159-ca55-4aea-8308-f89cb12d261f,pills.men,available,5.25,6.25,medium,low,5,namesilo,,,
-ea3b2c1d-b769-401a-ae80-fa0fae7db588,pharmaceutical.marketing,available,6.98,53.98,low,low,14,namecheap,,,13/09/2026 03:31
+0697c13a-aba8-4918-afc6-b4660a886897,capsule.asia,available,1.98,18.98,medium,low,7,namecheap,,,11/08/2026 18:13
 080c2d97-8f7f-4229-b1fa-ae965d30c0dc,clinical.ooo,available,24.99,24.99,low,low,8,namesilo,,,12/08/2026 11:04
-df69e1c5-82af-4b1c-b619-d9ef15eb4e40,pills.salon,available,14.99,,medium,low,5,name.com,,,
+3fa24a0b-27ab-4f0c-b3c9-a215c0d780c8,health.cheap,resell,,,medium,low,6,,,,19/09/2026 10:54
 f85641c6-7391-4f14-9335-8f3c46f44589,remedy.holiday,available,9.99,83.99,medium,low,6,name.com,,,13/08/2026 11:01
 51882264-9c11-4ccc-a73c-4dcbaa96271b,clinical.makeup,available,1.8,19.98,low,low,8,namecheap,,,12/08/2026 11:04
+0ae777f9-c384-404f-aaae-34a6cc750df0,drugstore.mom,available,1.99,27.99,medium,low,9,namesilo,,,19/09/2026 19:43
+ef0d4561-789f-4ac2-89fe-cb159c5175da,drugstore.cards,available,38.99,38.99,medium,low,9,namesilo,,,19/09/2026 19:43
 c17ac2f4-49e6-4e66-983e-54ed4f3d3724,capsule.media,resell,,,medium,low,7,"DNSPod, Inc.",23/01/2025 15:15,23/01/2027 15:15,11/08/2026 18:13
-d9032cbc-c06c-40f2-87fc-6c819fa252f5,pills.boston,available,23.49,23.49,medium,low,5,namesilo,,,
-a45b975c-bf78-4d2d-9f4b-dc3197c3b422,pills.yoga,available,32.49,32.49,medium,low,5,namesilo,,,
-0e97719e-fbc8-4ee0-8eb5-086e521f03b3,tablets.rodeo,available,16.99,,medium,low,7,name.com,,,
-e42ab6f2-432a-4e16-b45b-42abaaf474b7,tablets.city,available,7.99,,medium,low,7,name.com,,,
-7079a8a1-f25c-4cef-a267-e98fb313d223,pills.engineering,available,11.99,,medium,low,5,name.com,,,
-28477765-9d3b-4d86-a984-720676b044a1,pills.markets,available,9.99,,medium,low,5,name.com,,,
+f5b07fd9-398d-40d3-8173-764a493d6759,drugstore.qpon,premium,640,23.54,medium,low,9,namesilo,,,19/09/2026 19:43
 5920787e-faba-4749-b2e6-a6f93f0845a5,remedy.phd,premium,111.25,111.25,medium,low,6,name.com,,,13/08/2026 11:01
+3d652d36-65ab-4780-bb07-63c402fe968a,capsule.lgbt,available,11.98,93.98,medium,low,7,namecheap,,,11/08/2026 18:13
 53d90000-24ce-44b1-baa5-a11a60b21d50,clinical.bet,available,8.98,35.98,low,low,8,namecheap,,,12/08/2026 11:04
-589110ea-a63d-4ca6-95e8-4a3c9927aaa3,tablets.motorcycles,available,1.99,,medium,low,7,name.com,,,
 44223bf8-0b94-4319-83f5-f352ef02cc4e,clinical.bid,premium,437.5,62.5,low,low,8,name.com,,,12/08/2026 11:04
-ade55b1f-057a-43a3-957b-5e3b85393868,pills.fyi,premium,17.7,17.7,medium,low,5,namesilo,,,
+627065c9-950e-45e1-93ea-026eb2de1289,capsule.talk,available,41.98,46.98,medium,low,7,namecheap,,,11/08/2026 18:13
+13c82785-9c12-4954-8d4c-4037264d9f4f,drugstore.photography,available,14.49,36.49,medium,low,9,namesilo,,,19/09/2026 19:43
 78e5cdcc-baa2-47f3-bc32-de00f57fb4bf,capsule.prof,premium,111.25,111.25,medium,low,7,name.com,,,11/08/2026 18:13
 ca359b85-bd77-4f39-a8f6-b01adda78e17,clinical.lat,available,1.8,40.98,low,low,8,namecheap,,,12/08/2026 11:04
 d1799e60-b046-4697-bcb8-deced83b9b79,biology.ryukyu,available,22.98,,high,low,7,namecheap,,,
+dcef571e-64db-4d3f-ab57-0b94a759d0b1,drugstore.best,premium,96.5,96.5,medium,low,9,namesilo,,,19/09/2026 19:43
+ea3b2c1d-b769-401a-ae80-fa0fae7db588,pharmaceutical.marketing,available,8.99,41.99,low,low,14,namesilo,,,19/09/2026 04:12
 dca2a0b8-021e-4161-adfa-4ca302da8355,biology.network,resell,,,high,low,7,"Sav.com, LLC - 37",16/10/2025 15:15,16/10/2026 15:15,
 d8ba4d38-e0b6-4567-a2c6-533100021e19,extra.shop,premium,1107,1107,high,low,5,namesilo,,,
+af979a96-7cda-411a-bb65-f91ef51d4cd6,capsule.trading,available,19.99,19.99,medium,low,7,name.com,,,11/08/2026 18:13
 6f772297-328b-4df2-8125-0dfaa203d1ce,clinical.clothing,available,19.99,46.99,low,low,8,name.com,,,12/08/2026 11:04
-2abfae6a-b3c5-4e64-93a4-154dc633a3fb,pills.broker,available,19.99,,medium,low,5,name.com,,,
-ecead931-a363-4b8f-8bd6-8e17cad6dd24,tablets.marketing,available,9.99,,medium,low,7,name.com,,,
+5c89df0a-fb48-4214-9dff-59b2419fa204,drugstore.democrat,available,7.25,32.99,medium,low,9,namesilo,,,19/09/2026 19:43
+c1f25bdd-66da-4ae4-b350-e58d34e54ec9,capsule.sydney,available,44.98,54.98,medium,low,7,namecheap,,,11/08/2026 18:13
+fa4ee061-6586-48bf-9cf8-4317556b7432,capsule.courses,available,1.98,50.98,medium,low,7,namecheap,,,11/08/2026 18:13
 4dab7200-b6c7-4cb9-8ce5-3a21b2dfe01c,clinical.fashion,available,32.49,32.49,low,low,8,namesilo,,,12/08/2026 11:04
-e0932475-bb0b-4b45-82c8-45ac49687174,tablets.investments,available,14.99,,medium,low,7,name.com,,,
 fe26548f-b6d5-4332-a3cd-0f6bceb2ac12,capsule.report,available,10.48,34.48,medium,low,7,namecheap,,,11/08/2026 18:13
-1162ff0a-9daf-4969-b178-0952be0b35a3,tablets.kim,available,14.99,,medium,low,7,name.com,,,
-5963fbd8-9c9a-48cb-8a01-8416cc6f4d75,tablets.gifts,available,9.99,,medium,low,7,name.com,,,
-2693c8eb-7d94-40ad-9570-641bf147a8fb,tablets.social,available,11.99,,medium,low,7,name.com,,,
 580a329c-2c6d-4a7b-bdfb-c6778b4cdfcd,clinical.camp,available,11.99,77.99,low,low,8,name.com,,,12/08/2026 11:04
-99b94b44-880f-4449-a8ef-4f438cc22285,tablets.hiphop,available,33.98,,medium,low,7,namecheap,,,
-f30e7441-4f5a-4943-8c5a-28f10e7935b0,pills.hiv,available,184.99,,medium,low,5,name.com,,,
-da2c36e8-6e7f-4675-9658-31eb91085ae4,pills.cash,available,17.99,,medium,low,5,name.com,,,
+6df25829-c4fb-4f5c-ad53-6126ad811714,drugstore.berlin,available,79.98,89.98,medium,low,9,namecheap,,,19/09/2026 19:43
+2c539a7b-0f4a-488b-9ffd-b8bf05d4638b,drugstore.bike,available,12.99,38.99,medium,low,9,namesilo,,,19/09/2026 19:43
+1ee5ea44-7800-4bb8-b266-527a90dda70f,drugstore.hospital,available,57.99,57.99,medium,low,9,namesilo,,,19/09/2026 19:43
 5903bb72-22a6-424a-924a-c8eaf81a7463,clinical.science,premium,625,81.25,medium,low,8,name.com,,,12/08/2026 11:04
 89c3eb97-f6a0-4f55-a3a5-73ff9a2a3c44,remedy.melbourne,available,44.98,53.98,medium,low,6,namecheap,,,13/08/2026 11:01
 58e29a07-14b3-4c27-8678-0eeecef8a0ca,remedy.maison,available,24.99,83.99,medium,low,6,name.com,,,13/08/2026 11:01
-5458d6eb-79cf-4f22-b327-117a3b174881,pills.forex,available,19.99,,medium,low,5,name.com,,,
 7fca8d50-50b2-4e2f-8225-1d48f6d11681,clinical.website,premium,625,1250,low,low,8,name.com,,,12/08/2026 11:04
+8b015bcb-cf34-4894-9679-4252ad5b4230,drugstore.style,available,16.99,38.99,medium,low,9,namesilo,,,19/09/2026 19:43
 b155b9d1-eec6-476f-8dad-cfa84df93676,remedy.cafe,available,5.98,64.98,medium,low,6,namecheap,,,13/08/2026 11:01
 993b59b2-a4ad-4170-995f-5afea7dc9b99,clinical.vegas,available,12.99,43.99,low,low,8,namesilo,,,12/08/2026 11:04
 2ef8dad2-d876-4e3b-a09e-e2e2c2497776,clinical.construction,available,15.99,50.99,low,low,8,name.com,,,12/08/2026 11:04
 283265e6-c8f9-454f-96dc-75462aa1983c,goods.new,available,549.99,,high,low,5,name.com,,,
-c2e9ff15-29c4-4e63-847f-c4cfab07d2a3,pills.productions,available,14.99,,medium,low,5,name.com,,,
-8a460334-2569-4066-9c19-7888729710b4,tablets.horse,available,43.98,,medium,low,7,namecheap,,,
-29d3f404-fafb-468a-bfc4-dd915fd59e38,trials.institute,available,9.99,,medium,low,6,name.com,,,
 50730e0c-473b-4451-9ea7-7ac35685cab3,remedy.rodeo,available,12.99,12.99,medium,low,6,namesilo,,,13/08/2026 11:01
+0187bdce-c9f5-4f80-ae50-d2ad19498ed6,drugstore.cooking,available,32.49,32.49,medium,low,9,namesilo,,,19/09/2026 19:43
+4a2025a0-7fc6-4fb1-a942-0c5cc37b6d36,medicine.kim,available,5.98,32.98,medium,low,8,namecheap,,,20/09/2026 02:42
 dc9f2c8b-1b42-4515-83a3-b5f2d4e4dd44,clinical.broker,available,11.98,47.98,low,low,8,namecheap,,,12/08/2026 11:04
-38b4c6a1-45da-4657-a4eb-f5133fb78954,tablets.ski,available,39.99,,medium,low,7,name.com,,,
-e4c2cf79-bf67-4e96-9453-b581fb3ac6b1,pills.associates,available,21.99,,medium,low,5,name.com,,,
 98bf5808-7ccb-4442-ae5b-d3db6cad1d64,clinical.reisen,available,3.99,20.99,low,low,8,namesilo,,,12/08/2026 11:04
-55028c7e-4207-4624-8d5f-2116ede9af66,pills.rentals,available,14.99,,medium,low,5,name.com,,,
 f193f47c-4a89-4cfb-ae7f-360eec93bb78,clinical.wine,available,8.48,75.98,low,low,8,namecheap,,,12/08/2026 11:04
-e201136d-e057-4183-bfab-622e438081e9,pills.music,available,52.48,,medium,low,5,namecheap,,,
 d4690023-dc0b-4e8f-b9a1-a91e693e4f4c,remedy.soccer,available,19.99,37.99,medium,low,6,name.com,,,13/08/2026 11:01
-51db5cf8-a3be-41ce-8dc6-8506666080b3,trials.town,available,9.99,,medium,low,6,name.com,,,
-eae37fd0-bd17-43d6-aecb-a2ab607ffad2,tablets.taxi,available,10.99,,medium,low,7,name.com,,,
 d31c9330-1315-46cb-be27-219bf4cde866,lab.audio,available,104.99,114.99,high,medium,3,namesilo,,,
-5807c4fe-5e83-4ccd-bd42-344e5362f633,pills.vip,premium,218.75,,medium,low,5,name.com,,,
-5ec05566-9b46-4d14-8043-bddcf3623080,tablets.media,available,7.99,,medium,low,7,name.com,,,
-bde55a58-6c1e-4c23-994a-35e8fc4b6c10,pills.law,available,95.99,95.99,medium,low,5,namesilo,,,
 6ae3ce35-1c26-48a4-87a3-ec4ba4a7e6f7,remedy.guitars,available,104.99,114.99,medium,low,6,namesilo,,,13/08/2026 11:01
 357180f0-516a-41fc-a287-5edc2c4deef5,remedy.ltda,available,34.99,34.99,medium,low,6,namesilo,,,13/08/2026 11:01
-d5156428-8004-4fd4-bb1a-0ece680c4b34,tablets.creditcard,available,9.99,,medium,low,7,name.com,,,
 f6463ac4-ec13-4f46-ba04-bb15d9ec49d0,remedy.rent,available,5,81.98,medium,low,6,namecheap,,,13/08/2026 11:01
+b2c19566-9778-4731-b43a-06bf141f54d0,drugstore.memorial,available,52.99,52.99,medium,low,9,namesilo,,,19/09/2026 19:43
 cdf142fb-7e0e-4813-972f-4ca8b89f9d25,capsule.properties,available,10.99,50.99,medium,low,7,name.com,,,11/08/2026 18:13
 1fe38735-5dc9-462e-b936-f51c199612d8,capsule.degree,available,14.99,64.99,medium,low,7,name.com,,,11/08/2026 18:13
 5be4fa97-d2b7-4fda-887b-913ad13c7a62,clinical.money,available,11.98,38.98,low,low,8,namecheap,,,12/08/2026 11:04
-0e6b5aa4-4a10-4b85-b98a-ea4d96c26a9d,tablets.hair,available,1.99,,medium,low,7,name.com,,,
 58ee3702-167c-44af-9083-3e7e5334fff8,pod.healthcare,premium,118.8,118.8,medium,medium,3,namesilo,,,12/08/2026 15:05
 d48952f9-24f5-48d4-9292-f2ce4794340a,remedy.community,available,14.99,65.99,medium,low,6,name.com,,,13/08/2026 11:01
 bf530eb8-f0d2-4eb9-8bc1-87a8a6fb2fc0,capsule.condos,available,61.98,72.98,medium,low,7,namecheap,,,11/08/2026 18:13
 4c387ea7-90a0-48ee-8d8d-d05a56f5dc83,capsule.bargains,available,14.98,37.98,medium,low,7,namecheap,,,11/08/2026 18:13
+722a0f8f-bb7e-46c9-ae00-6ca4c9cb3f97,products.healthcare,premium,118.8,118.8,low,low,8,namesilo,,,08/09/2026 11:31
+66168c91-c470-4a24-b57a-886a3b719f07,drugstore.ca,resell,,,medium,low,9,,,,19/09/2026 19:43
+ccc19722-6092-4f38-bc40-50f470a35e6d,biologic.vodka,available,33.98,43.98,medium,low,8,namecheap,,,10/08/2026 02:14
 c1bf7c63-d140-45e4-a654-119d05abf3b5,capsule.feedback,available,9.98,489.98,medium,low,7,namecheap,,,11/08/2026 18:13
-77483a46-8ec9-4bac-8c28-2d0f42fa18c2,pills.supply,available,25.99,25.99,medium,low,5,namesilo,,,
-a7345bcb-721a-40a3-b822-2e103f7d2b09,pills.living,premium,98,140,medium,low,5,namecheap,,,
 11236173-e6e3-42b4-9b36-81c4da7cddaa,clinical.cafe,available,5.98,64.98,low,low,8,namecheap,,,12/08/2026 11:04
+eeeb46de-fc0c-44c6-ab13-f0d5e1b72600,biologic.enterprises,available,5.99,50.99,low,low,8,name.com,,,10/08/2026 02:14
+14df8faa-f4e6-45e2-9f37-577675f36fb0,drugstore.construction,available,38.99,38.99,medium,low,9,namesilo,,,19/09/2026 19:43
 e1b82232-24dc-4568-951a-b2efaeb07772,vaccination.channel,available,16.48,,high,low,11,namecheap,,,
 f6fd1dc8-294b-4eda-b52e-c8fb0c09c3dd,capsule.vacations,available,9.99,50.99,medium,low,7,name.com,,,11/08/2026 18:13
-cba4cd22-6b1e-46e4-bd1e-f1c188c2f8e5,trials.house,available,27.99,,medium,low,6,name.com,,,
-9618eb83-c2a7-43b9-a75c-b23acd9a33fb,trials.ski,available,39.99,,medium,low,6,name.com,,,
 13084953-96f9-4ba5-9ab3-86a1740c8dd8,capsule.lat,available,1.8,40.98,medium,low,7,namecheap,,,11/08/2026 18:13
-9da95747-4277-474a-9060-61ed620e4f75,tablets.eco,available,64.99,,medium,low,7,name.com,,,
-2d3e6082-a2ca-4500-952f-df3b00c918f9,distribution.top,resell,,,medium,low,12,西部数码国际有限公司,20/04/2017 15:12,20/04/2027 15:12,
 70e086b0-3fac-4afa-8db7-2eb3fa4624aa,vaccination.eco,available,64.99,,high,low,11,name.com,,,
-85a1a759-f6c4-4ce0-ada3-de2b89336d6c,tablets.news,available,17.99,,medium,low,7,name.com,,,
+f83e9e52-aaba-48fe-a3b7-8200c73764c0,drugstore.viajes,available,43.98,57.98,medium,low,9,namecheap,,,19/09/2026 19:43
 9aa7089f-aefb-4099-b153-54998504b4ba,clinical.boutique,available,2.98,41.98,low,low,8,namecheap,,,12/08/2026 11:04
-b538a877-caa8-4b56-bf1b-d08c69963945,tablets.hiv,available,184.99,,medium,low,7,name.com,,,
-b827b047-3885-4906-9f3e-d9218a2e030c,pills.photography,available,9.99,,medium,low,5,name.com,,,
-82c32529-d92f-4be0-a833-2890e8bb4957,trials.music,available,52.48,,medium,low,6,namecheap,,,
+e6b61faf-4d1f-4601-ba5d-dc924e15c887,drugstore.help,resell,,,medium,low,9,,,,19/09/2026 19:43
 dcce4d2f-00aa-4454-855b-a0105639b150,capsule.equipment,available,19.99,41.99,medium,low,7,name.com,,,11/08/2026 18:13
+4a50a9d4-5bf3-401b-9dc6-58c2b5ed9316,drugstore.degree,available,52.99,52.99,medium,low,9,namesilo,,,19/09/2026 19:43
 32a90be7-df07-49b3-995d-698797527787,remedy.sucks,premium,2658.67,2658.67,medium,low,6,namesilo,,,13/08/2026 11:01
-a95fd1a7-fe27-4ba6-adde-3a6de0fd82cc,tablets.cafe,available,7.99,,medium,low,7,name.com,,,
 046bf1a1-fb55-4cd7-83ea-844c1d7ffb6b,remedy.blackfriday,available,114.99,114.99,medium,low,6,namesilo,,,13/08/2026 11:01
 5103fbdf-54ff-4fd9-9244-5e29263267b2,testing.shop,premium,625,,high,low,7,name.com,,,
+a886e06d-385e-4dba-b157-b2acace854df,drugstore.pizza,available,17.99,64.99,medium,low,9,namesilo,,,19/09/2026 19:43
 85242d48-39d2-452c-bc65-579b858ebcce,clinical.fm,available,69.98,118.98,low,low,8,namecheap,,,12/08/2026 11:04
-558d5cd8-d874-4c82-bd6c-3f4c158cc169,trials.gift,available,23.98,,medium,low,6,namecheap,,,
 d2de3eed-f31c-464b-9205-c566e0a25147,remedy.social,resell,,,medium,low,6,Squarespace Domains II LLC,05/02/2025 15:15,05/02/2027 15:15,13/08/2026 11:01
 47e8f6dc-e691-40a9-aa62-cef93b3a8e67,clinical.fan,available,11.99,71.99,low,low,8,name.com,,,12/08/2026 11:04
+cf7bd64c-2062-45ac-8cb3-bec7c3229306,drugstore.auction,available,38.98,46.98,medium,low,9,namecheap,,,19/09/2026 19:43
+4c3c79e3-b0e6-40a0-b906-dafdbcbaa4e9,biologic.house,available,12.98,55.98,low,low,8,namecheap,,,10/08/2026 02:14
 bc09e72c-98a3-4b2b-a718-f65d9b9be17e,prescription.broker,available,19.99,,high,low,12,name.com,,,
 8d0df4ce-9513-42b1-80f3-5882817d99ef,remedy.glass,available,72.99,72.99,medium,low,6,namesilo,,,13/08/2026 11:01
-0dbb40ef-90ac-4c0c-9231-7ca80d29792f,trials.adult,available,166.98,,medium,low,6,namecheap,,,
-7d8eb615-0914-4e61-aa94-bf86c9d95592,pills.promo,available,19.99,,medium,low,5,name.com,,,
-48992879-728a-40ec-86bf-ea459c3e2c3c,trials.news,available,17.99,,medium,low,6,name.com,,,
-0a014632-6d51-4eda-9819-7587ea6677ea,pills.bz,available,25,,medium,low,5,name.com,,,
 8cf4ecd2-b0d2-4a30-ac9d-cf037f80f70e,clinical.work,resell,,,low,low,8,West263 International Limited,14/05/2017 16:58,14/05/2027 16:58,12/08/2026 11:04
 c0660263-741a-41a6-818f-b2bdab26600a,remedy.jewelry,available,19.99,84.99,medium,low,6,name.com,,,13/08/2026 11:01
+33a1070c-0d9b-4e77-b3e3-f3620409b005,drugstore.team,available,7.49,36.49,medium,low,9,namesilo,,,19/09/2026 19:43
+eb98370e-02e2-48c9-b6de-023a32563e78,chemical.diet,available,104.99,114.99,low,low,8,namesilo,,,08/09/2026 15:30
 fac1d2e9-4d5c-4ea0-be29-7eda90299b82,vaccination.broker,available,19.99,,high,low,11,name.com,,,
-03902b41-b9d2-4fab-bd9a-a2f1645802e2,trials.coupons,available,3.99,,medium,low,6,name.com,,,
-5b1a1982-1b1f-4c3d-a2a2-fbaf6132b7b5,pharmaceutical.mobile,premium,780,780,low,low,14,namecheap,,,13/09/2026 03:31
-55a60e04-746c-4da5-afb0-67d72b6f6dd3,science.trading,available,21.98,27.98,medium,medium,7,namecheap,,,08/09/2026 14:15
-efbcf0dc-0e9c-4070-b64e-6c3e084ae260,trials.kids,available,9.99,,medium,low,6,name.com,,,
+01655ef8-e3bd-48af-9f86-f99c138bf384,cells.ski,available,39.99,,medium,low,5,name.com,,,
+f168b3a6-9418-4dc7-8dde-26f0529757a6,pod.science,premium,625,81.25,medium,medium,3,name.com,,,12/08/2026 15:05
+ed1d23b6-07fa-4250-986e-56fa6ac2cae3,drugstore.party,premium,455,65,medium,low,9,namecheap,,,19/09/2026 19:43
+d2652ee7-7ea8-4dc8-8c3d-65032ada2460,drugstore.watch,available,5.99,44.49,medium,low,9,namesilo,,,19/09/2026 19:43
+c37e365c-b755-468f-addd-2696910d4cb9,cells.voyage,available,9.99,,medium,low,5,name.com,,,
 d02db209-47da-4ab5-a953-282c0fa14e6e,biologic.vin,available,6.98,75.98,medium,low,8,namecheap,,,10/08/2026 02:14
-3e16bc3b-6155-4759-a0ef-079689f8c78d,trials.game,available,349.99,,medium,low,6,name.com,,,
 c25369ca-6669-40d9-b4c8-e26ca6f82ddc,clinical.email,available,4.98,40.98,low,low,8,namecheap,,,12/08/2026 11:04
-58a4f77d-f1f4-4663-8010-dfa8fd3ce165,trials.trading,available,19.99,,medium,low,6,name.com,,,
 8df1d214-3f1a-49a5-88a0-c3181a715d91,biologic.ninja,available,9.99,39.99,medium,low,8,name.com,,,10/08/2026 02:14
+9b8429bd-754d-4362-bd55-bfbeb654925e,cells.adult,available,166.98,,medium,low,5,namecheap,,,
 96f2f65a-08b1-4b13-b387-61e354c3a233,clinical.photos,available,8.98,40.98,low,low,8,namecheap,,,12/08/2026 11:04
+f9a6f3f6-317f-40ee-be4b-22e7db79ba94,supply.services,premium,242,242,medium,low,6,namesilo,,,19/09/2026 06:48
+92a431c9-d4f4-4b3c-a448-3dbad385d095,cells.systems,available,21.99,,medium,low,5,name.com,,,
 5022bb6b-1dc4-4dc3-ad93-0bc931dab258,remedy.viajes,available,37.99,37.99,medium,low,6,namesilo,,,13/08/2026 11:01
-717402f6-ab7f-4263-b2b1-4bf4ee28bbcd,tablets.claims,available,19.99,,medium,low,7,name.com,,,
 63978c6d-5733-47e2-85e4-6db1b2f38359,pill.gg,available,82.98,,medium,low,4,namecheap,,,
-9d86d500-054c-4852-ac8c-67dea5c8adc5,pills.diy,premium,87.5,,medium,low,5,name.com,,,
+31d09979-0a9f-4b53-b527-34e079500c78,biologic.giving,available,5.99,40.99,low,low,8,name.com,,,10/08/2026 02:14
+20b307c7-fe1b-4346-a660-c3a7420b18c4,biologic.golf,available,6.98,83.98,low,low,8,namecheap,,,10/08/2026 02:14
+f8b5f1a0-6f9d-4cee-a6a8-a2677fde14f5,drugstore.homes,available,1.99,17.29,medium,low,9,namesilo,,,19/09/2026 19:43
 7e9fd4f1-e8c8-4127-bc8e-0ccae85c8417,biologic.srl,available,31.99,31.99,low,low,8,namesilo,,,10/08/2026 02:14
-3a22cd9c-7a44-4e20-961d-a466dda5f36d,tablets.live,available,3.99,,medium,low,7,name.com,,,
+bccb68c5-e2f0-4404-84b4-bb703961ece0,cells.film,available,89.99,,medium,low,5,name.com,,,
+17bb583f-6c74-4978-ac83-e39881cfe4e8,chemical.salon,available,55.98,69.98,low,low,8,namecheap,,,08/09/2026 15:30
+b44cde61-fc35-4c57-89a2-c4de50d1a165,chemical.fast,premium,53.92,53.92,low,low,8,namesilo,,,08/09/2026 15:30
 ca77b3c7-e693-4440-8452-f42becb65d07,capsule.gives,available,5.99,40.99,medium,low,7,name.com,,,11/08/2026 18:13
-e7a0d1b4-58ac-46a7-8c99-6b520c810e35,tablets.navy,available,42.99,,medium,low,7,name.com,,,
+1d2eaa86-70b0-4612-bba7-16f9a85381ce,chemist.plumbing,available,76.98,89.98,medium,low,7,namecheap,,,19/09/2026 19:39
 9a297f7f-6dd2-4154-9104-296f7cdbe843,capsule.sexy,available,2998,3298,medium,low,7,namecheap,,,11/08/2026 18:13
 2ee2fc3b-fa3a-4059-89b2-25544f483fda,capsule.spot,available,25.98,31.98,medium,low,7,namecheap,,,11/08/2026 18:13
 4b4cc381-d8e5-4b24-a707-929da961a6c8,remedy.deal,available,38.98,48.98,medium,low,6,namecheap,,,13/08/2026 11:01
-c0d75d5f-b2b8-456a-97a4-cb5c30034896,tablets.salon,available,14.99,,medium,low,7,name.com,,,
+edf5cac4-9adc-4baa-b400-1068d479f09c,cells.associates,available,21.99,,medium,low,5,name.com,,,
+c2a1f675-a23b-4f2b-89c8-1b8ba40b37be,chemical.rentals,premium,118.8,118.8,low,low,8,namesilo,,,08/09/2026 15:30
 0677d942-cb2b-4e98-9c30-cab643e8ca8a,clinic.management,resell,,,high,low,6,Porkbun LLC,09/08/2020 20:31,09/08/2026 20:31,
 9e872644-6e35-4fe5-9d06-7f76fb484d1f,capsule.hiv,available,184.99,184.99,medium,low,7,name.com,,,11/08/2026 18:13
-269d03b9-b6f4-4d2d-b82f-2f6202aee6f4,pills.investments,available,14.99,,medium,low,5,name.com,,,
-a55ffcc2-a8ba-4034-a353-01b68799020f,tablets.prof,premium,198.75,,medium,low,7,name.com,,,
+5b1a1982-1b1f-4c3d-a2a2-fbaf6132b7b5,pharmaceutical.mobile,premium,780,780,low,low,14,namecheap,,,19/09/2026 04:12
 6fd6da58-3666-4bf2-ba72-fe939ae9b519,biologic.hair,available,1.8,19.98,low,low,8,namecheap,,,10/08/2026 02:14
-555bf624-e0ad-46b1-8824-e5ee7765f55e,trials.pet,available,19.99,,medium,low,6,name.com,,,
-c552bcc3-6fb1-42a1-bda7-b596628416df,pills.surgery,available,54.99,54.99,medium,low,5,namesilo,,,
+9d6cbceb-88b4-4958-9cd3-37cdef8755d1,chemical.channel,premium,76.7,76.7,low,low,8,namecheap,,,08/09/2026 15:30
 5f6c97c7-c0ac-4a26-8b7c-f91b2c9677c1,generic.global,premium,1172653.82,121.99,medium,low,7,"GoDaddy.com, LLC",29/01/2015 04:46,29/01/2027 04:46,18/08/2026 21:28
-22c3262c-d3f6-4aa8-ba21-6f13542b42a0,pills.tax,available,14.99,,medium,low,5,name.com,,,
+121a4ff3-f1b2-490e-b549-92bc68d5e6ae,tablets.uno,premium,3450,3450,low,low,7,namesilo,,,18/09/2026 15:46
 4fc864ea-45d2-4672-919a-07d0e0d68ed5,biologic.legal,available,9.99,92.99,low,low,8,name.com,,,10/08/2026 02:14
-b4ceb8b6-a053-4c76-98f8-4c386e896643,trials.limo,available,19.99,,medium,low,6,name.com,,,
+e86f1895-40ea-46c7-b823-3b1f56565798,drugstore.supplies,available,25.48,32.48,medium,low,9,namecheap,,,19/09/2026 19:43
 6f89c298-dfc6-42d9-9b9e-3fbc004526d2,biologic.surf,available,1.98,43.98,low,low,8,namecheap,,,10/08/2026 02:14
 2df90f08-7602-449d-8007-127ce506f53f,remedy.fashion,available,32.49,32.49,medium,low,6,namesilo,,,13/08/2026 11:01
-9ca03461-2677-4128-ad6c-ca513b172956,trials.sydney,available,54.98,,medium,low,6,namecheap,,,
+56a930b2-0bed-439f-a687-a3589137bb8a,medicinal.vc,available,32.98,41.98,medium,low,9,namecheap,,,24/08/2026 19:01
+ff49adb8-29f6-47f0-9889-9efdba8cda16,drugstore.art,premium,291.2,83.3,medium,low,9,namesilo,,,19/09/2026 19:43
 150f50d7-0646-4a0c-a1b3-9cb9f27f96d8,clinical.jewelry,available,19.99,84.99,low,low,8,name.com,,,12/08/2026 11:04
 b91b7460-8673-4f5b-8ffb-58d7b7a6ffef,biologic.fans,available,4.98,13.98,low,low,8,namecheap,,,10/08/2026 02:14
 0242a0fe-5137-4224-abfb-3af4f325f804,products.bid,available,9.98,,medium,low,8,namecheap,,,
+7f8f76cd-d5e9-433a-9a02-66d33dea944b,chemical.day,premium,76.7,76.7,low,low,8,namecheap,,,08/09/2026 15:30
 80f490da-572f-4a21-a629-685e2ba09b88,biologic.men,premium,437.5,62.5,low,low,8,name.com,,,10/08/2026 02:14
-8862b8ae-0703-4243-b3f6-870c52a99a78,pills.mortgage,available,14.99,,medium,low,5,name.com,,,
+ccb322ea-705c-4aa1-9886-d9cde39ff83e,cells.legal,available,9.99,,medium,low,5,name.com,,,
 c44c5ad5-f409-4ad2-a1d3-b5d8be87fafe,biologic.maison,available,24.99,83.99,low,low,8,name.com,,,10/08/2026 02:14
+6f51a07e-993d-4990-b954-7773d152a23f,chemical.shoes,available,34.98,81.98,low,low,8,namecheap,,,08/09/2026 15:30
+a61fd732-6c28-47c4-ade1-96cd25537da2,tablets.surf,available,2.19,32.49,low,low,7,namesilo,,,18/09/2026 15:46
 c64592ab-9448-4539-87a5-9948a6a0ad3a,biologic.glass,available,76.98,99.98,low,low,8,namecheap,,,10/08/2026 02:14
-0d3ba188-c286-487e-af89-7f34fc8cb944,trials.markets,available,9.99,,medium,low,6,name.com,,,
-b7579e95-25c3-4773-9cac-0f08f2533629,trials.to,available,29.98,,medium,low,6,namecheap,,,
-74186ede-5d10-4311-8b19-b4d54620411a,trials.taxi,available,10.99,,medium,low,6,name.com,,,
-9c5ba19a-78a6-4838-9870-88725e47569d,tablets.photos,available,14.99,,medium,low,7,name.com,,,
-e1e95605-1b57-4d53-bc98-72f9525480f0,pills.gives,available,5.99,,medium,low,5,name.com,,,
-59a9cef3-f336-4e5a-903f-c2f3249b3f6b,pills.tours,available,9.99,,medium,low,5,name.com,,,
+c3162b10-dbe1-489f-94e3-6c073e5bd6c1,drugstore.sydney,available,58,58,medium,low,9,namesilo,,,19/09/2026 19:43
 09f17367-a4cc-45a8-b31b-b123aa105915,remedy.luxe,available,19.49,19.49,medium,low,6,namesilo,,,13/08/2026 11:01
-67fcb4ed-8966-41f3-b8ee-2e0f44e687c6,pills.healthcare,available,88.99,88.99,medium,low,5,namesilo,,,
 0ccfe064-87d2-4c91-b6b6-000cb93ea5be,biologic.photography,available,6.98,46.48,low,low,8,namecheap,,,10/08/2026 02:14
-2082a70d-4a97-413b-b62a-41538fff3bcc,tablets.guide,available,10.99,,medium,low,7,name.com,,,
 3219cf19-56e7-4358-b54c-ccdeedcaca54,remedy.blue,available,13.98,32.98,medium,low,6,namecheap,,,13/08/2026 11:01
 d19f3461-9aa2-4cde-8a32-6d6d7b8f923a,clinical.moi,available,25.99,25.99,low,low,8,namesilo,,,12/08/2026 11:04
-bbd5b323-7b8c-4d56-beaa-3de0943bed36,trials.insure,available,9.99,,medium,low,6,name.com,,,
+097a64cc-b845-4e89-9be2-58d495b9ca45,chemist.how,available,30.98,41.98,medium,low,7,namecheap,,,19/09/2026 19:39
+5425edfe-b45e-4cd1-91be-5758b54b12d8,drugstore.boutique,available,5.99,32.99,medium,low,9,namesilo,,,19/09/2026 19:43
+a52a4ce2-ac48-46e7-9b48-066e4f445a32,tablets.link,premium,300.8,300.8,low,low,7,namesilo,,,18/09/2026 15:46
+02596597-ad7c-4f31-9f2c-371df246775b,medicinal.tires,available,14.99,132.99,low,low,9,name.com,,,24/08/2026 19:01
 78527d6a-ed42-429c-a724-8a6f15b7d5fc,remedy.country,available,2298,2450,medium,low,6,namecheap,,,13/08/2026 11:01
+579a3bd2-0de5-4aeb-a5f7-b6f4a49f42ef,drugstore.bond,premium,384,768,medium,low,9,namesilo,,,19/09/2026 19:43
 da00a66e-97c7-4c07-bd59-9403bd932f70,biologic.cam,available,2.98,22.98,low,low,8,namecheap,,,10/08/2026 02:14
+0b1cfe3a-a117-41cf-9eef-52859e883355,medicinal.osaka,available,32.98,41.98,medium,low,9,namecheap,,,24/08/2026 19:01
 2f960772-ec22-4850-97a0-8d622102c421,remedy.discount,available,7.99,43.99,medium,low,6,name.com,,,13/08/2026 11:01
 c97a0899-a4b3-46bc-8397-263ab5a465d2,cells.info,resell,,,medium,low,5,"NameCheap, Inc.",20/09/2001 01:53,20/09/2026 01:53,
-70e67975-d786-4783-a38c-e2991faca34d,firm.shop,premium,625,,high,low,4,name.com,,,
-c747cf2a-2781-4d04-8794-4cf5db63e7b9,tablets.loans,available,19.99,,medium,low,7,name.com,,,
-0dbec288-58f2-4cd8-a7c5-79ec11b7d94d,stores.men,premium,437.5,,medium,low,6,name.com,,,
-0f75ccfb-625f-436d-88d9-8f14cbc19b98,tablets.vision,available,9.99,,medium,low,7,name.com,,,
-c709667c-c098-423e-b9ed-04c676a0e518,stores.technology,resell,,,medium,low,6,"Sav.com, LLC",31/05/2022 13:15,31/05/2026 13:15,
-8be93929-44ed-443d-a1f9-61ed0177a1c2,trials.limited,available,14.99,,medium,low,6,name.com,,,
+4c9d64bc-5891-4a4e-be08-8bc4fd99c091,products.vision,premium,118.8,118.8,low,low,8,namesilo,,,08/09/2026 11:31
+33934261-032f-4675-bdee-7802ca1219c9,medicinal.tienda,available,9.99,77.99,low,low,9,name.com,,,24/08/2026 19:01
+e6f1d027-729f-4df7-8752-916a6e8415e5,tablets.education,available,34.99,34.99,low,low,7,namesilo,,,18/09/2026 15:46
+ed27f412-9e18-488d-a068-1c2a26b62290,chemical.faith,available,11.99,11.99,low,low,8,namesilo,,,08/09/2026 15:30
 8417faeb-6285-47cd-81a8-264537279e25,remedy.school,available,9.99,46.99,medium,low,6,name.com,,,13/08/2026 11:01
+1ce1c612-2ea7-4bcb-a5d3-967343c84730,pod.archi,available,14.98,132.98,medium,medium,3,namecheap,,,12/08/2026 15:05
 130f2789-8da4-4e0c-8ca6-28eb5781961a,cells.marketing,available,9.99,,medium,low,5,name.com,,,
 38815693-b40f-4177-98de-8e1dfbf3f881,goods.kiwi,available,35.68,,high,low,5,namecheap,,,
-9d2c10a6-164d-4ce6-b739-bd5bc8369c2b,tablets.photography,available,9.99,,medium,low,7,name.com,,,
-f924be6f-8344-474e-ad1b-0b74076ab3b5,tablets.camera,available,21.99,,medium,low,7,name.com,,,
+256efd73-0445-4643-a14e-14bd31ac6408,chemical.systems,premium,118.8,118.8,low,low,8,namesilo,,,08/09/2026 15:30
+6911f9a9-79df-46cb-ad17-b9ef66c6a41b,drugstore.tennis,available,65.99,65.99,medium,low,9,namesilo,,,19/09/2026 19:43
+d558b3e7-aa6a-4abe-a9ac-ba0fdd95076e,chemist.cfd,premium,68.43,147.2,medium,low,7,namesilo,,,19/09/2026 19:39
+b0c3f346-9528-401a-9c92-a7ab17e9f226,drugstore.finance,available,17.48,82.98,medium,low,9,namecheap,,,19/09/2026 19:43
+15402e54-bd37-4dd9-aea0-097d537f9a73,tablets.fail,available,38.99,38.99,low,low,7,namesilo,,,18/09/2026 15:46
 f2b02dbc-80f1-4c96-8709-0c6b3f130591,remedy.partners,available,10.48,88.98,medium,low,6,namecheap,,,13/08/2026 11:01
+1691a744-8d92-468a-980e-8560e7d23a7a,medicinal.accountant,available,25.98,31.98,low,low,9,namecheap,,,24/08/2026 19:01
+86607c8d-813e-4191-8e35-c671d5dc3af0,apothecary.systems,available,18.99,34.99,low,low,10,namesilo,,,19/09/2026 19:42
 09602082-bdd5-4c8b-bee8-c8e10edd0679,remedy.recipes,available,5.48,95.98,medium,low,6,namecheap,,,13/08/2026 11:01
 f251c7d6-acf9-4ad0-afa6-e72b2fcd4d09,biologic.fund,available,11.98,92.98,low,low,8,namecheap,,,10/08/2026 02:14
 40b18958-bf19-4aee-8539-d4769fbd9c63,remedy.claims,available,11.98,82.98,medium,low,6,namecheap,,,13/08/2026 11:01
-068a97dc-df85-46a6-be6f-3eec799449b5,trials.day,premium,73.75,,medium,low,6,name.com,,,
-d20466e1-fd00-49b9-8a15-429b1c614e4c,tablets.host,premium,312.5,,medium,low,7,name.com,,,
+f730a8ff-a483-4f09-9115-b46c84d9a8f8,drugstore.financial,available,23.99,58.99,medium,low,9,namesilo,,,19/09/2026 19:43
+f95ac551-3e1e-488a-ba83-9b0bf3b301f1,generic.training,available,8.98,53.98,medium,low,7,namecheap,,,18/08/2026 21:28
+9dd67564-d383-49b3-afed-c7503d1cfe95,drugstore.community,available,45.99,45.99,medium,low,9,namesilo,,,19/09/2026 19:43
+9a5beace-1790-438b-9655-e3f3919f8137,chemist.financial,available,23.99,58.99,medium,low,7,namesilo,,,19/09/2026 19:39
 2822a2b4-d278-43df-9542-4284632870d7,capsule.vana,available,2298,2498,medium,low,7,namecheap,,,11/08/2026 18:13
+7873b1a7-e05b-42b8-b1bd-079205250385,chemist.sbs,premium,68.43,147.2,medium,low,7,namesilo,,,19/09/2026 19:39
+a4c748c5-9ce7-49c7-b8de-e7384c906099,tablets.business,premium,16.9,16.9,low,low,7,namecheap,,,18/09/2026 15:46
+5b99cd20-7df0-431f-85eb-5e030656209e,development.rent,premium,640,640,medium,low,11,namesilo,,,19/09/2026 02:40
+0253aca2-f989-4f87-9364-1bb1fcbfbc99,biomedical.markets,available,5.98,26.98,low,low,10,namecheap,,,10/08/2026 02:15
+5dc70077-9011-4f95-b883-126110965264,chemical.plumbing,available,72.99,72.99,low,low,8,namesilo,,,08/09/2026 15:30
 7c1b3052-f508-4e1a-8fe8-34eb4d4c04e4,experimental.ryukyu,available,22.98,,high,low,12,namecheap,,,
 0d25a343-187c-432f-b4a0-6aade5db6327,remedy.reviews,premium,118.8,118.8,medium,low,6,namesilo,,,13/08/2026 11:01
+4a79bdb4-2c72-4eda-a463-51eaafe73d9c,tablets.nyc,premium,650,32.5,low,low,7,namecheap,,,18/09/2026 15:46
+3868d7c7-bf9d-417f-8c92-1b55ba83575f,drugstore.careers,available,34.99,71.99,medium,low,9,namesilo,,,19/09/2026 19:43
 9304f5ca-c37f-4fd6-ae4d-9f7b516e284c,biologic.soccer,available,19.99,37.99,low,low,8,name.com,,,10/08/2026 02:14
+0a82cd0a-761b-456b-a711-134b74aac1e4,products.auto,available,1999.99,2199,medium,low,8,namesilo,,,08/09/2026 11:31
+695f85b6-0e65-4495-9c9e-615522b7e561,pod.nexus,premium,311.25,311.25,medium,medium,3,name.com,,,12/08/2026 15:05
 4f1051a9-9f59-43fe-aedd-1bd9f59301b9,remedy.trading,available,19.99,19.99,medium,low,6,name.com,,,13/08/2026 11:01
-655771c8-315d-4f99-be3b-dd2c974c3f24,tablets.tube,available,33.98,,medium,low,7,namecheap,,,
-4fa7cf53-311c-4642-803a-4f28a28d2413,stores.parts,premium,250,,medium,low,6,name.com,,,
-593b0b67-9c56-4bfd-a438-b9b63daaa6ce,stores.you,premium,625,,medium,low,6,name.com,,,
-c914a24d-77fd-43c4-806f-736b3cc016c6,pills.cv,premium,137.6,80.33,medium,low,5,namesilo,,,
+69966699-dd15-43b1-8a87-42a37a080b17,tablets.ooo,premium,20907,119.99,low,low,7,namesilo,,,18/09/2026 15:46
+6a5d8dab-1ef1-4ded-8b67-b1cdc6942894,pod.tools,resell,,,medium,medium,3,Gandi SAS,02/04/2020 23:02,02/04/2027 23:02,12/08/2026 15:05
+c1e4f54a-d903-4c1f-a9d5-405875574ee4,tablets.football,available,25.99,25.99,low,low,7,namesilo,,,18/09/2026 15:46
 6601b1d5-348b-4440-b4b7-4812aea0a7f1,products.wiki,resell,,,medium,low,8,"Sav.com, LLC - 48",23/08/2026 00:00,23/08/2027 00:00,08/09/2026 11:31
+c0286c8e-f19d-4feb-87d3-986cdf6c1303,tablets.mba,available,17.99,39.99,low,low,7,namesilo,,,18/09/2026 15:46
+3b3b3685-e6bf-4881-94a0-b9af756fc559,generic.ing,premium,437.5,437.5,medium,low,7,name.com,,,18/08/2026 21:28
 53a1cc3b-181e-4e6d-82f7-28116ff18390,clinical.promo,available,11.98,33.48,low,low,8,namecheap,,,12/08/2026 11:04
-8d3dfaf7-7999-4f2a-855f-11e82a166213,tablets.broker,available,19.99,,medium,low,7,name.com,,,
+d8f1e840-0b6e-40e7-aa87-2eb6f51844c8,chemist.music,available,47.98,52.48,medium,low,7,namecheap,,,19/09/2026 19:39
 1e94cfd7-32f0-4d93-b9c1-c6080d46470c,prescription.hamburg,available,59.99,,high,low,12,name.com,,,
+d8b34e8f-a509-4575-b924-eee88fb0cc54,biomedical.catering,available,38.99,38.99,low,low,10,namesilo,,,10/08/2026 02:15
 8034ce0c-2848-479c-b994-353bf1650226,actively.ryukyu,available,22.98,,high,low,8,namecheap,,,
 669af652-ba50-409f-a0f9-537422a43b5a,remedy.host,premium,312.5,625,medium,low,6,name.com,,,13/08/2026 11:01
-d64c5e40-f7c7-42b6-8291-9db073f69b3e,stores.pictures,available,9.99,,medium,low,6,name.com,,,
+bf111021-3b6f-49bc-afe6-4074d529052b,drugstore.camp,available,62.99,62.99,medium,low,9,namesilo,,,19/09/2026 19:43
+f704031c-d1bd-4e07-9ecb-34b42ca4e6ea,tablets.bargains,available,17.99,26.49,low,low,7,namesilo,,,18/09/2026 15:46
 e8311e8b-f959-4421-9307-c480ceec26c4,cells.gold,available,9.99,,medium,low,5,name.com,,,
-f067d813-c969-4aa2-8902-e46512a4912c,medicine.healthcare,available,88.99,88.99,high,low,8,namesilo,,,
 c584c87e-5518-44fc-b829-1515b95e3fc6,prescription.markets,available,9.99,,high,low,12,name.com,,,
 cf4d61e4-ac8c-406e-9eff-b4806131a913,pod.ltda,available,34.99,34.99,medium,medium,3,namesilo,,,12/08/2026 15:05
-678d0ac0-9350-46f3-963a-aada1f2b71e0,trials.prof,premium,111.25,,medium,low,6,name.com,,,
+6926ca13-faef-4717-ada1-c5238ee6e4d4,drugstore.ooo,premium,83.29,23.59,medium,low,9,namesilo,,,19/09/2026 19:43
+d0db3b8f-20b4-41b7-a3eb-48c7a3be2a5e,tablets.channel,premium,167.7,167.7,low,low,7,namecheap,,,18/09/2026 15:46
+f8f09fad-0eb1-4bb2-b0e6-85cbaea27c25,medicinal.deals,available,5.99,50.99,low,low,9,name.com,,,24/08/2026 19:01
+2691197a-aabd-4364-b04a-b37a76acbcac,apothecary.cruises,available,56.99,56.99,low,low,10,namesilo,,,19/09/2026 19:42
+4aa9d529-ca38-4f26-84e1-5f2d110cf775,medicinal.singles,available,3.98,36.98,low,low,9,namecheap,,,24/08/2026 19:01
 f01602b8-bcf1-47de-985b-989ee30a58ae,clinical.loan,premium,437.5,62.5,low,low,8,name.com,,,12/08/2026 11:04
 c8ded1ac-b00a-4850-85dd-efb3e4eb7e77,clinical.you,premium,53.92,53.92,low,low,8,namesilo,,,12/08/2026 11:04
-61870280-1381-45e9-9b72-b1a27b866d56,stores.express,available,16.99,,medium,low,6,name.com,,,
 caa005ee-a0b9-496f-a90e-126c63955d85,clinical.fyi,premium,17.7,17.7,low,low,8,namesilo,,,12/08/2026 11:04
-bf915a60-1040-417a-8c43-e94ef505ba43,pills.mom,available,1.99,,medium,low,5,name.com,,,
-72e1f692-0db7-4574-a6c5-657797a64ad6,pills.reise,available,27.89,97.99,medium,low,5,namesilo,,,
+6998d001-f117-4693-a53d-0480f6883868,apothecary.men,premium,455,65,low,low,10,namecheap,,,19/09/2026 19:42
+97be1253-5f08-496e-b69c-dd00ef4962cb,generic.contractors,available,9.99,45.99,medium,low,7,name.com,,,18/08/2026 21:28
 e52418b4-9f61-4f62-9db7-b09bae5da8bf,medicinal.flights,available,23.98,75.98,low,low,9,namecheap,,,24/08/2026 19:01
-946a3c68-9d1b-4b0f-a6b8-4e59751ce8e5,trials.realty,available,179.99,,medium,low,6,name.com,,,
-361389bb-4d24-422b-9ed5-e6a8b25f308a,trials.deal,available,48.98,,medium,low,6,namecheap,,,
+36302c0b-71af-4cf7-abb0-b2d4c6b8a4da,medicinal.rodeo,available,13.98,17.98,low,low,9,namecheap,,,24/08/2026 19:01
+8f09d65b-b741-4e94-8d0b-165d8f9e033f,products.spot,premium,116,116,low,low,8,namesilo,,,08/09/2026 11:31
+c4f12b19-707d-415b-867a-310d6ca64b6b,medicinal.camp,available,11.99,77.99,low,low,9,name.com,,,24/08/2026 19:01
+cc8ae1b9-be2e-4a3d-8476-250286021318,tablets.limited,available,37.98,39.98,low,low,7,namecheap,,,18/09/2026 15:46
+e9aafde4-7106-4f57-be70-d8092256150d,tablets.inc,premium,2061.5,2660,low,low,7,namesilo,,,18/09/2026 15:46
+b80da53f-0a48-424f-9473-3861ba4a1de8,products.direct,premium,512,512,low,low,8,namesilo,,,08/09/2026 11:31
 842fc178-2efa-4901-9643-a40f5b50f154,chemical.exchange,premium,78.54,78.54,low,low,8,namesilo,,,08/09/2026 15:30
+54777fd0-b6b5-425a-99e5-5c3ee8864023,tablets.blackfriday,available,128.98,134.98,low,low,7,namecheap,,,18/09/2026 15:46
 07cb0549-0163-4217-a382-f2ac2d5e85f0,medicinal.rehab,available,14.99,52.99,medium,low,9,name.com,,,24/08/2026 19:01
-b41cdbee-c49f-4a70-8c16-3f0cd424b4ba,pills.direct,available,19.99,,medium,low,5,name.com,,,
+754536ad-6306-4d34-af68-09a6f100333e,biomedical.vana,available,2298,2498,low,low,10,namecheap,,,10/08/2026 02:15
 f867ea51-518b-48ea-88eb-1bb7e43fd15e,goods.desi,available,22.98,,high,low,5,namecheap,,,
+d7e6ca86-1623-4044-9b16-f428a0f57e6d,apothecary.ag,available,89.99,79.99,low,low,10,namesilo,,,19/09/2026 19:42
 44cad48c-51a0-4e5b-a5f6-e8d570c33fb5,cells.band,available,29.99,,medium,low,5,name.com,,,
-7c26fe71-17b9-4b78-8e0f-6ca575c26f6d,trials.soccer,available,19.99,,medium,low,6,name.com,,,
 39a87057-bcc7-4521-b908-51cf1b11985b,cells.tours,available,9.99,,medium,low,5,name.com,,,
 7eea59b2-5e1b-416d-b838-a8690abb2ccd,chemical.voyage,available,58.99,58.99,low,low,8,namesilo,,,08/09/2026 15:30
 04416b06-173a-4b9f-aae1-6ddb17ef7cc5,cells.uno,premium,625,,medium,low,5,name.com,,,
+cfcb5156-995b-402f-81c2-22361ea50b28,ingredients.uno,available,3.99,27.99,medium,low,11,namesilo,,,
+4426ce6b-dc7c-464c-9e29-5be47828c5ff,drugstore.productions,available,10.99,40.49,medium,low,9,namesilo,,,19/09/2026 19:43
 d3ff165c-e7f2-470b-b712-8076b2f4c687,biologic.chat,available,5.98,58.98,low,low,8,namecheap,,,10/08/2026 02:14
 16fe17a8-a8ed-4d9f-9619-16f06a997ad0,remedy.management,available,14.99,33.99,medium,low,6,name.com,,,13/08/2026 11:01
-706f42d0-898c-49e5-a958-4b7547ec1dee,tablets.kitchen,available,14.99,,medium,low,7,name.com,,,
-551fd8d9-ccce-45ba-a9f6-ab17910d7545,stores.movie,available,69.99,,medium,low,6,name.com,,,
+9edde6a8-a9b1-4b44-b343-7691ddc48d22,products.solutions,available,8.98,41.98,low,low,8,namecheap,,,04/09/2026 08:39
+14754932-04f2-4680-86ab-27b7c12ea503,apothecary.news,available,14.49,32.49,low,low,10,namesilo,,,19/09/2026 19:42
+cf6258eb-2370-4fcd-9583-0557f303f52d,generic.loan,premium,437.5,62.5,medium,low,7,name.com,,,18/08/2026 21:28
 93deade1-eac7-4b13-9091-b5ff7d6e847c,products.international,available,9.48,40.48,medium,low,8,namecheap,,,08/09/2026 11:31
-f8f400cf-c8fe-4835-9559-b798a472493c,tablets.management,available,14.99,,medium,low,7,name.com,,,
 7adc1a81-cf5c-4af4-8b1a-a3b13f45b4a8,generic.sbs,premium,74.75,149.5,medium,low,7,namecheap,,,18/08/2026 21:28
 5185b958-b5c2-4bae-8739-ea75f9a627a3,pharmacist.ryukyu,available,22.98,,high,low,10,namecheap,,,
 e1b0f45d-cf5b-4ae9-a1f3-263ec7eeec72,capsule.motorcycles,available,1.8,19.98,medium,low,7,namecheap,,,11/08/2026 18:13
-33f79080-5798-4f7a-a80e-e0f5a69c33bc,tablets.cash,available,17.99,,medium,low,7,name.com,,,
+1152a6a8-eefe-4641-a518-37b31795aac8,apothecary.industries,available,45.99,45.99,low,low,10,namesilo,,,19/09/2026 19:42
+4f732585-6227-4c03-b1ca-183f9226040a,apothecary.icu,premium,195,390,low,low,10,namecheap,,,19/09/2026 19:42
+509a7eeb-5ab0-459c-ba50-0767aab51389,drugstore.airforce,available,103.99,103.99,medium,low,9,namesilo,,,19/09/2026 19:43
 461ac68c-9afd-4973-8299-13b79501863c,biologic.academy,available,8.48,59.98,low,low,8,namecheap,,,10/08/2026 02:14
 82d2d258-ae63-44a3-a4b9-07227ba9ced7,cells.cars,available,2950,,medium,low,5,namecheap,,,
-800ef473-1fdb-4055-bb26-7c4521152114,trials.furniture,available,39.99,,medium,low,6,name.com,,,
 8609d306-2e74-46f7-b884-417aec48aba6,chemical.software,premium,512,512,low,low,8,namesilo,,,08/09/2026 15:30
+abd922a4-9ba4-471a-b4d1-475d5b6338ed,generic.supplies,available,25.48,32.48,medium,low,7,namecheap,,,18/08/2026 21:28
+c5ac6088-8e2b-499b-880a-7ea0866aded5,generic.glass,available,76.98,99.98,medium,low,7,namecheap,,,18/08/2026 21:28
 48db2fd7-3914-46cd-95c7-bab2cdec58c1,clinical.tienda,available,9.99,77.99,low,low,8,name.com,,,12/08/2026 11:04
-f7da8f64-874d-451f-8ef1-4796853f9401,trials.florist,available,14.99,,medium,low,6,name.com,,,
-920576cb-67b6-4813-95a0-b655a8f3f291,stores.dance,available,17.99,,medium,low,6,name.com,,,
 391f3788-f820-4f1f-a22a-d56e2f09290f,clinical.gripe,available,6.98,8.98,medium,low,8,namecheap,,,12/08/2026 11:04
 6e554dd7-424c-411e-85c3-f03b2daf0449,recommendation.kiwi,available,35.68,,medium,low,14,namecheap,,,
 ca1d57dc-9d44-4a31-a437-993477b21316,medicinal.ac,available,28.98,76.98,low,low,9,namecheap,,,24/08/2026 19:01
 6776f7d9-1f0c-4565-b3bf-232eba0a6796,products.actor,available,9.48,54.98,medium,low,8,namecheap,,,08/09/2026 11:31
+77f0ec34-2ba5-4382-b60c-8ce6544d06c5,health.cc,resell,,,medium,low,6,"NameCheap, Inc.",09/11/1997 05:00,09/11/2030 05:00,19/09/2026 10:54
 b1f1677a-0196-476e-8339-bc1bcd848662,biologic.mobile,available,22.98,26.98,low,low,8,namecheap,,,10/08/2026 02:14
 0b394cde-2e32-49f6-b026-0bf2667d88d8,cells.tools,available,17.99,,medium,low,5,name.com,,,
 1d180e24-91ae-4ba7-80b1-3597ef183350,products.holdings,available,64.99,64.99,medium,low,8,namesilo,,,08/09/2026 11:31
-33bbebd6-0c73-418b-9a4e-6ccdf88bfa6f,pills.realty,available,109.99,299,medium,low,5,namesilo,,,
+304871a2-07f9-4354-a72d-68f81b9a67c1,chemist.boats,available,1.99,17.29,medium,low,7,namesilo,,,19/09/2026 19:39
+eeb93320-c344-4b66-b682-2a039ad7bd4b,ingredients.homes,resell,1.99,,medium,low,11,"Spaceship, Inc.",13/05/2026 07:42,13/05/2027 23:59,
 50ba612c-2662-42fe-acc7-61f156470cd2,clinical.gives,available,5.99,40.99,low,low,8,name.com,,,12/08/2026 11:04
-b76c3fa1-d906-475b-a26d-fea535e50915,pills.lat,available,1.99,,medium,low,5,name.com,,,
+5401dbda-0a6c-4801-9e5b-e99cfa4545c5,generic.construction,available,15.99,50.99,medium,low,7,name.com,,,18/08/2026 21:28
+354bd4bd-1639-4a47-9ac0-020a5a266f0b,biomedical.glass,available,72.99,72.99,low,low,10,namesilo,,,10/08/2026 02:15
+8417d94f-04bb-4cfc-b436-a796ec0f95f9,tablets.tel,premium,10.62,10.62,low,low,7,namesilo,,,18/09/2026 15:46
+fc0ef76d-f28a-4855-a246-6b358e0a6413,ingredients.im,available,12.98,,medium,low,11,namecheap,,,
 e9310c23-6a38-427b-8bbb-5a2f260dded9,cells.watch,available,4.99,,medium,low,5,name.com,,,
-7e851af5-7d05-462d-a6db-be9684047d5f,trials.services,available,15.99,,medium,low,6,name.com,,,
+0ff8b5c3-7384-4157-bf87-076173d3d249,biomedical.food,available,4.98,48.98,low,low,10,namecheap,,,10/08/2026 02:15
 9c583be5-5aad-4dea-b0b6-7dfee66ddb61,chemical.domains,available,42.99,42.99,low,low,8,namesilo,,,08/09/2026 15:30
+50242c32-a428-4428-a773-bf18fdebdce8,chemist.productions,available,10.99,40.49,medium,low,7,namesilo,,,19/09/2026 19:39
 43ac8a77-9fe8-4b8a-aca0-0008329b9892,cells.engineering,available,11.99,,medium,low,5,name.com,,,
 bf5af1c2-740e-4dbf-bd27-ce82bd08ef54,cells.kaufen,available,9.99,,medium,low,5,name.com,,,
+a7b82990-0eaf-4590-85e3-78102f98f5a4,health.ventures,resell,,,medium,low,6,,,,19/09/2026 10:54
 79aef142-1898-4efb-a5e2-be2cd69b0a99,cells.immo,available,14.99,,medium,low,5,name.com,,,
 e0ec02a3-4615-410e-8188-a542d8c1f63f,remedy.desi,available,19.98,22.98,medium,low,6,namecheap,,,13/08/2026 11:01
 bc4661d3-c299-4549-93b8-1c317348d7c2,products.inc,premium,2015,2600,medium,low,8,namecheap,,,08/09/2026 11:31
 24020b26-a93c-491a-8808-7783f0092367,products.quest,premium,812.5,,medium,low,8,name.com,,,
-50494840-bd2a-48f4-9492-900693f0fd22,supply.limo,available,54.99,54.99,medium,low,6,namesilo,,,14/09/2026 05:32
+2d81acef-2cf9-41c9-89ba-3f4838784a3a,apothecary.foo,available,12.98,17.98,low,low,10,namecheap,,,19/09/2026 19:42
 b67b3470-4c27-4d85-98c8-80a356c86e74,clinical.singles,available,3.98,36.98,low,low,8,namecheap,,,12/08/2026 11:04
+dd103f5b-c19e-41e5-9247-e8f33c0692c8,generic.delivery,available,2.98,79.98,medium,low,7,namecheap,,,18/08/2026 21:28
 36fee208-f52f-42e3-a6af-bfa3ff1710f7,clinical.sarl,available,6.98,8.98,low,low,8,namecheap,,,12/08/2026 11:04
-b6f83ace-01dd-458a-9a82-ef416fc0830a,tablets.coupons,available,3.99,,medium,low,7,name.com,,,
+575b96b7-bd45-482e-b983-a45ed4855e38,biomedical.homes,available,1.8,19.98,low,low,10,namecheap,,,10/08/2026 02:15
 1faace51-5623-4cf7-a832-f334b3369004,medicinal.win,available,5.98,9.98,low,low,9,namecheap,,,24/08/2026 19:01
+b6f6abc4-13d8-48e0-9b3b-e894ef18882e,apothecary.lease,available,56.99,56.99,low,low,10,namesilo,,,19/09/2026 19:42
+1cf4da7e-5b7e-4af9-a781-4d94480c4095,drugstore.domains,available,42.99,42.99,medium,low,9,namesilo,,,19/09/2026 19:43
 dd583ad7-db22-49db-b87f-a3e61b448c26,capsule.men,premium,437.5,62.5,medium,low,7,name.com,,,11/08/2026 18:13
 8410e34f-d006-4bad-8e7a-50970326b05f,clinical.srl,premium,54.28,30.68,low,low,8,namesilo,,,12/08/2026 11:04
 4dc4d34d-017c-45c5-99cd-3e847e470ee1,medicinal.soccer,available,19.99,37.99,low,low,9,name.com,,,24/08/2026 19:01
 3d0c79a0-817a-4861-8e1d-a2a00c70de24,cells.fish,available,19.99,,medium,low,5,name.com,,,
 15678bea-294a-43be-b385-967f416ba0f9,remedy.law,available,95.99,95.99,medium,low,6,namesilo,,,13/08/2026 11:01
+bfa6d930-1792-494f-884a-c7c6ed36db58,pills.cricket,available,23.59,23.59,low,low,5,namesilo,,,20/09/2026 04:26
+1b07cba1-f54c-4e09-aa26-b4353e6fda3a,tablets.osaka,available,32.98,41.98,low,low,7,namecheap,,,18/09/2026 15:46
 399cd76d-b996-4bee-9d37-7b9d0182cd37,chemical.security,available,1999.99,2049.99,low,low,8,namesilo,,,08/09/2026 15:30
 be3ee517-f229-4539-9ea1-62a7dd25fe7d,medicinal.social,available,3.98,55.98,low,low,9,namecheap,,,24/08/2026 19:01
-4963bd7e-1128-4a8d-aa54-776b748c8942,supply.casa,premium,47.2,11.8,medium,low,6,namesilo,,,14/09/2026 05:32
+f161c50d-6419-48da-8000-8d3b0b59cb3d,generic.contact,available,13.98,16.78,medium,low,7,namecheap,,,18/08/2026 21:28
 15453763-989d-4df4-a1cb-d20300a112f0,biologic.shopping,available,14.99,45.99,low,low,8,name.com,,,10/08/2026 02:14
+c98d90c9-0dfe-4b71-9efa-4ddb209a7c11,tablets.college,available,1.5,81.98,low,low,7,namecheap,,,18/09/2026 15:46
 55ee4f23-9cb5-42bb-930d-9500eb5c254d,clinical.soccer,available,19.99,37.99,low,low,8,name.com,,,12/08/2026 11:04
+028bc28f-4ecd-4e5d-88e0-b5197b24ffc8,generic.movie,available,40.98,446.98,medium,low,7,namecheap,,,18/08/2026 21:28
 0d21e968-aebd-4624-8261-0fc12b221057,clinical.cam,available,2.98,22.98,low,low,8,namecheap,,,12/08/2026 11:04
-e9367bed-c29f-4256-8f67-aedd62fb0505,tablets.study,premium,62.5,,medium,low,7,name.com,,,
+2e0867d6-2c3e-4a84-86fa-731fd7440638,ingredients.baby,available,17.99,54.99,medium,low,11,namesilo,,,
 db388711-d906-4507-bd2f-49fe593c0e05,chemical.spot,premium,116,116,low,low,8,namesilo,,,08/09/2026 15:30
 98ce6fb2-6e83-42c7-aeb2-f3e389869ed5,chemical.estate,available,6.98,52.98,low,low,8,namecheap,,,08/09/2026 15:30
 e95444de-b672-4a48-930a-c1450e075b26,remedy.restaurant,available,11.98,81.98,medium,low,6,namecheap,,,13/08/2026 11:01
 e6de9f20-a899-4f29-9f5f-2951c96572ba,recommendation.paris,available,51.98,,medium,low,14,namecheap,,,
 0c784d5d-6088-4a90-a18d-4bff4bb54edc,pod.systems,resell,,,medium,medium,3,Dynadot Inc,17/06/2026 17:00,17/06/2027 17:00,12/08/2026 15:05
-c4c7c629-c972-4a15-8d89-f8d1398e13f8,stores.toys,premium,123.75,,medium,low,6,name.com,,,
-9206c0c7-d1fd-4b9d-8c9a-0e207bbec568,trials.download,premium,12500,,medium,low,6,name.com,,,
 d0696d68-82d9-4bba-bbb7-3c449cf93625,patent.xxx,available,69.98,154.98,medium,low,6,namecheap,,,06/08/2026 05:19
-232c352d-ba11-417a-8a2a-5db896e75635,trials.fun,premium,78.12,,medium,low,6,name.com,,,
-8e331e7e-a874-4ba7-9212-de566b21eb7d,pills.technology,available,17.99,,medium,low,5,name.com,,,
+73210193-880d-4440-a6bb-deb96fcf570a,vaccinated.healthcare,available,88.99,88.99,low,low,10,namesilo,,,21/08/2026 21:34
+91bbed5f-207b-4447-8536-5ed899f6b08b,tablets.shop,premium,13800,13800,low,low,7,namesilo,,,18/09/2026 15:46
+845f0e0d-3074-4a8b-a7ee-0c9b2e5544a5,ingredients.wiki,available,2.99,,medium,low,11,name.com,,,
+b9cf7f16-db19-4d8a-ba23-729f7cc434e2,biomedical.cruises,available,14.99,81.99,low,low,10,name.com,,,10/08/2026 02:15
 3eaf1615-fa1f-428e-b440-bb56c09ae878,medicinal.vet,available,43.98,52.98,medium,low,9,namecheap,,,24/08/2026 19:01
 54d2538e-2e1d-4038-b069-7e020475edb2,products.ing,premium,845,845,medium,low,8,namecheap,,,08/09/2026 11:31
+31b7bf93-f9ac-4fb4-8645-a155acbb8c78,development.university,available,65.98,77.98,low,low,11,namecheap,,,19/09/2026 02:40
 312c650d-2872-4bdf-8c32-58cb822a7269,biological.ryukyu,available,22.98,,high,low,10,namecheap,,,
 a159dab1-448e-44d0-95b4-d4a402c09229,products.cooking,premium,242,29.5,low,low,8,namesilo,,,08/09/2026 11:31
+69fc8da3-5e8c-45eb-855e-2afd867e00db,ingredients.reise,available,27.89,97.99,medium,low,11,namesilo,,,
+060f7692-3049-40e8-bd8b-ba7c3966b507,tablets.vet,available,41.99,41.99,low,low,7,namesilo,,,18/09/2026 15:46
+7ae52748-364d-4ae3-bd37-c6d9093f2701,biomedical.build,available,32.98,39.98,low,low,10,namecheap,,,10/08/2026 02:15
 2fc9ef11-e5cd-4b23-987d-f69783fe267e,biologic.security,available,2070,2950,low,low,8,namecheap,,,10/08/2026 02:14
+61ad33b8-c5cd-4e59-991f-eefc4317ea4d,ingredients.my,available,3.49,29.99,medium,low,11,namesilo,,,
 66c8c3b2-cb78-4eed-b42e-1706bdd7f1fa,products.church,available,8.48,78.98,medium,low,8,namecheap,,,08/09/2026 11:31
-e87e76a3-4fd4-49ae-a09d-fd86878903eb,trials.my,premium,67.98,,medium,low,6,name.com,,,
+ee820bb2-6d5b-48d9-93f0-1b1dd9446047,apothecary.investments,available,12.99,129.99,low,low,10,namesilo,,,19/09/2026 19:42
+7ea3a5e9-e16d-4444-a2a2-9b6b61d536a8,chemist.place,available,22.98,30.98,medium,low,7,namecheap,,,19/09/2026 19:39
 194acdd3-0579-4c23-9efa-59b55f5490b6,biomedical.london,available,12.98,41.98,low,low,10,namecheap,,,10/08/2026 02:15
+071766e1-4a93-4ccf-be23-2b27b72a948b,chemist.uno,premium,302.5,302.5,medium,low,7,namesilo,,,19/09/2026 19:39
+c669c266-b201-4d9f-8531-186234eae651,ingredients.navy,available,41.99,41.99,medium,low,11,namesilo,,,
+5700aba8-3b74-4e36-bcbe-010f71e4dda6,chemist.casino,available,14.99,159.99,medium,low,7,namesilo,,,19/09/2026 19:39
 bbe61482-a279-40c9-94b9-e501b435f51b,pod.bid,premium,625,81.25,medium,medium,3,name.com,,,12/08/2026 15:05
 87304a29-3f6b-4876-93d7-5bc30c6edb84,products.family,premium,71.4,71.4,low,low,8,namesilo,,,08/09/2026 11:31
-921a7a75-2165-4b64-8ea3-c3788eeb02b1,tablets.cheap,available,9.99,,medium,low,7,name.com,,,
+672704cc-329a-45dc-9541-7c90b00b3ae5,development.direct,available,17.99,41.99,low,low,11,namesilo,,,19/09/2026 02:40
 2766fc51-abbb-42a4-b102-da25fdb7d606,capsule.luxury,available,49.99,49.99,medium,low,7,name.com,,,11/08/2026 18:13
 f240fb62-d4d8-4324-939e-48d5d9bbd125,biologic.free,available,38.98,44.98,low,low,8,namecheap,,,10/08/2026 02:14
 aca5d537-412d-40af-a0bc-c7415b9d0b03,biomedical.hair,available,1.8,19.98,low,low,10,namecheap,,,10/08/2026 02:15
 3911583c-b7d7-4f58-a0a8-82909d807e08,clinical.market,available,44.49,44.49,low,low,8,namesilo,,,12/08/2026 11:04
+678a59e6-c2af-4b82-b1a4-420b01efb29c,drugstore.immobilien,available,37.99,37.99,medium,low,9,namesilo,,,19/09/2026 19:43
 4c83e93d-3255-46e0-a708-eebd7b2a433a,clinical.living,available,1.8,48.98,low,low,8,namecheap,,,12/08/2026 11:04
+f07c8e2c-5325-4a20-83cd-d0c4fa830cb3,tablets.spot,premium,130,130,low,low,7,namecheap,,,18/09/2026 15:46
 0de9cb07-a03e-452e-9827-8bb1d64d7ee1,capsule.catering,available,40.98,48.98,medium,low,7,namecheap,,,11/08/2026 18:13
-8157263a-ecbc-48a1-8f38-2254e58022b2,tablets.bike,available,14.99,,medium,low,7,name.com,,,
+a86e8997-950d-4413-bd97-66b782f1e4e7,generic.vacations,available,9.99,50.99,medium,low,7,name.com,,,18/08/2026 21:28
 83a6b739-4c0a-4502-8472-1026273d1882,biomedical.deal,available,38.98,48.98,low,low,10,namecheap,,,10/08/2026 02:15
+31da96c2-e3ac-4a56-b871-126a9333bf2a,druggist.health,available,12.98,107.98,medium,low,8,namecheap,,,19/09/2026 19:38
+d778eea4-ebae-4bf5-b079-28216c1c4929,pills.phd,premium,115.7,115.7,low,low,5,namecheap,,,20/09/2026 04:26
 f567faf1-34ee-43d1-9c5b-e3c454c4ebb1,medicinal.london,available,12.98,41.98,low,low,9,namecheap,,,24/08/2026 19:01
+3db4618f-06e5-4044-baea-e78880ec0c2c,sciences.paris,available,51.98,,medium,low,8,namecheap,,,
+66a6d122-9623-4535-bbb1-3cf403a2c1da,development.dad,premium,323.7,323.7,low,low,11,namecheap,,,19/09/2026 02:40
 3b2bdf6a-4211-4aa6-8e07-5ae12cce7614,pod.bayern,premium,57.72,50.99,medium,medium,3,name.com,,,12/08/2026 15:05
+79957014-ba25-4d7c-b141-857321ceb09a,apothecary.navy,available,41.99,41.99,low,low,10,namesilo,,,19/09/2026 19:42
 baf2841b-b404-4016-ad4b-4abf672de8c0,chemical.limo,available,54.99,54.99,low,low,8,namesilo,,,08/09/2026 15:30
-bf6eb43c-5147-499f-b032-bcab8c0cec41,trials.rent,available,29.99,,medium,low,6,name.com,,,
 ee58015f-8071-4461-bf6a-ab56aba7ac60,products.tennis,available,65.99,65.99,low,low,8,namesilo,,,08/09/2026 11:31
 45f95519-0e82-4518-9c32-5e8890b639cd,cells.blue,available,23.99,,medium,low,5,name.com,,,
-17fbbe64-8a51-4727-9b53-7454c1464e51,medicine.doctor,premium,854,854,high,low,8,namesilo,,,
 11630c51-6df2-4991-a37b-509ee2436b82,capsule.vin,available,6.98,75.98,medium,low,7,namecheap,,,11/08/2026 18:13
+764fb77c-96a4-4cdd-947b-a4d7314ef2e7,drugstore.info,resell,,,low,low,9,,,,19/09/2026 19:43
+50208be4-7411-47f2-a603-bfaf354e846a,pills.taxi,available,10.99,62.99,low,low,5,namesilo,,,20/09/2026 04:26
 c9324fa0-40fe-48b0-b2cf-c57f22579194,clinical.film,available,65.99,65.99,low,low,8,namesilo,,,12/08/2026 11:04
+e3223a66-bd86-4e84-981d-1196c570f02f,apothecary.luxe,available,19.49,19.49,low,low,10,namesilo,,,19/09/2026 19:42
+2836edf1-ca44-418c-a2de-feadb76a28ea,regulation.food,available,4.98,48.98,medium,low,10,namecheap,,,09/09/2026 13:07
 f5a049da-2946-4588-a8f8-87771179a92b,medicinal.limo,available,19.99,71.99,low,low,9,name.com,,,24/08/2026 19:01
-65dbf733-c1e4-4f2f-b0ed-4736f2f4f365,medicine.health,resell,,,high,low,8,"GoDaddy.com, LLC",07/11/2023 23:41,07/11/2026 23:41,
-21611810-59ae-4b91-843c-4481eb5e4c53,stores.army,available,19.99,,medium,low,6,name.com,,,
+fe842bd1-7695-4e7d-8134-d060973b15bd,development.legal,available,71.99,71.99,low,low,11,namesilo,,,19/09/2026 02:40
 6a5c1de0-1b20-4e7c-8a70-9eaf70a92454,pod.holdings,available,64.99,64.99,medium,medium,3,namesilo,,,12/08/2026 15:05
-18c556f9-95ef-4b47-b751-73f9583cf0b8,supply.villas,premium,242,242,medium,low,6,namesilo,,,14/09/2026 05:32
+27236811-7685-4eee-8998-42064f1596dd,chemist.tel,available,10.98,15.98,medium,low,7,namecheap,,,19/09/2026 19:39
 4344fc74-5f26-43ac-abd1-69c867d12e2d,products.cards,available,3.99,,medium,low,8,name.com,,,
+5995cdaa-c806-4708-a6bd-9a471ca41b6f,development.coffee,available,16.99,42.99,low,low,11,namesilo,,,19/09/2026 02:40
+8ad971f0-8d7b-4f4c-9f2a-e4620bd2cf94,pills.sucks,premium,2658.67,2658.67,low,low,5,namesilo,,,20/09/2026 04:26
 6759eabb-1662-44b6-aadf-83e99174ebec,products.tickets,available,359.99,488.88,low,low,8,namesilo,,,08/09/2026 11:31
 41ac7790-0ce5-4f4a-80d2-c78a2474d122,chemical.business,premium,118.8,118.8,low,low,8,namesilo,,,08/09/2026 15:30
-fd4675bd-a9af-47ba-939b-9bc6f6dfb8af,tablets.contact,available,16.78,,medium,low,7,namecheap,,,
+eabec3de-5b34-4e0d-a565-49fcae47ba55,pills.money,available,16.99,35.99,low,low,5,namesilo,,,20/09/2026 04:26
+96b2fe14-8af5-436a-ad9b-14272e522910,tablets.organic,available,17.99,85.99,low,low,7,namesilo,,,18/09/2026 15:46
 1b5ac117-8d17-423d-91eb-8313bb593cc5,biologic.army,available,17.48,48.98,low,low,8,namecheap,,,10/08/2026 02:14
 d0ade0df-a913-48e9-8977-98fc23660edb,biomedical.toys,available,14.98,82.48,low,low,10,namecheap,,,10/08/2026 02:15
+12e00dcf-0632-4110-b211-098b1b322740,research.dog,resell,,,medium,low,8,"Global Domains International, Inc. DBA DomainCostClub.com",14/07/2026 15:16,14/07/2027 15:16,20/09/2026 02:40
 a1694968-8641-493b-bfcf-59be06f9b2b4,cells.cricket,premium,437.5,,medium,low,5,name.com,,,
+55a60e04-746c-4da5-afb0-67d72b6f6dd3,science.trading,available,21.98,27.98,medium,low,7,namecheap,,,19/09/2026 02:41
+6804a86a-a88d-4289-909b-39be4f80ecc6,chemist.ag,available,89.99,79.99,medium,low,7,namesilo,,,19/09/2026 19:39
 62af1c21-e0ee-40a0-81d6-3131c022f2c4,medicinal.mobile,premium,750,750,medium,low,9,name.com,,,24/08/2026 19:01
+bae9afd8-6dc5-4710-8133-47eca0a47dea,apothecary.lighting,available,22.98,31.98,low,low,10,namecheap,,,19/09/2026 19:42
 ad6d428b-6e0b-4efe-9ab5-bf5b592050a8,biologic.broker,available,11.98,47.98,low,low,8,namecheap,,,10/08/2026 02:14
 b4c6f9dd-e078-48e3-9b92-f6a6e22626e1,biologic.finance,available,11.99,84.99,low,low,8,name.com,,,10/08/2026 02:14
 61a287c1-564a-4030-b533-8b9610ce9b55,remedy.exposed,available,22.49,22.49,medium,low,6,namesilo,,,13/08/2026 11:01
+5b417b13-91b4-4de9-8f35-edafbe42fae2,apothecary.gripe,available,6.98,8.98,low,low,10,namecheap,,,19/09/2026 19:42
 4fe18aa9-4d43-4d9d-9214-db4be44b7976,biologic.energy,available,5.98,155.98,low,low,8,namecheap,,,10/08/2026 02:14
-c853fb7a-3dd2-4c3c-9515-4f7ae2f51679,trials.art,premium,153.75,,medium,low,6,name.com,,,
+d6d7c02d-f531-4ad9-9a15-e4b91e5867c3,apothecary.glass,available,72.99,72.99,low,low,10,namesilo,,,19/09/2026 19:42
+627e6be8-30c3-4dc0-9124-db369156ad98,approval.talk,premium,71.4,71.4,medium,low,8,namesilo,,,08/09/2026 15:18
+228c1105-8e01-436e-bd62-250d199ca288,drugstore.beauty,available,1.99,17.29,medium,low,9,namesilo,,,19/09/2026 19:43
 34379bdf-05ec-451f-8c89-27074b37af5c,clinical.viajes,available,37.99,37.99,low,low,8,namesilo,,,12/08/2026 11:04
-8a0f19a4-eafe-40eb-963e-47c7ca90674a,trials.cafe,available,7.99,,medium,low,6,name.com,,,
+2a96caed-3581-4330-973f-8f8b1637c09d,tablets.training,available,8.98,53.98,low,low,7,namecheap,,,18/09/2026 15:46
+ad2b5109-345d-48aa-9d32-6648fbf73a0a,tablets.yoga,available,32.49,32.49,low,low,7,namesilo,,,18/09/2026 15:46
+32fe81e5-b6bb-4805-8475-3a4726abf6e2,drugstore.wedding,available,33.98,43.98,medium,low,9,namecheap,,,19/09/2026 19:43
 f87554c2-c78b-4827-a2fa-778d5afaf4c3,chemical.bayern,available,34.99,34.99,low,low,8,namesilo,,,08/09/2026 15:30
 e1b955d6-08b3-4146-9e0a-8c843a68529a,ingredients.photos,available,14.99,,medium,low,11,name.com,,,
+2e188ae0-8406-40ec-87ab-557a6d79140f,tablets.racing,available,11.99,11.99,low,low,7,namesilo,,,18/09/2026 15:46
 c79aa3c0-7cf7-4ca5-abc2-20025ae3c552,clinical.tires,available,5.99,78.99,low,low,8,namesilo,,,12/08/2026 11:04
 28db8682-e279-4a3d-8509-a5dafe874b11,medicinal.productions,available,6.48,50.98,low,low,9,namecheap,,,24/08/2026 19:01
-51d27a80-0c0b-44fb-b709-86763e9511ef,tablets.tv,available,40.98,,medium,low,7,namecheap,,,
 035e2b99-756a-471a-bfcd-467b9f493c8f,ingredients.supply,available,25.99,25.99,medium,low,11,namesilo,,,
-7fed6932-881c-4cab-a328-df025d1d0da7,stores.red,available,14.99,,medium,low,6,name.com,,,
+3cdbd678-cdc9-4285-b9e9-9bb26dd47b4f,apothecary.hockey,available,59.99,59.99,low,low,10,namesilo,,,19/09/2026 19:42
+dac82c5a-00ad-4625-8e8a-29ec54f993f2,tablets.immobilien,available,37.99,37.99,low,low,7,namesilo,,,18/09/2026 15:46
 ebdb1dc2-08c7-48f2-ac9b-634c2f3fe831,biomedical.fans,premium,65,130,low,low,10,namecheap,,,10/08/2026 02:15
 062917b5-77ce-4c21-af10-ea5b49b2f8e5,medicinal.jetzt,available,13.99,29.99,low,low,9,name.com,,,24/08/2026 19:01
+c4a1fceb-6d10-438c-8a61-1645543c2417,drugstore.faith,premium,130,32.5,medium,low,9,namecheap,,,19/09/2026 19:43
 e775b456-dbff-48f1-a6d8-90b6c97bb721,clinical.ngo,available,16.99,16.99,low,low,8,name.com,,,12/08/2026 11:04
 5bc36823-ca2d-4d5b-80b0-4e2eea45026e,remedy.lgbt,available,11.98,93.98,medium,low,6,namecheap,,,13/08/2026 11:01
 483f9204-5fd5-4b1c-bb8e-b1494edc5c5d,clinical.cab,available,23.99,43.99,low,low,8,name.com,,,12/08/2026 11:04
 d89ad0c7-42d5-4086-9f4b-0a8aa4bc2877,clinical.press,premium,312.5,625,medium,low,8,name.com,,,12/08/2026 11:04
 8a12c947-7c97-41d7-a5ce-30fa773cdc9a,generic.vegas,available,19.98,64.98,medium,low,7,namecheap,,,18/08/2026 21:28
+242c3dda-8eb1-4984-9b25-2c268e2efa6b,supply.vip,resell,,,medium,low,6,"Chengdu West Dimension Digital Technology Co., Ltd.",17/07/2016 13:56,17/07/2030 13:56,19/09/2026 06:48
+2c1c225c-47fc-4565-93ee-da8e63ff2d57,development.global,premium,5520,53.92,medium,low,11,namesilo,,,19/09/2026 02:40
 38afffc4-1da6-4d5f-84d6-a85e9ffbd945,generic.storage,available,538.98,858,medium,low,7,namecheap,,,18/08/2026 21:28
 d45d19f6-abbe-4382-be1c-d4a72388f8e4,capsule.careers,available,28.98,89.98,medium,low,7,namecheap,,,11/08/2026 18:13
 7d9bed5d-d783-4f58-b14f-f87935c9302e,ingredients.realty,available,109.99,299,medium,low,11,namesilo,,,
+6c3ab75a-bdee-49c3-9c92-81972a1f2891,tablets.meme,premium,455,455,low,low,7,namecheap,,,18/09/2026 15:46
 a3c232c1-929e-46c0-8f36-4b25ae2ae5ee,biomedical.moda,available,19.99,52.99,low,low,10,name.com,,,10/08/2026 02:15
-0691b134-2c94-4703-a825-57ccce575ce5,tablets.diet,available,159.98,,medium,low,7,namecheap,,,
 1934f492-6e27-4a97-9b54-df94682c79ce,biologic.engineering,available,10.48,85.98,low,low,8,namecheap,,,10/08/2026 02:14
-6a270a25-59a5-4583-b9a6-513444c38084,supply.men,premium,448,53.92,medium,low,6,namesilo,,,14/09/2026 05:32
-1f206314-c35a-40eb-a4ac-a28646266373,tablets.enterprises,available,5.99,,medium,low,7,name.com,,,
-8735fe9c-3718-4816-8ebd-de8dad46e336,vitamins.video,available,14.99,,medium,low,8,name.com,,,
+ceb6240b-38da-43d3-bbc8-d64ae4ba8eb7,regulation.cfd,available,1.39,26.98,medium,low,10,namecheap,,,09/09/2026 13:07
+fe466b0f-be15-4548-a8e2-3f5cc0cb654e,regulation.faith,available,11.99,11.99,medium,low,10,namesilo,,,09/09/2026 13:07
 05c817fc-4ef5-4e03-be08-ffa83f007330,cells.bond,premium,420,840,medium,low,5,namecheap,,,
 3b3eff41-0a37-4747-bce4-ff6f08041dc8,biologic.rehab,available,14.99,52.99,low,low,8,name.com,,,10/08/2026 02:14
 08b4cc2a-d83d-4bfc-b676-e8330eae0a24,medicinal.company,available,3.99,23.99,low,low,9,name.com,,,24/08/2026 19:01
-6374c3e0-3c69-4855-b7b1-e7a43b672b96,tablets.healthcare,available,91.99,,medium,low,7,name.com,,,
+73295fdc-3d74-4b79-a6e5-ffb9178d92fa,pills.report,available,10.48,34.48,low,low,5,namecheap,,,20/09/2026 04:26
+1f3ee06f-93c9-484e-937c-cd09490f6ec1,supply.fail,premium,78.54,78.54,medium,low,6,namesilo,,,19/09/2026 06:48
+24fa6b67-1ac0-4745-82d8-ebf322e4cd0c,development.dealer,premium,4278,2660,low,low,11,namesilo,,,19/09/2026 02:40
+fc1319bd-f44e-4b1d-bde1-1068a1364b8c,development.cafe,available,7.25,51.99,low,low,11,namesilo,,,19/09/2026 02:40
+4e1923d7-e72d-4599-a20a-b5ee7f173ba0,regulation.ski,available,27.99,64.99,medium,low,10,namesilo,,,09/09/2026 13:07
 631367d3-d5b4-40b3-9767-a220364357e2,generic.international,available,9.48,40.48,medium,low,7,namecheap,,,18/08/2026 21:28
-121c1b73-e46d-46c5-bd15-7300950ef096,vitamins.lawyer,available,62.99,62.99,medium,low,8,namesilo,,,
 fab5ef95-b537-471b-b5a6-bd9edc14d388,biomedical.fan,available,11.99,71.99,low,low,10,name.com,,,10/08/2026 02:15
 7da8be1d-5333-4e9b-8ea1-6d54d1d749df,medicinal.prof,available,25.98,29.38,medium,low,9,namecheap,,,24/08/2026 19:01
-bf410894-2b14-49ca-8757-f20431024213,tablets.catering,available,46.99,,medium,low,7,name.com,,,
-8ac9345b-d94b-4c4d-91ef-29e039853e8a,vitamins.onl,premium,53.92,116,medium,low,8,namesilo,,,
+9ebe702f-a7d3-4edf-ad1a-2d75d5685f51,apothecary.sbs,premium,192,384,low,low,10,namesilo,,,19/09/2026 19:42
+b31e6fa1-89a1-43cc-a6b8-83b2711ee811,tablets.money,available,11.98,38.98,low,low,7,namecheap,,,18/09/2026 15:46
+9dcb77af-777c-48c7-8623-7ab4142fcf93,apothecary.tools,available,18.99,36.49,low,low,10,namesilo,,,19/09/2026 19:42
 24e2c3ed-f04d-4dfd-ad96-a632abc9cd20,capsule.viajes,available,43.98,57.98,medium,low,7,namecheap,,,11/08/2026 18:13
-dfa42b45-ff2a-4d80-97a2-939f45a5bd98,tablets.futbol,available,19.99,,medium,low,7,name.com,,,
-d18d0d42-3ead-4773-8c53-a7a853ecc023,stores.hockey,available,14.99,,medium,low,6,name.com,,,
-f438b825-ff17-4173-91a5-875c1d4b01ff,tablets.boston,available,30.98,,medium,low,7,namecheap,,,
 275bf77c-1cc8-457c-ad9c-bc5e1a4f693e,cells.technology,available,17.99,,medium,low,5,name.com,,,
 b07c21a7-3945-45de-a599-9d6d7db60559,regulation.esq,premium,63.7,63.7,medium,low,10,namecheap,,,09/09/2026 13:07
-ef2d3b72-6b4c-415c-a62e-3a868c3c940c,medicine.surgery,premium,260,260,high,low,8,namecheap,,,17/09/2026 06:09
-cbbe5bff-1803-4e3f-9c0f-4ba2346f1d11,tablets.science,premium,625,,medium,low,7,name.com,,,
+76439cca-b910-437c-b8b9-de735ce2861b,drugstore.broker,available,11.98,47.98,medium,low,9,namecheap,,,19/09/2026 19:43
+52664365-292b-44ad-8398-f0d55177a13d,chemist.shop,premium,1107,1107,low,low,7,namesilo,,,19/09/2026 19:39
+b14bcfab-b4c6-4491-963e-03e32f5d4943,pills.solar,available,64.99,64.99,low,low,5,namesilo,,,20/09/2026 04:26
 deeb577a-0c5c-4eb0-b245-34ffe384fcf4,clinical.university,available,19.99,81.99,medium,low,8,name.com,,,12/08/2026 11:04
+56fe36e1-8184-4920-acf7-83e26db9a688,pills.kids,available,6.79,19.99,low,low,5,namesilo,,,20/09/2026 04:26
+46c426a7-1f4f-473e-9677-e5a37225679a,approval.paris,available,66.98,66.98,low,low,8,namecheap,,,08/09/2026 15:18
+1f4d9a61-49e6-46e1-a0ec-205a002be16a,development.wtf,resell,,,low,low,11,,,,19/09/2026 02:40
 62f0b434-056a-4424-9da8-5bac65ad447f,generic.singles,available,3.98,36.98,medium,low,7,namecheap,,,18/08/2026 21:28
+e7fa8009-2e51-4da0-a2e0-aec02a032f31,apothecary.download,premium,448,53.92,low,low,10,namesilo,,,19/09/2026 19:42
+167a7d6a-4ff0-4f29-9eff-fceba44e5c07,regulation.red,available,9.48,28.48,medium,low,10,namecheap,,,09/09/2026 13:07
 b1251a70-5d9b-4382-9779-d2cfe4f53140,capsule.blackfriday,available,128.98,134.98,medium,low,7,namecheap,,,11/08/2026 18:13
 d6d9798f-e3aa-4a03-a6d5-8d63eafc341c,biologic.menu,available,27.99,27.99,low,low,8,namesilo,,,10/08/2026 02:14
-c4d5859e-08b0-4a0b-aac7-ebbbc07e1a3d,trials.codes,available,11.99,,medium,low,6,name.com,,,
-c53aac74-f323-4552-9974-1c3048e23abb,stores.talk,premium,625,,medium,low,6,name.com,,,
 affb923f-727d-473c-96e0-86b1787b50de,pod.dad,premium,161.25,161.25,medium,medium,3,name.com,,,12/08/2026 15:05
+dd07ec9b-c435-4208-8160-8dadf343bfb1,pills.menu,available,27.99,27.99,low,low,5,namesilo,,,20/09/2026 04:26
 b8676bb9-2047-4912-8185-b69ea31c11bf,lab.shop,premium,1250,,high,medium,3,name.com,,,
+f3d1b106-6bb0-41cc-b653-e5cb7accd2a5,studies.fail,available,38.99,38.99,medium,low,7,namesilo,,,16/09/2026 11:06
+75b17ee9-47dc-4b3e-9039-6449ef690299,tablets.apartments,available,57.99,57.99,low,low,7,namesilo,,,18/09/2026 15:46
 907fe669-9f58-4ee9-9ea6-0ddb4d3807d8,capsule.builders,available,7.99,50.99,medium,low,7,name.com,,,11/08/2026 18:13
 5c1d6932-5c93-4420-8e64-a3b14cad72df,pod.art,premium,1662.5,83.3,medium,medium,3,namesilo,,,12/08/2026 15:05
+a9b97d89-004d-4970-9660-3b7cd1fb1563,development.contractors,available,35.49,35.49,medium,low,11,namesilo,,,19/09/2026 02:40
 e2fe033f-2f9b-42fb-a9b7-984ddb8495d2,ingredients.deal,available,38.99,38.99,medium,low,11,namesilo,,,
+c7ebd83c-643e-48c9-8d9a-7878a3a18c38,apothecary.bargains,available,17.99,26.49,low,low,10,namesilo,,,19/09/2026 19:42
 4af9ca83-d3e8-4c3a-8b5c-0c9d6eda3185,ingredients.salon,available,14.99,,medium,low,11,name.com,,,
+d9eebe40-a94b-49d5-8eaf-9065f0df7e9a,chemist.asia,available,2.79,13.49,medium,low,7,namesilo,,,19/09/2026 19:39
 9158e7d2-17a5-4b4f-8712-98978c44fb07,biomedical.company,resell,,,low,low,10,Dynadot Inc,20/03/2018 03:45,20/03/2027 03:45,10/08/2026 02:15
+7aeaa498-8032-4da1-85e0-505d9a21d9c0,tablets.properties,available,15.98,43.98,low,low,7,namecheap,,,18/09/2026 15:46
 c4125a62-f374-4eb0-b7a3-9785b96411c5,remedy.enterprises,available,5.99,50.99,medium,low,6,name.com,,,13/08/2026 11:01
 5af6a346-34b9-4fe9-b523-2a50fee42f40,biomedical.school,available,9.99,46.99,low,low,10,name.com,,,10/08/2026 02:15
 e62473d2-4efa-4b55-b27e-1c2af081566a,biologic.date,premium,375,62.5,low,low,8,name.com,,,10/08/2026 02:14
 2fa29c7c-8fed-4991-a378-d9a2fb01475e,products.cars,available,1999.99,2199,medium,low,8,namesilo,,,08/09/2026 11:31
-747175dc-6187-40ee-9bd0-535b48a4236d,supply.cfd,premium,384,768,medium,low,6,namesilo,,,14/09/2026 05:32
+452775e4-2aef-4c35-b26f-97546ebc48df,regulation.bingo,available,51.98,68.98,medium,low,10,namecheap,,,09/09/2026 13:07
 e27ec34c-773f-4271-a8c5-3697fa4a621f,clinical.christmas,available,1.8,49.98,low,low,8,namecheap,,,12/08/2026 11:04
 cd12200e-4796-4983-9c5d-c69d89c11ae8,medicinal.voting,available,1398,1448,medium,low,9,namecheap,,,24/08/2026 19:01
 e6c4f5af-571d-4a53-80c3-54bab2559a08,ingredients.kim,available,14.99,,medium,low,11,name.com,,,
+4736a782-fcc5-4937-8429-e84cb82094df,supply.flights,premium,118.8,118.8,medium,low,6,namesilo,,,19/09/2026 06:48
 11213cbf-007c-4c3e-b716-e11138756ba3,biomedical.shopping,available,14.99,45.99,low,low,10,name.com,,,10/08/2026 02:15
+89d69ccf-9274-4043-a3d5-f01cf6feff43,medicine.law,resell,,,medium,low,8,,,,20/09/2026 02:42
 ac27cacd-c50e-469f-b048-882e09928749,capsule.chat,resell,,,medium,low,7,"Sav.com, LLC - 33",07/04/2026 15:15,07/04/2027 15:15,11/08/2026 18:13
 d01e15eb-1b41-448a-aa35-15a1855fddbd,clinical.date,premium,375,62.5,low,low,8,name.com,,,12/08/2026 11:04
 4d55d201-ad16-410f-84a3-3fa74ef3808d,safety.media,resell,,,medium,low,6,Dynadot Inc,14/07/2015 23:57,14/07/2027 23:57,08/09/2026 08:04
+7da5db05-d0ab-43b4-b53f-649700dcbf1f,trials.forum,available,2.19,34.99,low,low,6,namesilo,,,18/09/2026 17:43
+fea36ce8-c4db-4925-b9cc-2116c7992c8f,regulation.hockey,available,59.99,59.99,medium,low,10,namesilo,,,09/09/2026 13:07
+bf0afd94-75cb-4bb1-8d35-ee8c060fc34e,development.solar,available,64.99,64.99,low,low,11,namesilo,,,19/09/2026 02:40
+be58c1af-6ec2-4a3b-8f70-4925b66abace,drugstore.furniture,available,27.99,94.99,medium,low,9,namesilo,,,19/09/2026 19:43
+c4829eb5-8cba-41e7-b4a1-7a7cb99f741f,supply.dating,available,20.99,64.99,medium,low,6,namesilo,,,19/09/2026 06:48
 631bee19-d20a-4c4f-a7bd-1a5ecdc3dd08,cells.moe,available,17.88,,medium,low,5,namecheap,,,
+284b2f57-fc85-4a59-8c8f-dc2c8e679aec,regulation.gives,available,7.48,37.98,medium,low,10,namecheap,,,09/09/2026 13:07
+e983f663-81ff-40c7-8c5a-e3bc4339513d,trials.srl,available,31.99,31.99,low,low,6,namesilo,,,18/09/2026 17:43
 7759be49-b6f8-4dcc-8d88-4b4849b608d6,generic.vet,available,43.98,52.98,medium,low,7,namecheap,,,18/08/2026 21:28
+39312ecb-663d-4a4c-98c2-abfc1af1f810,substance.builders,available,34.98,43.98,medium,low,9,namecheap,,,14/09/2026 23:41
 a1341327-ea35-467b-91ad-9cdc5fa50842,cells.menu,available,38.98,,medium,low,5,namecheap,,,
-0bea1483-eb8f-4dbe-8167-500fcf3a5064,tablets.lol,available,1.99,,medium,low,7,name.com,,,
+878e7840-eafa-4ded-ac6c-886fb77c60a5,tablets.archi,available,19.99,103.99,low,low,7,namesilo,,,18/09/2026 15:46
 7a2db019-2bf2-40b1-8e92-abdfd992df4f,capsule.faith,available,12.98,16.98,medium,low,7,namecheap,,,11/08/2026 18:13
+447eb582-2b59-4c4c-9d3e-4bc3f1cf3713,pills.company,available,20.99,20.99,low,low,5,namesilo,,,20/09/2026 04:26
+0a2e79a1-a582-4fd2-a39d-6d21fac67afd,regulation.love,available,4.98,38.98,low,low,10,namecheap,,,09/09/2026 13:07
 d7387d81-24c4-46e4-9db7-fe1548c11efa,healthier.ryukyu,available,22.98,,high,low,9,namecheap,,,
 87f9b12e-d497-46e3-a2cb-c9512567ea29,clinical.protection,available,1999.99,2049.99,low,low,8,namesilo,,,12/08/2026 11:04
-339173c2-b91f-4190-b74a-30a47ec3709b,vitamins.flowers,available,64.99,114.99,medium,low,8,namesilo,,,
+b5947a4c-b666-48ed-ac79-de315e4ca723,drugstore.accountants,available,117.99,117.99,medium,low,9,namesilo,,,19/09/2026 19:43
 113d9e2a-fbd9-4ae8-a8c6-62a6f38e38b9,pod.forex,available,11.98,133.98,medium,medium,3,namecheap,,,12/08/2026 15:05
+daaa6b13-46d3-4f42-8c12-bca7dbc867bd,drugstore.engineer,available,40.98,52.98,medium,low,9,namecheap,,,19/09/2026 19:43
 138478b3-7650-4399-a271-64590842b34c,cells.phd,premium,111.25,,medium,low,5,name.com,,,
 205611f9-5ae1-40f1-add9-e602c03077ef,chemical.equipment,available,28.99,28.99,low,low,8,namesilo,,,08/09/2026 15:30
 3082004d-6eda-476c-a822-98468e14662c,regulation.ltda,available,34.99,34.99,medium,low,10,namesilo,,,09/09/2026 13:07
 51b3dfd9-e9cd-47dd-b9b5-780cc4d723d0,ingredients.university,available,19.99,,medium,low,11,name.com,,,
 03efc918-f5d0-46cf-aa56-33aeccdbfa62,generic.catering,available,40.98,48.98,medium,low,7,namecheap,,,18/08/2026 21:28
+1e420438-d5fa-4695-81df-4cad7acef600,studies.pet,available,14.49,27.59,low,low,7,namesilo,,,16/09/2026 11:06
 0cea706a-482e-4365-8997-87ab94169560,ingredients.associates,available,21.99,,medium,low,11,name.com,,,
+ee784e94-5ba2-44ee-bb64-43e1c4131bcf,development.meme,premium,117,117,low,low,11,namecheap,,,19/09/2026 02:40
 5cf3d648-b239-40ac-8e33-8b0b1b1cb164,remedy.hamburg,available,59.99,59.99,medium,low,6,name.com,,,13/08/2026 11:01
 6289cf40-356f-4154-a255-3b5bfbdb5afa,biologic.poker,available,5.98,85.98,low,low,8,namecheap,,,10/08/2026 02:14
 45be9d31-d6a3-4440-834f-ab5d6dc0ab41,medicinal.kitchen,available,8.98,83.98,low,low,9,namecheap,,,24/08/2026 19:01
+f2cfe263-da5a-4da5-a8ca-920b26725e3c,development.viajes,available,37.99,37.99,low,low,11,namesilo,,,19/09/2026 02:40
+c890c8e8-43f0-415d-86cd-5007f11e01b3,regulation.exposed,available,22.49,22.49,medium,low,10,namesilo,,,09/09/2026 13:07
 340615d3-e2f4-4808-9d12-14323b8cf048,biologic.cleaning,available,75.49,75.49,low,low,8,namesilo,,,10/08/2026 02:14
 a9c994e6-f51b-4322-b2c8-b886f2456b2b,products.game,available,309.99,429.99,low,low,8,namesilo,,,08/09/2026 11:31
+93fc6052-fc0b-4de0-b6b7-5cc9bdc6e073,drugstore.football,available,26.98,36.98,medium,low,9,namecheap,,,19/09/2026 19:43
+7b7bf1a8-05a1-4cf6-8481-b5e230c5e3b8,studies.llc,available,14.99,42.99,low,low,7,namesilo,,,16/09/2026 11:06
 6bfd4201-4959-42c4-9ae3-9fb4f577ce6c,ingredients.computer,available,29.99,,medium,low,11,name.com,,,
+f304fb8b-4271-4b11-9909-c773d8b9cc73,drugstore.school,available,36.49,36.49,medium,low,9,namesilo,,,19/09/2026 19:43
+cc284440-93a6-469f-b064-1439dc365a85,regulation.city,available,5.98,37.98,low,low,10,namecheap,,,09/09/2026 13:07
+a40e4314-60bb-497a-9d48-4d6423f16b74,apothecary.date,premium,384,53.92,low,low,10,namesilo,,,19/09/2026 19:42
+3ace9579-76d5-4dbc-9a61-5739e72a7272,development.zip,premium,76.7,76.7,low,low,11,namecheap,,,19/09/2026 02:40
 af608179-9b1b-4cff-ad98-f13d7e685349,medicinal.tattoo,available,2.98,48.98,low,low,9,namecheap,,,24/08/2026 19:01
 6a98bd71-6495-4e98-afb5-074ca0c44230,ingredients.living,available,5.49,39.99,medium,low,11,namesilo,,,
+b5ae7325-e6ce-44bb-b47f-0c2fdabccee3,pills.foundation,available,7.48,37.98,low,low,5,namecheap,,,20/09/2026 04:26
 58550b05-7ef1-4309-bb33-57d74dce5253,medicinal.bet,available,8.98,35.98,medium,low,9,namecheap,,,24/08/2026 19:01
 9d903709-e374-4ee3-a09f-5904e8195f13,products.hospital,available,55.98,71.98,low,low,8,namecheap,,,08/09/2026 11:31
 30cf7a9c-9556-4223-ba93-3c757997ac8d,capsule.zone,available,8.98,51.98,medium,low,7,namecheap,,,11/08/2026 18:13
-52c01207-ecf6-4c57-b60e-5fb0696d4cdf,pills.partners,available,13.99,,medium,low,5,name.com,,,
+b3071015-49be-43d2-81a5-29ac78de0752,development.tours,available,10.99,61.99,low,low,11,namesilo,,,19/09/2026 02:40
+1dc40f14-6d34-4006-abab-9e1566093f42,chemist.cheap,available,8.99,36.49,medium,low,7,namesilo,,,19/09/2026 19:39
 c8be0617-a31c-492e-9662-2e4a9a2071b7,biomedical.voto,available,11.98,86.98,low,low,10,namecheap,,,10/08/2026 02:15
 57bd9b20-3300-450b-951e-21ed359ab55d,pod.deal,premium,116,116,medium,medium,3,namesilo,,,12/08/2026 15:05
 65ac46c3-6729-42ab-83d7-994c3dfbe36f,chemical.skin,available,1.8,21.98,low,low,8,namecheap,,,08/09/2026 15:30
 6a767397-53d7-4837-8a54-f1dff6019b57,biomedical.finance,available,11.99,84.99,low,low,10,name.com,,,10/08/2026 02:15
-923641b6-4353-4b78-bc37-f8fdcd940654,supply.channel,premium,323.7,323.7,medium,low,6,namecheap,,,14/09/2026 05:32
+e2163d1c-c85a-4b83-99a9-8cca7758f9f6,regulation.ooo,premium,58.99,23.59,medium,low,10,namesilo,,,09/09/2026 13:07
+fa5113fb-e53d-4646-affe-1347b51ea1b1,chemist.surgery,available,54.99,54.99,medium,low,7,namesilo,,,19/09/2026 19:39
+95c0571b-a257-4f39-88d1-a251edba62b9,pills.haus,available,14.99,33.99,low,low,5,namesilo,,,20/09/2026 04:26
 58e874c4-ee80-4c9b-8f76-6ed615f88c5b,chemical.accountants,available,117.99,117.99,low,low,8,namesilo,,,08/09/2026 15:30
-9681e411-3361-42ec-8dfa-e5824e66532f,trials.parts,available,15.99,,medium,low,6,name.com,,,
+f483d803-bce0-4949-b90a-492130fea342,chemist.homes,available,1.99,17.29,medium,low,7,namesilo,,,19/09/2026 19:39
 44b98894-71c1-4a69-bfd3-2fd0b1d19a49,chemical.delivery,available,2.98,79.98,low,low,8,namecheap,,,08/09/2026 15:30
+1b0b2236-a68e-4cbb-96f1-7638bf72bd55,drugstore.navy,available,41.99,41.99,medium,low,9,namesilo,,,19/09/2026 19:43
 3289637e-ab90-4b8f-a421-1127268a9317,medicinal.catering,available,40.98,48.98,low,low,9,namecheap,,,24/08/2026 19:01
+48a1d12c-f6a0-4a81-81c4-25f8efd33ef2,painkiller.channel,available,12.98,16.48,low,low,10,namecheap,,,
 afe2166c-b770-4fdc-822f-9f83ad1f9677,cells.rip,available,7.99,,medium,low,5,name.com,,,
 97a73c93-6041-43bb-a554-d1b558d0e7f7,capsule.barcelona,available,38.98,38.98,medium,low,7,namecheap,,,11/08/2026 18:13
-9dfb04b2-3cb8-42f9-aa21-e1a96a7d31d0,supply.deal,premium,116,116,medium,low,6,namesilo,,,14/09/2026 05:32
-7fa73a44-490e-4146-bd0e-10ce1547ba14,stores.audio,available,159.98,,medium,low,6,namecheap,,,
+b28f7a1a-4d06-4952-ba78-293adb4ab694,chemist.poker,available,10.99,67.99,medium,low,7,namesilo,,,19/09/2026 19:39
 d32867cb-1b75-4d55-8585-85459f6c02dd,ingredients.soccer,available,19.99,,medium,low,11,name.com,,,
-c4284a27-0340-4fe9-b5a0-13536ff19eaf,vitamins.fit,resell,,,medium,low,8,"GoDaddy.com, LLC",17/08/2020 09:27,17/08/2026 09:27,
-b7c2cf91-28f5-4219-8b35-389687fe4fff,tablets.cyou,premium,309.4,618.8,medium,low,7,namecheap,,,
 8d6b14bd-23a9-4877-9658-dcfdc6dbff8d,cells.town,available,9.99,,medium,low,5,name.com,,,
 0d74ee41-1aea-45c6-9469-3b13cc1eeb3b,ingredients.construction,available,15.99,,medium,low,11,name.com,,,
 eb546e6a-30f8-47f1-a64a-0ffa2af797ab,medicinal.tips,available,12.98,42.48,low,low,9,namecheap,,,24/08/2026 19:01
+3b0f5ab4-ec0a-4186-8fbe-da58c4a6a33a,tablets.estate,available,15.99,38.99,low,low,7,namesilo,,,18/09/2026 15:46
+1d61ecb1-3416-4b5f-8e3a-61987326855d,apothecary.hosting,available,309.99,429.99,low,low,10,namesilo,,,19/09/2026 19:42
 4ca06b55-d40c-47ba-8321-6ed7e13fa7e4,analgesic.shop,available,0.98,48.98,low,low,9,namecheap,,,
-afffa10e-8397-4e9c-9b02-fd981d8da6a8,trials.movie,available,69.99,,medium,low,6,name.com,,,
-039f22c6-8fc9-4081-a6e9-e6a02a003e1b,tablets.gratis,available,26.99,,medium,low,7,name.com,,,
+ee978d5d-be8a-4c8e-81fd-cb4433e7f248,trials.la,available,32.98,41.98,low,low,6,namecheap,,,18/09/2026 17:43
+36b6180d-08e0-41a7-8784-03eeb06c0c4d,development.win,premium,448,53.92,low,low,11,namesilo,,,19/09/2026 02:40
 9d206140-482a-4c2e-b2aa-aeaea7a518f6,goods.sex,available,154.98,,high,low,5,namecheap,,,
 86e8f040-85bf-45bc-afd2-1c1bf80169bc,pod.vodka,premium,47.2,29.5,medium,medium,3,namesilo,,,12/08/2026 15:05
+3d782628-9e9e-453f-a9e5-cc56fb12ef1e,pills.builders,available,35.99,35.99,low,low,5,namesilo,,,20/09/2026 04:26
 a67aaf27-e742-416a-b7da-23d37d20f4d1,generic.tattoo,available,2.98,48.98,medium,low,7,namecheap,,,18/08/2026 21:28
+29d3f404-fafb-468a-bfc4-dd915fd59e38,trials.institute,available,9.99,27.49,low,low,6,namesilo,,,18/09/2026 17:43
 662df5ca-9fd5-4280-9d00-e104cb354104,capsule.pink,available,6.48,31.48,medium,low,7,namecheap,,,11/08/2026 18:13
+ac0f9215-12ad-4560-9099-f091b5c51229,startup.accountant,premium,640,77.35,medium,low,7,namesilo,,,19/09/2026 08:57
 fff7cdff-1aa4-47fa-935e-21ce43b09a97,chemical.now,resell,,,low,low,8,Dynadot Inc,26/02/2025 00:44,26/02/2027 00:44,08/09/2026 15:30
+fcbae48d-5015-4dcc-bbb3-eeb659e20a94,development.florist,available,32.99,32.99,low,low,11,namesilo,,,19/09/2026 02:40
 f5414ff4-ed01-45be-8aa7-f0989904506e,care.ryukyu,available,22.98,,medium,medium,4,namecheap,,,
 fac1e8e1-e899-4f7a-871d-f1f2d1e6a18c,biologic.mortgage,available,14.99,81.99,low,low,8,name.com,,,10/08/2026 02:14
+bf153529-fb2a-477b-9b00-2b8cb7c35480,pills.security,available,2070,2950,low,low,5,namecheap,,,20/09/2026 04:26
+0b40babd-64da-49da-b205-34ff55a423dd,apothecary.rent,available,17.99,59.99,low,low,10,namesilo,,,19/09/2026 19:42
+2d0c3ec1-211b-4a16-b879-2565c9bb89b3,tablets.actor,available,16.99,44.49,low,low,7,namesilo,,,18/09/2026 15:46
 2034fa03-e685-4f47-bca4-32cbe6d0682a,biologic.casino,available,6.98,191.98,low,low,8,namecheap,,,10/08/2026 02:14
 0dd762b4-04c5-47e8-ac74-b5dd9c36d80b,generic.autos,available,1.8,19.98,medium,low,7,namecheap,,,18/08/2026 21:28
+cbbf1dc3-0160-46f6-99bf-901f13554c93,drugstore.bid,available,5.25,6.25,medium,low,9,namesilo,,,19/09/2026 19:43
+0b068352-c895-4a20-93ec-da8d472f14da,tablets.maison,available,60.98,69.98,low,low,7,namecheap,,,18/09/2026 15:46
+a1b6aed2-c032-4be0-a04f-a8629c9d4276,tablets.work,premium,130,13,low,low,7,namecheap,,,18/09/2026 15:46
+c2528728-da8d-47b7-8c26-8163022031e1,supply.irish,available,7.49,22.49,medium,low,6,namesilo,,,19/09/2026 06:48
+7961c497-28f0-48c4-8e67-1add90991b66,active.trading,premium,520,520,medium,low,6,namecheap,,,20/09/2026 03:06
 519b82b2-ada5-4e9c-b830-1f9ee0897508,medicinal.movie,available,40.98,446.98,low,low,9,namecheap,,,24/08/2026 19:01
+92004b3d-d68b-4518-a08c-fab7c260bc9c,tablets.name,available,8.98,9.98,low,low,7,namecheap,,,18/09/2026 15:46
+1bb784bd-a182-4e66-8fc8-3d91bb5f54ae,trials.reise,available,27.89,97.99,low,low,6,namesilo,,,18/09/2026 17:43
 7255c082-0a50-4618-a59c-9d38e8a24150,biomedical.casa,available,1.98,17.98,low,low,10,namecheap,,,10/08/2026 02:15
+6f91ce11-907b-4e0d-9f14-f5fdf6e2b76d,drugstore.adult,available,69.98,166.98,medium,low,9,namecheap,,,19/09/2026 19:43
 11b6e12b-6a66-4dca-95c0-5cbbcaaa2aee,clinical.mortgage,available,14.99,81.99,low,low,8,name.com,,,12/08/2026 11:04
 5544c01d-1496-4b7b-9143-a37e0c66b298,pod.men,premium,625,81.25,medium,medium,3,name.com,,,12/08/2026 15:05
+d5ed451f-7e0b-464c-a0b9-745f9c9ae74b,development.theatre,available,509.99,529.99,medium,low,11,namesilo,,,19/09/2026 02:40
 8c1d54f4-0b15-4aad-aba6-87e169d67f55,painkiller.barcelona,available,38.98,38.98,low,low,10,namecheap,,,
+dbd60db4-ebb8-4027-b5ab-15bb6f98ce7e,apothecary.actor,available,9.48,54.98,low,low,10,namecheap,,,19/09/2026 19:42
+9f301cd2-ffb4-411c-bf92-2e984345fcd6,trials.supplies,available,24.99,24.99,low,low,6,namesilo,,,18/09/2026 17:43
 c920d55d-0d3b-4bf5-b03a-6e89f6be44c7,biomedical.audio,available,104.99,114.99,low,low,10,namesilo,,,10/08/2026 02:15
-6f9a68fb-aafe-4f66-b15d-27195dc49ff0,tablets.id,available,25.98,,medium,low,7,namecheap,,,
-99994ce9-da9b-4d07-ae5a-c7e894d77889,pills.exposed,available,22.49,22.49,medium,low,5,namesilo,,,
+2eee2e26-1301-4a4b-a816-951e33975df3,health.pizza,resell,,,medium,low,6,"Spaceship, Inc.",31/05/2026 19:06,31/05/2027 19:06,19/09/2026 10:54
+e4f681aa-0664-41f6-a685-6a33e31b0401,pills.organic,available,17.99,85.99,low,low,5,namesilo,,,20/09/2026 04:26
+a0633afc-01e5-4abb-9df6-f3215c616ff9,apothecary.phd,available,25.98,29.98,low,low,10,namecheap,,,19/09/2026 19:42
 2f7eed5e-ee3a-48fb-8d21-9e5785796bcb,biomedical.press,available,4.99,86.99,low,low,10,namesilo,,,10/08/2026 02:15
-dc235e81-b36e-411c-8cf2-9f7541e91c3d,supply.promo,premium,1107,1107,medium,low,6,namesilo,,,14/09/2026 05:32
+6aafc856-0b03-4e45-8b20-f5e9b43062d1,tablets.sex,available,69.98,154.98,low,low,7,namecheap,,,18/09/2026 15:46
+c671c2d9-40f3-4ce4-b5aa-4479a22c5fb0,pills.deals,available,39.99,39.99,low,low,5,namesilo,,,20/09/2026 04:26
+a61b3d39-fc9e-4fbd-bf3f-5d9dc34b9a10,drugstore.sarl,available,6.99,6.99,medium,low,9,namesilo,,,19/09/2026 19:43
+ecd2ad47-c9fa-4e49-bdc3-d74dd7e24e40,trials.desi,available,19.98,22.98,low,low,6,namecheap,,,18/09/2026 17:43
+e8e2f454-3462-4994-b094-2dbc3e37eca9,tablets.domains,available,42.99,42.99,low,low,7,namesilo,,,18/09/2026 15:46
 dc695084-0cce-4d9e-9ef4-5b68d866aa6a,clinical.inc,premium,2015,2600,low,low,8,namecheap,,,12/08/2026 11:04
-f1f414a0-03ff-4b26-947c-1306cd6a6b63,startup.contractors,available,35.49,35.49,medium,medium,7,namesilo,,,14/09/2026 02:21
-6d907a34-3c18-4957-8439-6ad5ecabe223,pills.sarl,available,6.99,6.99,medium,low,5,namesilo,,,
+705ff614-ab3f-46dd-b32c-8707b7c0b686,studies.claims,available,17.99,64.99,low,low,7,namesilo,,,16/09/2026 11:06
+2b14024b-786f-4813-866c-14f2a5007d27,studies.finance,available,20.99,64.99,low,low,7,namesilo,,,16/09/2026 11:06
 3e71a21d-9940-42f3-89e5-b1d9fec2b5fb,ingredients.golf,available,7.99,,medium,low,11,name.com,,,
+3d9f0160-3e65-4620-acd4-1bffca918fb7,substance.guitars,available,104.99,114.99,medium,low,9,namesilo,,,14/09/2026 23:41
 fe8ae63a-fdb5-4eef-bf03-5aa085a731b7,biomedical.law,available,95.99,95.99,low,low,10,namesilo,,,10/08/2026 02:15
-67884a7a-22c1-4fb5-9455-4a078be076c1,stores.health,available,19.99,,medium,low,6,name.com,,,
 76bf17f1-d962-4dc6-9789-f4840c4cdb05,biomedical.horse,available,32.49,32.49,medium,low,10,namesilo,,,10/08/2026 02:15
-4deed6ea-912a-4926-9d45-0df312310ad5,stores.uno,premium,625,,medium,low,6,name.com,,,
+524bc4f8-07dc-4dc9-8671-d879f7735bb6,tablets.furniture,available,27.99,94.99,medium,low,7,namesilo,,,18/09/2026 15:46
 a65c7fd0-bfb5-4636-806e-94e3c87e27a4,products.ceo,available,9.99,146.98,low,low,8,namecheap,,,08/09/2026 11:31
-b35a159d-df27-45fd-969d-f15284f3979c,stores.gratis,available,26.99,,medium,low,6,name.com,,,
 204fdbf0-6f2e-47ac-a8f6-7ae0213eac7d,products.guru,resell,,,low,low,8,"NameCheap, Inc.",23/04/2020 10:22,23/04/2027 10:22,08/09/2026 11:31
-0b9e1203-dfd4-4779-bd1c-4dd209fe08fa,vitamins.clothing,available,19.99,,medium,low,8,name.com,,,
+b4be4159-ca55-4aea-8308-f89cb12d261f,pills.men,available,5.98,9.48,low,low,5,namecheap,,,20/09/2026 04:26
+be2b5905-4d53-449c-b0cf-02f529df6d0a,trials.jewelry,available,67.98,69.98,low,low,6,namecheap,,,18/09/2026 17:43
+fc200a77-1d18-4ed1-ae4a-0ec6666256d4,development.trading,available,21.98,27.98,low,low,11,namecheap,,,19/09/2026 02:40
+8b508603-c5e3-48b2-9c6a-7438309841f4,industry.food,resell,,,low,low,8,,,,19/09/2026 13:49
+50494840-bd2a-48f4-9492-900693f0fd22,supply.limo,available,54.99,54.99,medium,low,6,namesilo,,,19/09/2026 06:48
 7b5b8382-a932-441d-b023-e8ca21327a25,ingredients.cheap,available,9.99,,medium,low,11,name.com,,,
 64093f71-86e1-4fda-9f64-c9c1d0c8ac1a,cells.sucks,available,298,,medium,low,5,namecheap,,,
 e844c82e-0c34-430a-90fe-c3f0ac6fd4e8,capsule.bar,available,2.8,81.98,medium,low,7,namecheap,,,11/08/2026 18:13
 3637f5e3-a432-4925-8f9f-2d1174691d1f,pod.ngo,available,16.99,16.99,medium,medium,3,name.com,,,12/08/2026 15:05
 4f3156c5-5783-43a3-86ce-dfc22807ffd9,regulation.film,available,65.99,65.99,medium,low,10,namesilo,,,09/09/2026 13:07
 406f8372-13c2-4aec-956b-8ea878d65cb1,capsule.cn,resell,,,medium,low,7,Dynadot Inc,,,11/08/2026 18:13
-319d7ad7-542f-4c50-934b-412ea92d1840,tablets.rentals,available,14.99,,medium,low,7,name.com,,,
 9cfcf1d7-4c44-4fa7-a9d8-9047ecc156a6,capsule.bingo,available,14.99,77.99,medium,low,7,name.com,,,11/08/2026 18:13
 843fd527-8122-4408-a0de-6172c3a9eb0d,ingredients.day,premium,36.25,,medium,low,11,name.com,,,
-d6ead7bd-192e-4c2f-9a72-526931774d8b,vitamins.webcam,premium,625,,medium,low,8,name.com,,,
+fdf4651b-c2f1-49e4-af27-54324877f801,drugstore.tours,available,10.99,61.99,medium,low,9,namesilo,,,19/09/2026 19:43
 24ac8fcb-74e0-41fd-ab87-1aed163dcb54,medicinal.esq,available,25.98,29.98,medium,low,9,namecheap,,,24/08/2026 19:01
+013395e8-37ce-4993-9b00-2f7ca406cd04,chemist.ceo,available,10.19,129.99,medium,low,7,namesilo,,,19/09/2026 19:39
 4716d038-3c1b-411e-a995-a34dc28f9ea7,generic.audio,available,108.98,159.98,medium,low,7,namecheap,,,18/08/2026 21:28
-e2b37508-05f2-4feb-8506-873fc2c5406d,pills.srl,available,31.99,31.99,medium,low,5,namesilo,,,
 ea43968a-510b-4117-b345-f9b7efb16253,chemical.giving,available,7.48,35.98,low,low,8,namecheap,,,08/09/2026 15:30
+6f9458c3-3baf-4b0a-91c2-c2e59f7a0a82,substance.website,available,0.98,20.98,medium,low,9,namecheap,,,14/09/2026 23:41
 d1deeeff-46a9-4a63-856e-1e772f0e3134,goods.homes,resell,,,high,low,5,"Xiamen ChinaSource Internet Service Co., Ltd",22/11/2024 10:25,22/11/2026 23:59,
-5588fe71-14dc-4a23-800a-2a0f02e07a54,tablets.to,resell,,,medium,low,7,NAMECHEAP,28/02/2023 02:27,01/08/2026 00:00,
 5f2ada41-4ad1-461b-8ddd-fb4157cd2514,capsule.deals,available,5.99,50.99,medium,low,7,name.com,,,11/08/2026 18:13
-19dea1fb-93a0-4050-9b1b-1d33a368fc85,vitamins.gmbh,available,45.99,45.99,medium,low,8,namesilo,,,
 f707c021-a8fc-4c16-8ff9-19d22dcc8c99,remedy.photos,available,8.98,40.98,medium,low,6,namecheap,,,13/08/2026 11:01
 2b4250b8-a548-4836-b7c8-d29bb1a541e2,capsule.rsvp,premium,73.75,73.75,medium,low,7,name.com,,,11/08/2026 18:13
-56d1b9b7-7e17-49d0-a6d6-f1f3c0e1f386,vitamins.kim,available,14.99,,medium,low,8,name.com,,,
-719ec6c9-d86c-4d86-94b4-113b34cabc2e,tablets.best,premium,1118.88,1118.88,medium,low,7,namecheap,,,
+df69e1c5-82af-4b1c-b619-d9ef15eb4e40,pills.salon,available,57.99,57.99,low,low,5,namesilo,,,20/09/2026 04:26
+4963bd7e-1128-4a8d-aa54-776b748c8942,supply.casa,premium,47.2,11.8,medium,low,6,namesilo,,,19/09/2026 06:48
 88ae0718-9309-4449-80e8-d15f26c3cf38,ingredients.solar,available,9.99,,medium,low,11,name.com,,,
-58378445-8e5d-4e81-8d53-78c4b10cd1cc,stores.education,available,39.99,,medium,low,6,name.com,,,
+7fb43ec3-0b05-47ae-9752-7f0b76a672bf,drugstore.condos,available,61.98,72.98,medium,low,9,namecheap,,,19/09/2026 19:43
+f30e7441-4f5a-4943-8c5a-28f10e7935b0,pills.hiv,available,195.99,195.99,low,low,5,namesilo,,,20/09/2026 04:26
 9e0a664a-a712-4eaf-8581-189853374a06,biologic.inc,premium,2015,2600,low,low,8,namecheap,,,10/08/2026 02:14
 d3e09c48-3fbf-4854-92d0-18a47e4578ad,biomedical.institute,premium,118.8,118.8,low,low,10,namesilo,,,10/08/2026 02:15
+477331e0-617e-4302-8203-a4add49867df,substance.bayern,available,34.99,34.99,medium,low,9,namesilo,,,14/09/2026 23:41
 4e491830-136b-44a4-bbbe-18c951d8230b,clinical.mom,available,1.8,45.98,medium,low,8,namecheap,,,12/08/2026 11:04
+d9032cbc-c06c-40f2-87fc-6c819fa252f5,pills.boston,available,23.49,23.49,low,low,5,namesilo,,,20/09/2026 04:26
 9d9365ec-b12e-426c-af65-0d9c95600561,clinical.esq,premium,198.75,198.75,low,low,8,name.com,,,12/08/2026 11:04
 1ac7bc62-5d6d-4e7c-852d-cc06df1629be,regulation.kim,available,5.98,32.98,medium,low,10,namecheap,,,09/09/2026 13:07
 8e403b1f-cd05-46a9-9ff2-01f89d424d74,biomedical.today,available,2.98,38.98,low,low,10,namecheap,,,10/08/2026 02:15
-ad605dfa-3e96-4550-ac54-7185689fcc57,stores.website,premium,625,,medium,low,6,name.com,,,
+a45b975c-bf78-4d2d-9f4b-dc3197c3b422,pills.yoga,available,33.98,45.98,low,low,5,namecheap,,,20/09/2026 04:26
+d684a379-4d51-4e8b-9e00-8b841dc5d297,trials.rip,available,23.49,23.49,low,low,6,namesilo,,,18/09/2026 17:43
+8f6f0e7c-38b8-4af5-9a05-f19a8b47756a,tablets.credit,available,11.49,104.99,low,low,7,namesilo,,,18/09/2026 15:46
+48d42d57-75e6-460f-ab73-24540ccaf583,chemist.democrat,available,7.25,32.99,medium,low,7,namesilo,,,19/09/2026 19:39
+cebd7ab5-3a13-4e17-8ea1-ad168edd08d5,development.bargains,available,14.98,37.98,low,low,11,namecheap,,,19/09/2026 02:40
 0c418793-d5f5-4fd7-b7fc-7fa4b2f89494,capsule.christmas,available,1.8,49.98,medium,low,7,namecheap,,,11/08/2026 18:13
 02ccd5c2-62cc-4cea-a734-ba6acb43629b,ingredients.ac,available,34.99,47.99,medium,low,11,namesilo,,,
-1b909bab-2b4d-474e-b189-ff57bea63e7e,stores.black,available,29.99,,medium,low,6,name.com,,,
-0b12749c-dc14-4dea-8919-64ab2d154b01,vitamins.vc,resell,,,medium,low,8,Dynadot Inc,07/12/2025 03:27,07/12/2026 03:27,
+c6bfa094-844b-4cdc-8a0f-9fde4dac5a27,vaccinated.social,available,3.98,55.98,low,low,10,namecheap,,,21/08/2026 21:34
+7079a8a1-f25c-4cef-a267-e98fb313d223,pills.engineering,available,16.99,64.99,low,low,5,namesilo,,,20/09/2026 04:26
+97e77ee3-9713-492f-a546-037b5e0593ed,vaccinated.tips,available,12.98,42.48,low,low,10,namecheap,,,21/08/2026 21:34
+7efd3ba0-e45a-4ce2-9709-8f9e9af69231,vaccinated.cc,available,4.19,9.99,low,low,10,namesilo,,,21/08/2026 21:34
 b68b1cab-4fbb-4e4e-87dc-41c2dc9286e6,chemical.wine,available,8.48,75.98,low,low,8,namecheap,,,08/09/2026 15:30
+5af94d6f-2b81-418a-88ed-616614613470,tablets.industries,available,45.99,45.99,low,low,7,namesilo,,,18/09/2026 15:46
 d1e1e247-e41e-4499-8281-366738da8b81,pod.cyou,premium,384,768,medium,medium,3,namesilo,,,12/08/2026 15:05
+81e9a943-8ae7-42c9-b4ad-e3a28f313a03,drugstore.cv,premium,1339.98,8.85,medium,low,9,namesilo,,,19/09/2026 19:43
+28477765-9d3b-4d86-a984-720676b044a1,pills.markets,available,5.98,26.98,low,low,5,namecheap,,,20/09/2026 04:26
 ee18b39a-99b8-490f-acca-c0594828ef71,biologic.spot,available,25.98,31.98,low,low,8,namecheap,,,10/08/2026 02:14
-f6ad9a02-78a8-41e5-89f3-b8c6c9650df8,tablets.hamburg,available,59.99,,medium,low,7,name.com,,,
 a722546c-4fce-4022-81b1-3615865ca074,products.racing,available,11.99,11.99,low,low,8,namesilo,,,08/09/2026 11:31
 f46e02fb-5f22-43ee-992f-d97dae8c63d5,pod.college,available,5,81.98,medium,medium,3,namecheap,,,12/08/2026 15:05
+27de28c6-2f49-4915-9569-d88e5f71daa4,development.reviews,premium,85.8,85.8,low,low,11,namecheap,,,19/09/2026 02:40
+51db5cf8-a3be-41ce-8dc6-8506666080b3,trials.town,available,6.98,47.48,low,low,6,namecheap,,,18/09/2026 17:43
+6e9dd8cc-98de-4b82-9e3e-ea22cb0f84f7,vaccinated.cooking,available,32.49,32.49,low,low,10,namesilo,,,21/08/2026 21:34
 6a70504c-6036-4fb2-b3e0-8a0b955578b5,products.charity,available,7.48,37.98,low,low,8,namecheap,,,08/09/2026 11:31
 fc30298a-15df-41c7-978f-a6162873fa5c,medicinal.nexus,available,12.98,15.98,medium,low,9,namecheap,,,24/08/2026 19:01
 3b9bbea9-937f-41aa-9717-f1bbdbe206ec,biomedical.ski,available,39.99,86.99,low,low,10,name.com,,,10/08/2026 02:15
 97f376d8-1718-44ef-9524-817fd59831d2,disease.cfd,available,1.49,,high,low,7,name.com,,,
-1e284c8c-1f35-49ec-87a6-aaa7ba1bbdd2,tablets.charity,available,5.99,,medium,low,7,name.com,,,
+23febd41-c318-4438-9651-0c0d33e2cd40,chemist.audio,available,104.99,114.99,medium,low,7,namesilo,,,19/09/2026 19:39
+a31a8c3c-dbdf-4b76-b670-dbe426b43fdb,development.observer,premium,1107,1107,low,low,11,namesilo,,,19/09/2026 02:40
 293a96fa-5496-45e7-9f5e-d9966d2e898b,lab.media,resell,,,high,medium,3,Porkbun LLC,21/10/2017 09:36,21/10/2026 09:36,
-37e18e0e-0d15-4699-ac80-73ca0ebe76d4,vitamins.support,available,11.99,,medium,low,8,name.com,,,
+9925417f-4a96-4675-b07d-cf8387e4a3e7,trials.condos,available,58.99,58.99,low,low,6,namesilo,,,18/09/2026 17:43
 a0ae797e-3587-403c-9490-470beceb08ca,medicinal.town,available,6.98,47.48,medium,low,9,namecheap,,,24/08/2026 19:01
+ade55b1f-057a-43a3-957b-5e3b85393868,pills.fyi,premium,17.7,17.7,low,low,5,namesilo,,,20/09/2026 04:26
+ecafb1eb-7c4a-4299-9eb0-6b196c9e58f0,trials.theater,available,67.98,80.98,low,low,6,namecheap,,,18/09/2026 17:43
+e85fce7e-068a-4407-a85d-68bb25fda9a3,chemist.solutions,available,10.99,30.99,medium,low,7,namesilo,,,19/09/2026 19:39
+c54b9c82-97ef-4909-bf40-be9389e54ee6,drugstore.dance,available,16.99,27.49,medium,low,9,namesilo,,,19/09/2026 19:43
 873c6040-b849-434e-96d3-77f613ed74fc,studies.contractors,available,35.49,35.49,low,low,7,namesilo,,,16/09/2026 11:06
-915ff1f7-88b4-43f3-92e7-01bdcdf836b5,supply.fan,premium,260,260,medium,low,6,namecheap,,,14/09/2026 05:32
+12aa1399-8440-44b2-83ac-e8b3aec567f5,trials.talk,premium,71.4,71.4,low,low,6,namesilo,,,18/09/2026 17:43
 d97f2b44-54a9-4ebe-8c5b-72502cc0f4f0,clinical.shiksha,available,11.98,69.98,medium,low,8,namecheap,,,12/08/2026 11:04
 a16444d8-a726-4d04-8ca5-bbca6f3c0ba8,regulation.bayern,available,34.99,34.99,medium,low,10,namesilo,,,09/09/2026 13:07
 e1fbfe28-8261-4016-97b8-f7c357079d25,regulation.earth,premium,71.4,71.4,low,low,10,namesilo,,,09/09/2026 13:07
+7cac4391-69c8-4472-a293-b4741498bc60,distribution.chat,available,10.99,44.99,low,low,12,namesilo,,,19/09/2026 09:11
 fc04dd69-792a-4bc2-b29f-25dad8ba49b5,medicinal.travel,available,23.98,186.98,low,low,9,namecheap,,,24/08/2026 19:01
+15757572-e0d7-4820-90f9-b023500a3cad,formula.foo,premium,323.7,323.7,medium,low,7,namecheap,,,03/09/2026 21:16
+87881151-dd0e-45c0-9cc9-8a448c817206,apothecary.tennis,available,67.98,81.98,low,low,10,namecheap,,,19/09/2026 19:42
+5db5d04a-5cea-42cb-962e-9ded7fd3473b,development.reise,available,27.89,97.99,low,low,11,namesilo,,,19/09/2026 02:40
+2f49df04-9109-481d-bc1d-f95b85650459,development.law,available,95.99,95.99,low,low,11,namesilo,,,19/09/2026 02:40
+baffb0ae-0251-47a4-9680-3146c155e27f,substance.baby,available,1.8,81.98,medium,low,9,namecheap,,,14/09/2026 23:41
+e43e967f-a130-4376-bc35-a6e34354ac70,vaccinated.fail,available,14.99,46.99,low,low,10,name.com,,,21/08/2026 21:34
+7861cb68-3d7e-4ac4-becc-49f889037954,tablets.nexus,premium,323.7,323.7,low,low,7,namecheap,,,18/09/2026 15:46
 5a3e64d9-32ab-4265-9186-1593d7d3306b,studies.viajes,available,37.99,37.99,low,low,7,namesilo,,,16/09/2026 11:06
 984134c9-23b8-4823-a83a-5b99f234d93e,vaccinated.hospital,available,55.98,71.98,low,low,10,namecheap,,,21/08/2026 21:34
 174c9abb-e3e1-4e4f-a56b-da7f4b746c05,biology.city,resell,,,high,low,7,"Spaceship, Inc.",21/02/2026 17:40,21/02/2027 17:40,
-e484af51-4d25-485c-af40-8441f903b34b,manufacturing.paris,available,66.98,66.98,low,low,13,namecheap,,,14/09/2026 05:36
 18ec3bb2-0d88-492c-8638-fdd454e9ff83,capsule.institute,available,5.98,37.98,medium,low,7,namecheap,,,11/08/2026 18:13
 ded96561-9d30-4fcf-8176-8299a2937057,biologic.pet,available,6.98,35.98,low,low,8,namecheap,,,10/08/2026 02:14
-f5ec1378-ddce-4377-b1c2-9bf4b9f900e7,pills.nyc,premium,1107,29.5,medium,low,5,namesilo,,,
 f32ad894-ab65-42ae-b67c-3457923996b9,generic.theater,available,19.99,83.99,medium,low,7,name.com,,,18/08/2026 21:28
 70ea37cb-fcb7-4144-8865-f9dfd731e347,ingredients.paris,premium,363.34,,medium,low,11,name.com,,,
-a89af609-5298-47a6-a986-073e836f1ed9,tablets.rest,available,19.99,,medium,low,7,name.com,,,
+0d57e0b7-b55a-4ddb-afde-9ea6d13a21b1,chemist.software,available,11.98,56.98,medium,low,7,namecheap,,,19/09/2026 19:39
 ebe55c3c-4ed1-4dcf-9e30-4322724dd319,clinical.sale,premium,118.8,118.8,low,low,8,namesilo,,,12/08/2026 11:04
 8917fe70-2112-47ac-a765-3afeac1651ae,clinical.engineer,premium,71.4,71.4,low,low,8,namesilo,,,12/08/2026 11:04
-87897fd6-2c99-4dd6-8742-31b4c3f70294,tablets.events,available,21.99,,medium,low,7,name.com,,,
+f64db051-2958-443b-aba8-993654f3bae5,chemist.fit,available,2.99,32.49,medium,low,7,namesilo,,,19/09/2026 19:39
+0b18e2ce-0db8-49ec-ade1-12439f1b2937,tablets.cards,available,38.99,38.99,low,low,7,namesilo,,,18/09/2026 15:46
+ca58d9bd-8575-48dc-9622-19507401d69d,tablets.agency,available,9.99,30.99,low,low,7,namesilo,,,18/09/2026 15:46
 9dae071e-7793-4d1b-9bcd-7751952f13c5,chemical.christmas,available,1.8,49.98,low,low,8,namecheap,,,08/09/2026 15:30
 04ec206c-dc39-4881-ba03-1b407a6292ef,biologic.cv,available,14.98,14.98,low,low,8,namecheap,,,10/08/2026 02:14
 86186f2d-c89f-4638-9b29-51ab5349df74,regulation.bid,available,5.25,6.25,medium,low,10,namesilo,,,09/09/2026 13:07
+751d7fe2-9b31-42d1-84d1-951c1c284381,tablets.capital,available,10.99,71.99,low,low,7,namesilo,,,18/09/2026 15:46
 b7949616-c843-4cf1-b114-aa8f9cf753d4,remedy.realty,available,99.8,456.98,medium,low,6,namecheap,,,13/08/2026 11:01
+cc36a735-7628-4c1b-91fe-675063fe62b4,studies.dance,available,16.99,27.49,low,low,7,namesilo,,,16/09/2026 11:06
 339120a6-f027-489c-9bb7-039b2ed3f52b,studies.shiksha,available,11.98,69.98,medium,low,7,namecheap,,,16/09/2026 11:06
+18c556f9-95ef-4b47-b751-73f9583cf0b8,supply.villas,premium,242,242,medium,low,6,namesilo,,,19/09/2026 06:48
 955fa924-eefa-41c2-b7c2-363d15480cb3,remedy.auto,available,1999.99,2199,medium,low,6,namesilo,,,13/08/2026 11:01
 8eeb4b58-59c9-4ea4-8b79-0287a9f1d09c,cells.financial,available,29.99,,medium,low,5,name.com,,,
-e3064a41-44d6-45a7-9ef3-1d8b112b8621,vitamins.vodka,available,32.49,32.49,medium,low,8,namesilo,,,
-2f452d50-1ede-4aad-9b32-4fce2e66d1cc,supply.show,resell,,,medium,low,6,"DNSPod, Inc.",19/08/2019 11:46,19/08/2027 11:46,14/09/2026 05:32
-a9424c76-aab9-4807-bb36-db6ce440b06a,tablets.gives,available,5.99,,medium,low,7,name.com,,,
+3feee0ed-02a7-41dc-835c-38b6c3bb1de4,studies.republican,available,7.49,28.99,low,low,7,namesilo,,,16/09/2026 11:06
+6a270a25-59a5-4583-b9a6-513444c38084,supply.men,premium,448,53.92,medium,low,6,namesilo,,,19/09/2026 06:48
+7edcfc7b-839b-4da5-a40e-34f4e6f025c3,drugstore.ski,available,27.99,64.99,medium,low,9,namesilo,,,19/09/2026 19:43
 3685d18e-ff5a-4fda-811c-4e2a8539d775,capsule.tube,available,25.98,33.98,medium,low,7,namecheap,,,11/08/2026 18:13
-e358f622-d0e9-432a-8c69-113cff397207,supply.supplies,premium,242,242,medium,low,6,namesilo,,,14/09/2026 05:32
+808b10f9-9d97-4bca-a567-9ad74e9874a4,apothecary.hot,available,51.99,51.99,low,low,10,namesilo,,,19/09/2026 19:42
+cb070779-1c5b-41d5-8397-9eb64049cd2a,research.email,resell,,,medium,low,8,"Global Domains International, Inc. DBA DomainCostClub.com",08/11/2025 15:15,08/11/2026 15:15,20/09/2026 02:40
 ce3243a3-7676-4d8d-9676-188139463170,capsule.giving,available,5.99,40.99,medium,low,7,name.com,,,11/08/2026 18:13
+4e838e32-2fa1-4e4b-ab38-5ce6c7f9feda,substance.plus,available,4.98,72.98,medium,low,9,namecheap,,,14/09/2026 23:41
+b9b7290c-398e-4ab9-8fba-47fd3bf26a41,tablets.immo,available,36.98,43.98,low,low,7,namecheap,,,18/09/2026 15:46
+c994e763-ac6a-4622-832d-5442607fa4e6,druggist.limited,available,37.98,39.98,low,low,8,namecheap,,,19/09/2026 19:38
 71fb0b31-fe1a-41d7-9fb1-e879cb68d57a,remedy.lighting,available,14.99,33.99,medium,low,6,name.com,,,13/08/2026 11:01
 74a07bfc-4408-460e-be71-c5c3da6af464,pod.london,premium,675.46,59.99,medium,medium,3,name.com,,,12/08/2026 15:05
+2abfae6a-b3c5-4e64-93a4-154dc633a3fb,pills.broker,available,11.98,47.98,low,low,5,namecheap,,,20/09/2026 04:26
 2a70c438-529c-4cd0-8454-ad29b8aaf719,approval.you,premium,53.92,53.92,low,low,8,namesilo,,,08/09/2026 15:18
 eb18b3e6-67c5-4d0a-90e0-895dc2455a06,generic.coffee,available,6.98,47.98,medium,low,7,namecheap,,,18/08/2026 21:28
 2aa1f4af-b5be-4c77-9bcf-ba1df96f380d,biologic.movie,available,40.98,446.98,low,low,8,namecheap,,,10/08/2026 02:14
+6a12178e-3a02-4373-803b-4e097c9f8ae9,chemist.vet,available,41.99,41.99,medium,low,7,namesilo,,,19/09/2026 19:39
+43fbcf5c-f0fc-499a-853a-ae7280daea55,tablets.report,available,10.99,24.99,low,low,7,namesilo,,,18/09/2026 15:46
+378aa256-fbd4-4c5c-8bdc-76c0859ff77d,apothecary.community,available,45.99,45.99,low,low,10,namesilo,,,19/09/2026 19:42
+5d448c86-a067-49ac-9579-6eddcfdc38b9,druggist.bingo,available,51.98,68.98,low,low,8,namecheap,,,19/09/2026 19:38
 0c4af9ab-4bd1-4ec3-a269-7332c07abb1a,clinical.coffee,available,6.98,47.98,low,low,8,namecheap,,,12/08/2026 11:04
 a637d583-ed5b-4088-98bb-4e2d8afdc46f,remedy.vegas,available,12.99,43.99,medium,low,6,namesilo,,,13/08/2026 11:01
+12c520ab-5cd9-4223-a35c-fb740e3dcae6,drugstore.investments,available,12.99,129.99,medium,low,9,namesilo,,,19/09/2026 19:43
 c2991ed3-90eb-41c7-8039-8cd4496c92dd,chemical.broker,available,11.98,47.98,low,low,8,namecheap,,,08/09/2026 15:30
+6f5f9b7c-f688-4f3f-9460-1a8fcca05ce7,drugstore.travel,available,27.99,149.99,medium,low,9,namesilo,,,19/09/2026 19:43
 f9dee250-73bf-4453-9efc-46f0a5fefb04,studies.supplies,available,25.48,32.48,low,low,7,namecheap,,,16/09/2026 11:06
-09fa77e6-3af2-4080-9964-65abd0088cdc,pills.graphics,available,23.99,23.99,medium,low,5,namesilo,,,
+0ddf851a-2fa9-423f-a10f-538810ce9214,drugstore.cab,available,33.98,41.98,medium,low,9,namecheap,,,19/09/2026 19:43
 7dce07a8-d9e7-4271-bbba-1c367b9919bd,patent.cv,resell,,,medium,low,6,Porkbun,07/01/2026 10:19,07/01/2027 10:19,06/08/2026 05:19
-7d5e5c59-9c43-4ff7-ba3f-eb17b2fa1f1d,vitamins.name,available,9.98,,medium,low,8,namecheap,,,
-075bd26f-2585-47cd-8903-fbf9d93c02cb,stores.insure,available,9.99,,medium,low,6,name.com,,,
+b27bd36b-db03-4b02-9622-10faefc287a9,substance.travel,available,23.98,186.98,medium,low,9,namecheap,,,14/09/2026 23:41
 09e5bfde-6c39-4863-8245-26ff7570b105,studies.surf,available,2.19,32.49,low,low,7,namesilo,,,16/09/2026 11:06
-842144c3-87c9-4f8b-b3fd-5321b3e6d82b,manufacturing.dog,available,5.98,86.98,low,low,13,namecheap,,,14/09/2026 05:36
-0e240705-2b46-46f8-9707-7705d1ecd371,trials.sh,available,59.99,,medium,low,6,name.com,,,
+48cc6aaa-a72d-4da5-97e1-514aa31e1011,tablets.loan,available,5.25,6.25,low,low,7,namesilo,,,18/09/2026 15:46
+c6ef1afe-93e9-424e-9a99-71a607aed3f5,chemist.computer,available,23.99,38.99,medium,low,7,namesilo,,,19/09/2026 19:39
 14139754-fea4-4b42-9e1d-b024a53f852c,studies.rent,available,17.99,59.99,low,low,7,namesilo,,,16/09/2026 11:06
-6440282d-7020-499a-90c8-5d0b89e676e1,tablets.codes,available,11.99,,medium,low,7,name.com,,,
+d769300d-de9a-415f-be9b-85a1e57a2ff0,chemist.hamburg,available,69.98,73.98,medium,low,7,namecheap,,,19/09/2026 19:39
 1bb95221-2b5f-4170-b233-e9d8a8bf6159,ingredients.lighting,available,14.99,,medium,low,11,name.com,,,
 1964663a-3e70-48dd-814a-140415de5258,ingredients.yachts,available,1.99,,medium,low,11,name.com,,,
-b6886642-c353-4f10-994a-e96898e8bc1f,tablets.ngo,available,16.99,,medium,low,7,name.com,,,
 c0e35a3e-35e0-48ae-8848-943f835b95ce,approval.credit,available,9.48,131.98,medium,low,8,namecheap,,,08/09/2026 15:18
+e3a69010-d679-4ba6-b665-0e68b3ef79e0,vaccinated.cat,available,26.98,38.98,low,low,10,namecheap,,,21/08/2026 21:34
+b302c1f2-f13c-430a-8a9b-5e0900a02694,tablets.vote,available,34.99,90.99,low,low,7,namesilo,,,18/09/2026 15:46
 4ff13d0f-bc85-48a5-86e1-4918649f9d08,goods.broker,available,19.99,,high,low,5,name.com,,,
+ad7eb876-983c-44bd-9c04-c16c07b583b7,drugged.skin,available,1.8,19.98,low,low,7,namecheap,,,14/08/2026 20:06
+bf34275b-077b-4aae-9cc0-3b1f213c9a66,vaccinated.bingo,available,14.99,77.99,low,low,10,name.com,,,21/08/2026 21:34
+60ff3a08-b95d-49de-a554-df8e0cf9ca46,drugstore.cfd,premium,384,768,medium,low,9,namesilo,,,19/09/2026 19:43
 2c5ea8cc-3d0b-4a33-aaca-bb0c1ecb755d,goods.barcelona,available,38.98,,high,low,5,namecheap,,,
-65fab239-b3fa-4918-bb45-965b948207c6,vitamins.luxury,premium,560,560,medium,low,8,namecheap,,,
-2a83de60-77d0-4e72-b797-33963a5b3324,supply.soy,premium,53.3,53.3,medium,low,6,namecheap,,,14/09/2026 05:32
-151ffe10-bae0-4cdb-a365-30cb1e09f69a,trials.republican,available,5.99,,medium,low,6,name.com,,,
-174d2586-a3b4-45c1-9530-fdc8aa0a51af,tablets.tours,available,9.99,,medium,low,7,name.com,,,
-637ec2e4-9b3d-46ce-8a20-47c951bd0cfe,pills.insure,available,9.99,,medium,low,5,name.com,,,
-dcf95f26-49b1-4bf5-b297-9a6915979257,supply.farm,resell,,,medium,low,6,"Global Domains International, Inc. DBA DomainCostClub.com",21/07/2025 15:15,21/07/2027 15:15,14/09/2026 05:32
+ae18678d-2a7b-4b6a-9321-ee5c33df56f7,chemist.engineer,available,38.99,38.99,medium,low,7,namesilo,,,19/09/2026 19:39
 2bfa043a-c8ef-40ad-b404-5a33a7ab13e0,biomedical.tube,premium,625,34.99,low,low,10,name.com,,,10/08/2026 02:15
-de8afa4d-b4d2-4031-9880-3a36dd5d72f4,tablets.car,available,2400,,medium,low,7,namecheap,,,
+c043a0fd-9897-489e-a1fa-d5ec65232815,tablets.fashion,available,32.49,32.49,low,low,7,namesilo,,,18/09/2026 15:46
 cb94550e-dcfe-4681-a6ac-b0f7a49d0812,substance.channel,premium,37.7,37.7,medium,low,9,namecheap,,,14/09/2026 23:41
-31647da2-031d-41e3-a84a-f9eb1ef0f181,stores.icu,premium,40.6,81.2,medium,low,6,namecheap,,,
 ed7347fa-34c9-4f01-b160-29668ed190b5,medicinal.rip,available,7.99,29.99,low,low,9,name.com,,,24/08/2026 19:01
+f44d6b21-7508-493f-a02c-1e4ac8f3abd8,tablets.hockey,available,59.99,59.99,low,low,7,namesilo,,,18/09/2026 15:46
 f9c49ff7-3173-47d6-90b6-5469d6659cba,clinical.irish,available,5.98,31.98,low,low,8,namecheap,,,12/08/2026 11:04
 678b091d-d6d8-47d3-a507-07cd709a51bb,studies.games,available,11.98,42.98,low,low,7,namecheap,,,16/09/2026 11:06
 bf95cc03-058c-4142-b685-7414347a25ac,chemical.pro,resell,,,medium,low,8,"Spaceship, Inc.",30/06/2024 15:15,30/06/2027 15:15,08/09/2026 15:30
 486998d1-d42b-4220-aa61-3c72c0a6b9e7,generic.auto,available,2070,2950,medium,low,7,namecheap,,,18/08/2026 21:28
 e1d0a39f-5481-4a20-9e62-2a1f07add530,remedy.properties,available,10.99,50.99,medium,low,6,name.com,,,13/08/2026 11:01
-dd7502d8-cd5c-42f0-a68a-de31d1a9bc38,stores.fashion,premium,250,,medium,low,6,name.com,,,
+747175dc-6187-40ee-9bd0-535b48a4236d,supply.cfd,premium,384,768,medium,low,6,namesilo,,,19/09/2026 06:48
+4f641c8e-aef3-4163-885f-6c61ae343168,tablets.download,premium,130,32.5,low,low,7,namecheap,,,18/09/2026 15:46
 6cfb7463-77c8-4130-83ed-6b851e58f8af,remedy.life,resell,,,medium,low,6,Dynadot Inc,28/01/2019 09:10,28/01/2027 09:10,13/08/2026 11:01
 2d811673-044c-4752-b50a-1d68af0ea16a,capsule.tires,available,14.99,132.99,medium,low,7,name.com,,,11/08/2026 18:13
 9192ed01-424f-4f5d-80c7-040ea413589a,pod.jetzt,premium,78.54,78.54,medium,medium,3,namesilo,,,12/08/2026 15:05
 86404f1c-68e7-4aee-902e-692f0407f551,clinical.porn,available,69.98,154.98,low,low,8,namecheap,,,12/08/2026 11:04
-eaa37e87-94aa-49e9-ae08-631dfc674681,stores.sexy,available,2999,,medium,low,6,name.com,,,
 b4090b00-2266-43c4-a69f-b6c347324984,products.giving,available,7.48,35.98,low,low,8,namecheap,,,08/09/2026 11:31
 45bdc5da-7018-4f13-82b1-466f591c9890,medicinal.plumbing,available,14.99,94.99,low,low,9,name.com,,,24/08/2026 19:01
+50947751-d5db-4cd2-8a37-1b9d9e59bed9,drugstore.gallery,available,29.98,36.98,medium,low,9,namecheap,,,19/09/2026 19:43
+eee2383e-d2b7-4a1b-a1b3-de97c43cf1ca,tablets.stream,available,5.98,9.98,low,low,7,namecheap,,,18/09/2026 15:46
+49a2f59f-c8b7-4484-bb39-f4d85918512b,druggist.wtf,available,2.98,49.48,low,low,8,namecheap,,,19/09/2026 19:38
 f438a992-4bed-4398-8b48-c0bd45a15ccb,products.tax,available,8.98,85.98,low,low,8,namecheap,,,08/09/2026 11:31
 6c490170-663d-4146-a71b-93d7cc6c0fb2,regulation.lat,available,1.8,40.98,medium,low,10,namecheap,,,09/09/2026 13:07
+ee0c9e00-d879-479f-81df-d7aae212f7da,drugstore.hosting,available,309.99,429.99,medium,low,9,namesilo,,,19/09/2026 19:43
 feaadf58-23c5-4f87-958b-505c57fd80d4,biologic.training,available,8.98,53.98,low,low,8,namecheap,,,10/08/2026 02:14
 5a52522f-e691-4356-aaf3-692c90ddb32c,patent.desi,available,19.98,22.98,medium,low,6,namecheap,,,06/08/2026 05:19
+5eb4655c-cd77-4174-9e95-8137c044a352,vaccinated.energy,available,5.98,155.98,low,low,10,namecheap,,,21/08/2026 21:34
 26a35237-f52d-431c-9179-600d103c26c8,chemical.new,available,488.98,601.98,low,low,8,namecheap,,,08/09/2026 15:30
-dc97866e-6ba1-47bd-8f7f-5e07e7fbce37,tablets.berlin,available,89.98,,medium,low,7,namecheap,,,
+b63c93e7-d4d4-40cf-a23c-0d94274a5c16,vaccinated.storage,available,509.99,529.99,low,low,10,namesilo,,,21/08/2026 21:34
 12b94a66-b8a7-4d36-88ad-e571bcb6bf0c,generic.broker,available,11.98,47.98,medium,low,7,namecheap,,,18/08/2026 21:28
 86650eea-ca8b-48b4-bbf5-f2a201b0280b,clinical.community,available,14.99,65.99,low,low,8,name.com,,,12/08/2026 11:04
 43a088fd-25eb-4a8b-a498-3b2fb3812edd,clinical.careers,premium,242,242,low,low,8,namesilo,,,12/08/2026 11:04
-38243385-f721-4a46-aa28-9abb9af518a7,tablets.law,available,119.99,,medium,low,7,name.com,,,
-c5781996-11d8-46ea-9be5-5294bd394da2,supply.bargains,premium,78.54,78.54,medium,low,6,namesilo,,,14/09/2026 05:32
+58781d16-722b-48be-8535-c51e50e663df,chemist.toys,available,17.99,64.99,medium,low,7,namesilo,,,19/09/2026 19:39
 31c367ed-4c91-4044-b70d-f193dbf5a3c8,biologic.fit,resell,,,low,low,8,"Spaceship, Inc.",04/03/2026 20:26,04/03/2027 20:26,10/08/2026 02:14
-8104d027-6ca3-44e1-b828-be7854a501b3,pills.loans,available,19.99,,medium,low,5,name.com,,,
 c7dad18a-66a6-44a2-ae34-1d4cf97b219f,chemical.website,premium,650,1300,low,low,8,namecheap,,,08/09/2026 15:30
 7941c371-52dc-4db0-a46c-dac58ca94ad5,regulation.video,available,4.98,49.48,medium,low,10,namecheap,,,09/09/2026 13:07
 a9a066e9-a22a-4252-96d4-2144505ce016,cells.tires,available,14.99,,medium,low,5,name.com,,,
+13c79789-607c-48b5-8cef-62df985e435b,development.blue,available,19.99,24.99,low,low,11,namesilo,,,19/09/2026 02:40
+d874e263-f063-4e59-8cbe-e283695742e3,drugstore.builders,available,35.99,35.99,medium,low,9,namesilo,,,19/09/2026 19:43
+3a312681-579a-43d9-ae56-6c7276168507,drugstore.moe,premium,104,15.6,medium,low,9,namecheap,,,19/09/2026 19:43
+da2c36e8-6e7f-4675-9658-31eb91085ae4,pills.cash,available,4.98,50.98,low,low,5,namecheap,,,20/09/2026 04:26
 9701d4e5-541a-42fb-a9c0-c497aae4f43d,products.dance,available,10.48,36.98,low,low,8,namecheap,,,08/09/2026 11:31
+1b4babf0-5272-49a3-9cf1-93b185f45959,vaccinated.talk,available,38.99,38.99,low,low,10,namesilo,,,21/08/2026 21:34
 b3c096b6-d711-4af3-81ff-bc70d1d10906,remedy.organic,available,19.99,73.99,medium,low,6,name.com,,,13/08/2026 11:01
 c29318f3-5afe-4f9e-97d9-ac78ac5780b9,studies.solar,available,64.99,64.99,low,low,7,namesilo,,,16/09/2026 11:06
+304d0cc7-b37f-4788-9776-970137e5a8b4,supplement.fan,available,57.98,68.98,medium,low,10,namecheap,,,17/09/2026 06:43
+aa5e8d0d-da8e-4a24-9d2e-a187bad6c5a5,development.doctor,available,14.49,116.99,low,low,11,namesilo,,,19/09/2026 02:40
 7c3ad42d-2759-4523-bd9b-009ad063dadd,remedy.ventures,available,5.98,75.98,medium,low,6,namecheap,,,13/08/2026 11:01
-d8b081a0-3097-4110-8b05-071fafffa959,tablets.bond,premium,412.3,824.6,medium,low,7,namecheap,,,
-26380fc2-a151-4cd7-8176-62fa0b8fcfd1,tablets.baby,available,29.99,,medium,low,7,name.com,,,
-ca0bcf34-92ad-4509-b758-42dfd61fce11,supply.dentist,premium,512,512,medium,low,6,namesilo,,,14/09/2026 05:32
+3267bc83-fc9d-4dc7-9177-cae2e4bfd886,development.holiday,available,64.99,64.99,low,low,11,namesilo,,,19/09/2026 02:40
+da272623-ffcd-4a15-9d90-e7aaa5b94121,druggist.lighting,available,22.98,31.98,low,low,8,namecheap,,,19/09/2026 19:38
 c1c0ca98-2d01-4e9c-afa4-e04aaf670805,biomedical.pet,available,6.98,35.98,medium,low,10,namecheap,,,10/08/2026 02:15
 42e00f06-0398-46e1-9df6-b24050c035a8,vaccinated.co,resell,,,low,low,10,"Network Solutions, LLC",04/07/2020 22:10,04/07/2027 23:59,21/08/2026 21:34
 eadf7f62-132e-4798-b0fb-21b19f8021c7,generic.locker,available,6.98,56.98,medium,low,7,namecheap,,,18/08/2026 21:28
+5e013426-154a-40f0-8ec5-18e52057c1ba,drugged.men,available,5.98,9.48,low,low,7,namecheap,,,14/08/2026 20:06
 f1723fe3-d7a8-451b-9b94-0742319a0e2c,clinical.claims,available,11.98,82.98,low,low,8,namecheap,,,12/08/2026 11:04
 c6330343-de3a-4f0a-b8c5-effba04b6217,substance.degree,available,52.99,52.99,medium,low,9,namesilo,,,14/09/2026 23:41
-0db45769-113c-4c64-a02a-82229add2353,manufacturing.toys,available,14.98,82.48,low,low,13,namecheap,,,14/09/2026 05:36
 cd11ef98-012c-4215-8f02-84d1bda20608,ingredients.link,premium,246.75,329,medium,low,11,namecheap,,,
 21b0194d-f398-48c1-8726-8a54b22af8bf,capsule.agency,resell,,,medium,low,7,"Sav.com, LLC - 30",30/04/2025 15:15,30/04/2027 15:15,11/08/2026 18:13
-1af89400-a93a-46a1-915d-6a95e59974f0,stores.productions,available,14.99,,medium,low,6,name.com,,,
 0d7582d9-28aa-4950-9fe3-465247576d4a,biologic.kids,available,6.79,19.99,low,low,8,namesilo,,,10/08/2026 02:14
 b80c380c-3614-4182-9fb1-c99ee750901d,recommendation.markets,available,9.99,,medium,low,14,name.com,,,
 a165687c-137d-4ab2-8a94-7f6007d6b503,generic.coupons,available,2.98,59.98,medium,low,7,namecheap,,,18/08/2026 21:28
 2ac87809-8903-4e02-9cc2-6d059a5fef5b,pod.associates,premium,118.8,118.8,medium,medium,3,namesilo,,,12/08/2026 15:05
+cba4cd22-6b1e-46e4-bd1e-f1c188c2f8e5,trials.house,available,19.99,44.49,low,low,6,namesilo,,,18/09/2026 17:43
 5fdfab6f-a966-4e4d-a2b6-85ea5439f0d4,generic.page,premium,161.25,161.25,medium,low,7,name.com,,,18/08/2026 21:28
+a0a18357-7bd7-4afb-94f2-9aa39242557d,development.tienda,available,59.99,59.99,low,low,11,namesilo,,,19/09/2026 02:40
 5cc0ca0b-71b7-49c6-a913-752da6d54e3b,substance.hiphop,available,23.99,23.99,medium,low,9,namesilo,,,14/09/2026 23:41
-edba1043-a207-4b43-8f95-a1d3112cf7af,trials.pics,available,1.99,,medium,low,6,name.com,,,
-82ab7f88-d4cb-4978-910d-d54ab0b5d858,supply.cv,premium,649.6,17.7,medium,low,6,namesilo,,,14/09/2026 05:32
+9618eb83-c2a7-43b9-a75c-b23acd9a33fb,trials.ski,available,27.99,64.99,low,low,6,namesilo,,,18/09/2026 17:43
+c754789d-2d0c-4d74-9abe-72e74d8c1923,drugstore.dentist,premium,242,242,medium,low,9,namesilo,,,19/09/2026 19:43
+a101d32d-5464-46e8-9b8b-26240d60917e,chemist.technology,available,12.99,28.49,medium,low,7,namesilo,,,19/09/2026 19:39
+eac3cda8-8c50-4828-b73b-4a61d6f593ec,druggist.esq,available,25.98,29.98,low,low,8,namecheap,,,19/09/2026 19:38
+29813f79-6c45-411f-b2ba-e56205250fd2,study.center,resell,,,medium,low,5,,,,20/09/2026 03:18
+5458d6eb-79cf-4f22-b327-117a3b174881,pills.forex,available,11.98,133.98,low,low,5,namecheap,,,20/09/2026 04:26
 7813def1-4a4d-4c5e-8f5a-073ac2924a52,ingredients.pet,available,19.99,,medium,low,11,name.com,,,
-a42526a6-a47c-4978-93a7-bddc4456614e,pills.voto,available,19.99,,medium,low,5,name.com,,,
+d78c824b-e82d-49ed-869a-5cebcbbe2977,development.blog,premium,650,2600,low,low,11,namecheap,,,19/09/2026 02:40
+4eb6ac20-0add-4e21-af00-4f3fcf76e326,grade.hospital,available,55.98,71.98,medium,low,5,namecheap,,,23/08/2026 00:34
 dc18c4f6-3045-4d2c-9a6d-9fd453f01eac,pod.day,premium,161.25,161.25,medium,medium,3,name.com,,,12/08/2026 15:05
+4327deba-5ef8-4862-9573-dc1a2dda9fcf,drugstore.associates,available,18.99,38.99,medium,low,9,namesilo,,,19/09/2026 19:43
 3eaebc28-fc43-418f-b409-6bc64224e5d4,biomedical.theatre,available,509.99,529.99,low,low,10,namesilo,,,10/08/2026 02:15
+fd95f438-8c1c-42fb-beb6-9055b7487b01,supplement.tienda,available,59.99,59.99,low,low,10,namesilo,,,17/09/2026 06:43
+77e094ec-ca82-439a-a123-3144d7a67153,drugged.buzz,premium,125,62.5,low,low,7,name.com,,,14/08/2026 20:06
+35f734ce-74f4-497d-ab15-3261893661a1,distribution.forex,available,11.98,133.98,low,low,12,namecheap,,,19/09/2026 09:11
 2bf5e1f8-2a41-401b-ab8b-bb4f11071ff9,ingredients.love,available,9.99,28.99,medium,low,11,namesilo,,,
 c52cff49-e161-4d83-b09d-a3d587c7a7e4,biomedical.cx,available,18.99,18.99,low,low,10,namesilo,,,10/08/2026 02:15
 9206ec34-6734-4397-8b1d-b53b7228e84c,products.tires,available,5.99,78.99,low,low,8,namesilo,,,08/09/2026 11:31
@@ -752,250 +909,93 @@ e89ed7c4-da11-45f9-a142-2f0da20fbd83,remedy.sexy,available,2749.99,2749.99,mediu
 017859e6-6673-4a94-af20-6e3205659c10,prescription.ryukyu,available,22.98,,high,low,12,namecheap,,,
 28cba7f9-1582-49e4-bbb5-373c87c74667,ingredients.luxury,available,49.99,,medium,low,11,name.com,,,
 c42c1ba5-90f4-43d6-8d60-910f0025e3d4,clinical.tax,available,8.98,85.98,low,low,8,namecheap,,,12/08/2026 11:04
+397d5a17-a292-4369-a092-01c4934f5790,tablets.la,available,27.99,27.99,low,low,7,namesilo,,,18/09/2026 15:46
+f8536a5e-c189-4e87-bfb7-79f1a6aca7a4,manufacturing.ooo,premium,58.99,23.59,low,low,13,namesilo,,,19/09/2026 07:25
+9dfb04b2-3cb8-42f9-aa21-e1a96a7d31d0,supply.deal,premium,116,116,medium,low,6,namesilo,,,19/09/2026 06:48
 82c73f96-1052-4a8b-a699-4e384377b2c1,ingredients.adult,available,166.98,,medium,low,11,namecheap,,,
 24964777-782c-4fb1-8f1c-a199ba2f735c,substance.attorney,available,62.99,62.99,medium,low,9,namesilo,,,14/09/2026 23:41
-e1ef64e9-966c-40a3-bd75-709a81e4785d,pills.capital,available,9.99,,medium,low,5,name.com,,,
+021d7199-da7d-4b57-bf34-b9b345b85b0b,chemist.vegas,available,12.99,43.99,medium,low,7,namesilo,,,19/09/2026 19:39
+1d13fed6-82f6-4449-86d7-3406a1885d5c,druggist.locker,available,6.98,56.98,low,low,8,namecheap,,,19/09/2026 19:38
 9195f46e-83b4-4414-b545-d3dbb8beb2a5,biomedical.garden,available,1.98,43.98,low,low,10,namecheap,,,10/08/2026 02:15
 4bbed06d-b9fc-4302-82f1-9159fecbc5bd,generic.surf,available,1.98,43.98,medium,low,7,namecheap,,,18/08/2026 21:28
-0e41259a-560a-4203-af09-1a375878c5a4,supply.hosting,available,309.99,429.99,medium,low,6,namesilo,,,14/09/2026 05:32
 b3a32237-0143-4174-8a53-f9ce102aac15,biologic.graphics,available,22.98,31.98,low,low,8,namecheap,,,10/08/2026 02:14
+48992879-728a-40ec-86bf-ea459c3e2c3c,trials.news,available,14.49,32.49,low,low,6,namesilo,,,18/09/2026 17:43
 66964864-501b-4067-80b4-82b7bbde8832,medicinal.llc,available,11.98,54.98,low,low,9,namecheap,,,24/08/2026 19:01
 94521263-b5ba-4c56-9536-d3f339e5b516,ingredients.photography,available,9.99,,medium,low,11,name.com,,,
-4512cfbf-9404-402b-b5ba-4e3388fca092,vitamins.mobile,premium,750,,medium,low,8,name.com,,,
+5e8f4dea-3e9e-43c2-983e-3c3ca412c18e,drugged.boutique,available,2.98,41.98,low,low,7,namecheap,,,14/08/2026 20:06
+82c32529-d92f-4be0-a833-2890e8bb4957,trials.music,available,47.98,52.48,low,low,6,namecheap,,,18/09/2026 17:43
 9672755a-8e5f-4488-b8a1-7b561639b72a,clinical.ski,available,39.99,86.99,low,low,8,name.com,,,12/08/2026 11:04
 4900a09f-1ddb-46c1-8849-f1f8f27577ba,clinical.haus,available,11.98,37.98,low,low,8,namecheap,,,12/08/2026 11:04
 b2b96d08-1be5-47e2-8e65-22f7218306a1,clinical.group,resell,,,low,low,8,"Xiamen ChinaSource Internet Service Co., Ltd",29/06/2018 01:28,29/06/2027 01:28,12/08/2026 11:04
-eec332ee-9c72-4be5-90fd-fe751c09252b,tablets.fm,available,99,,medium,low,7,name.com,,,
-6a59a3f3-f535-4c99-beb1-da5e371bdaee,medicine.clinic,premium,500,,high,low,8,name.com,,,
+c2e9ff15-29c4-4e63-847f-c4cfab07d2a3,pills.productions,available,10.99,40.49,low,low,5,namesilo,,,20/09/2026 04:26
 cbb2c333-1d4b-4fac-9063-35c6f4c8c6e5,medicinal.phd,available,25.98,29.98,medium,low,9,namecheap,,,24/08/2026 19:01
 3292e8ad-017f-4723-908f-a8d5f17ec539,healthy.ryukyu,available,22.98,,high,low,7,namecheap,,,
 b9e88403-a020-4119-8e4e-f39add0e8ab0,clinical.gg,available,68.98,82.98,medium,low,8,namecheap,,,12/08/2026 11:04
-5310a7a2-eba2-4e91-b85c-53f04c589cc8,stores.cruises,available,14.99,,medium,low,6,name.com,,,
 b9a6d17f-9fe4-4e13-9ad7-43fec44b33cb,substance.ceo,available,9.99,146.98,medium,low,9,namecheap,,,14/09/2026 23:41
-98e869e0-72fb-4ece-a69c-435453fd6dd4,pills.wedding,available,32.49,32.49,medium,low,5,namesilo,,,
 28fab873-df15-4b6d-b1b1-20c2e7f35830,chemical.republican,available,5.98,43.98,low,low,8,namecheap,,,08/09/2026 15:30
 cdc77bb5-b171-4b3c-9b63-867a654a6d27,products.menu,available,27.99,27.99,medium,low,8,namesilo,,,08/09/2026 11:31
 2bd48b5a-9742-47f1-883b-cc8943c441d1,generic.monster,resell,,,medium,low,7,"Spaceship, Inc.",13/05/2026 22:36,13/05/2027 23:59,18/08/2026 21:28
 cf84a7da-32e5-48c1-b523-2913bb086236,ingredients.racing,premium,116,116,medium,low,11,namesilo,,,
-f868c29a-7a2e-4616-8782-2ef2a0eb42be,manufacturing.fish,available,44.49,44.49,low,low,13,namesilo,,,14/09/2026 05:36
+ca36c2c0-b216-4d32-9955-09bf75e8ccf6,formula.talk,premium,78,78,medium,low,7,namecheap,,,03/09/2026 21:16
 167907d4-5f73-49d0-9815-54ba6f34b235,clinical.coach,available,11.98,95.98,low,low,8,namecheap,,,12/08/2026 11:04
 761a7e87-e45d-4d20-91d7-1ee8cfa42c2f,substance.rest,available,1.8,41.98,medium,low,9,namecheap,,,14/09/2026 23:41
-07e9f7f9-534f-4561-a36e-76f05c5cfcb8,pills.casino,available,12.79,159.99,medium,low,5,namesilo,,,
+eb2e55f1-cef7-4ff7-b120-1c5c08f44487,apothecary.today,available,5.99,28.49,low,low,10,namesilo,,,19/09/2026 19:42
+f4f57711-afe6-4fe9-9f8d-2eb0167f78e9,genetic.gg,resell,,,medium,low,7,Dynadot Inc. (https://www.dynadot.com),,,18/08/2026 21:31
 98496881-87f0-464f-aaca-995a45d30516,clinical.webcam,premium,625,81.25,low,low,8,name.com,,,12/08/2026 11:04
+000db8aa-477b-4915-82df-0422b5b920bc,drugstore.vana,available,2298,2498,medium,low,9,namecheap,,,19/09/2026 19:43
 7a84abd7-a705-4aea-b1ef-31036b6fb8b0,medicinal.zip,available,12.98,15.88,medium,low,9,namecheap,,,24/08/2026 19:01
 779b0735-df8e-4969-8ca3-4f3af85ba1e8,vaccinated.glass,available,72.99,72.99,low,low,10,namesilo,,,21/08/2026 21:34
-12e89e62-1a16-41c7-ade5-e8ef33a3509a,vitamins.tel,available,10.79,10.79,medium,low,8,namesilo,,,
 4c7237b3-24ac-4824-b0b8-4a4c336e8832,studies.fans,premium,116,116,low,low,7,namesilo,,,16/09/2026 11:06
-e2bce963-9036-4141-ac61-e24e0f73020b,supply.diet,available,104.99,114.99,medium,low,6,namesilo,,,14/09/2026 05:32
+a4ced350-c079-477b-ba00-35a262b6afb0,chemist.rip,available,24.98,32.98,medium,low,7,namecheap,,,19/09/2026 19:39
 07090b09-e427-4ed3-9039-44a60a3e8137,vaccinated.travel,available,23.98,186.98,low,low,10,namecheap,,,21/08/2026 21:34
 3906f9a4-1502-43f0-9dd5-77cc52860cc7,biomedical.surgery,available,54.99,54.99,medium,low,10,namesilo,,,10/08/2026 02:15
 7bc5077c-4312-4fba-b4d8-f1ebbb8ce5ad,biologic.flowers,available,64.99,114.99,low,low,8,namesilo,,,10/08/2026 02:14
 6015ca7d-43d9-407d-bbfa-f0834f3d534a,chemical.bot,premium,116,116,low,low,8,namesilo,,,08/09/2026 15:30
 7100b892-af45-45a3-baa8-5a839af8257e,ingredients.loans,available,19.99,,medium,low,11,name.com,,,
 11e6c2f0-e397-4354-a6a5-5be8ce2eac63,generic.camp,available,11.99,77.99,medium,low,7,name.com,,,18/08/2026 21:28
-28debc65-dc79-40e1-ad33-4d6bf8c35660,manufacturing.qpon,available,2.19,11.49,low,low,13,namesilo,,,14/09/2026 05:36
+6e03f88d-24b3-4309-bdc9-ec69004de23c,drugstore.spot,premium,116,116,medium,low,9,namesilo,,,19/09/2026 19:43
+e4c2cf79-bf67-4e96-9453-b581fb3ac6b1,pills.associates,available,18.99,38.99,low,low,5,namesilo,,,20/09/2026 04:26
+0ed9434f-7c08-4578-b3f3-603268304622,apothecary.shiksha,available,14.99,51.99,low,low,10,namesilo,,,19/09/2026 19:42
+4749e77f-af5f-4736-b0ce-a0c3f2a36037,drugged.fitness,available,3.48,54.98,low,low,7,namecheap,,,14/08/2026 20:06
+eaa62e8d-0c50-45b8-819b-7f7790380201,apothecary.coffee,available,16.99,42.99,low,low,10,namesilo,,,19/09/2026 19:42
 8edcf134-c342-44d9-aa5f-b5345f8a4078,products.beer,available,1.98,43.98,low,low,8,namecheap,,,08/09/2026 11:31
+558d5cd8-d874-4c82-bd6c-3f4c158cc169,trials.gift,available,20.98,23.98,low,low,6,namecheap,,,18/09/2026 17:43
+923641b6-4353-4b78-bc37-f8fdcd940654,supply.channel,premium,323.7,323.7,medium,low,6,namecheap,,,19/09/2026 06:48
+3605f9ef-1127-448a-9d3e-094ded61c199,apothecary.pro,available,3.58,29.49,medium,low,10,namesilo,,,19/09/2026 19:42
+81cfc1b1-2ca9-4a13-9d9a-d4a30db9856f,chemist.memorial,available,52.99,52.99,medium,low,7,namesilo,,,19/09/2026 19:39
 27cfab26-16e8-47a9-8066-22d371cc9256,cells.moda,available,19.99,,medium,low,5,name.com,,,
 3325c9bf-981e-4661-a8cb-aa9163830cf5,capsule.maison,available,24.99,83.99,medium,low,7,name.com,,,11/08/2026 18:13
-4acffc8e-2e13-4c10-bd6a-8a99e371f25f,supply.prof,premium,427.7,427.7,medium,low,6,namecheap,,,14/09/2026 05:32
 93a7c1c8-daa8-4b8f-87c1-1528a50d651e,substance.rentals,available,6.98,56.98,medium,low,9,namecheap,,,14/09/2026 23:41
 ec6bb291-560f-405e-87b9-927ba3111600,clinical.vip,resell,,,low,low,8,"Chengdu West Dimension Digital Technology Co., Ltd.",19/01/2020 01:31,19/01/2027 01:31,12/08/2026 11:04
 1f656f56-a3d6-400c-8fde-6554f6dcd08e,clinical.exchange,resell,,,low,low,8,Porkbun LLC,29/12/2025 21:10,29/12/2026 21:10,12/08/2026 11:04
-2245aed5-1d22-4153-8e51-9830632c42d1,trials.review,premium,1250,,medium,low,6,name.com,,,
+2a7123f6-ec7b-4e90-8926-c8e9ea1a8b0d,supplement.soy,premium,107.9,107.9,low,low,10,namecheap,,,17/09/2026 06:43
+dc235e81-b36e-411c-8cf2-9f7541e91c3d,supply.promo,premium,1107,1107,medium,low,6,namesilo,,,19/09/2026 06:48
+0d6319a4-de36-4786-aa0a-0b38017afc64,development.barcelona,available,38.98,38.98,low,low,11,namecheap,,,19/09/2026 02:40
+3e16bc3b-6155-4759-a0ef-079689f8c78d,trials.game,available,310.98,547.98,low,low,6,namecheap,,,18/09/2026 17:43
 b553cccb-8966-4773-978f-2afebe130b9f,products.archi,available,14.98,132.98,low,low,8,namecheap,,,08/09/2026 11:31
 c99a4877-cf91-4f49-948a-770e1b22e0ec,medicinal.computer,available,22.48,48.98,low,low,9,namecheap,,,24/08/2026 19:01
 65b41783-fa2d-4e59-a0f9-bba95cd7bd40,vaccinated.tools,available,8.48,47.48,low,low,10,namecheap,,,21/08/2026 21:34
-ec3d0da5-f11c-40e3-b069-37e69a4318c8,vitamins.holdings,available,64.99,64.99,medium,low,8,namesilo,,,
 5dd80a6f-b244-415c-8566-9787c16babbd,medicinal.work,available,2.98,17.98,low,low,9,namecheap,,,24/08/2026 19:01
+8328672e-93b2-4f6f-9c75-21c1435ddc04,supplement.builders,available,35.99,35.99,low,low,10,namesilo,,,17/09/2026 06:43
+693e97b7-9fbb-4f2f-b28e-f1b7dfe55009,drugstore.report,available,10.48,34.48,medium,low,9,namecheap,,,19/09/2026 19:43
 569f054d-f840-481a-b730-ab76bb95aae0,vaccinated.gold,available,7.98,130.98,low,low,10,namecheap,,,21/08/2026 21:34
-f862e169-1bba-4c77-8af6-416d8e48f878,manufacturing.lighting,available,22.98,31.98,low,low,13,namecheap,,,14/09/2026 05:36
-7bb8a57f-b57c-4359-b759-fc9fff247f97,pills.golf,available,7.99,,medium,low,5,name.com,,,
+ffeca083-19e4-46de-a57f-b59ef92e1ee5,apothecary.toys,available,17.99,64.99,low,low,10,namesilo,,,19/09/2026 19:42
+55028c7e-4207-4624-8d5f-2116ede9af66,pills.rentals,available,6.98,56.98,low,low,5,namecheap,,,20/09/2026 04:26
 1278a0dc-f16c-4857-aa1f-8b576b092bc4,chemical.airforce,available,103.99,103.99,low,low,8,namesilo,,,08/09/2026 15:30
-d3b87550-32c4-4ddf-8462-e715296d4023,startup.monster,resell,,,medium,medium,7,Dynadot Inc,03/09/2025 18:34,03/09/2027 23:59,14/09/2026 02:21
+86d1b46f-aec1-4cf5-8e2c-1581d4569717,supplement.design,premium,130,130,low,low,10,namecheap,,,17/09/2026 06:43
+7e694496-fc03-40a4-8a47-819920099755,druggist.accountants,available,122.98,145.98,low,low,8,namecheap,,,19/09/2026 19:38
 ee47d5d5-51ce-489e-a91a-c5326c230fcc,studies.rehab,available,36.99,36.99,low,low,7,namesilo,,,16/09/2026 11:06
-4e6723d7-3304-4bbb-8778-f6110a7a2c85,stores.motorcycles,available,1.99,,medium,low,6,name.com,,,
+0dbb40ef-90ac-4c0c-9231-7ca80d29792f,trials.adult,available,69.98,166.98,low,low,6,namecheap,,,18/09/2026 17:43
+53db2ac6-b440-4c12-9d42-10b009773c0a,tablets.deal,premium,116,116,low,low,7,namesilo,,,18/09/2026 15:46
 0d06de9c-874f-4607-b79e-1ec663bb5d3b,formula.tattoo,available,2.98,48.98,medium,low,7,namecheap,,,03/09/2026 21:16
-4810b3be-fd25-444f-880e-3ae18fa8b54b,stores.rodeo,available,16.99,,medium,low,6,name.com,,,
 44cef993-3084-46be-ab83-a4fb2f52104b,regulation.credit,available,9.48,131.98,medium,low,10,namecheap,,,09/09/2026 13:07
-9b7a3609-6dce-4a6d-90a9-c07a3696d45c,pills.pub,available,39.99,39.99,medium,low,5,namesilo,,,
-5ed342f2-fbd6-4ed5-982f-adaa80f88761,vitamins.cfd,premium,37.76,76.16,medium,low,8,namesilo,,,
 4eb77910-eb7a-4521-8fc8-3787af920db0,substance.diamonds,available,54.99,54.99,medium,low,9,namesilo,,,14/09/2026 23:41
 e0e378ef-a37c-4881-8146-0804af342489,vaccinated.nexus,available,12.98,15.98,low,low,10,namecheap,,,21/08/2026 21:34
 4a5f578e-19e1-440c-9aae-71f46e87c94a,substance.cc,resell,,,medium,low,9,"Spaceship, Inc.",29/05/2026 08:45,29/05/2027 08:45,14/09/2026 23:41
-781ea2c9-0085-44f3-a4a4-d39884bcb20c,tablets.cruises,available,14.99,,medium,low,7,name.com,,,
+e201136d-e057-4183-bfab-622e438081e9,pills.music,available,47.98,52.48,low,low,5,namecheap,,,20/09/2026 04:26
 375f51f5-3d5b-4d9b-bbd9-2e8239954085,vaccinated.tienda,available,9.99,77.99,low,low,10,name.com,,,21/08/2026 21:34
-779e0728-07fe-43e9-8b9b-d3c8b442ce72,supply.pictures,available,15.49,15.49,medium,low,6,namesilo,,,14/09/2026 05:32
-4f950d5e-6c8a-4f65-8574-2ceb21cbc00a,stores.today,available,2.99,,medium,low,6,name.com,,,
 ec714f01-c426-4abd-bc8a-a7819772e233,studies.science,premium,1107,116,medium,low,7,namesilo,,,16/09/2026 11:06
-ae37fb85-c3bd-46cb-8ba7-eb1ad98494e5,trials.poker,available,14.99,,medium,low,6,name.com,,,
+d7638ed4-1bec-422f-992e-653da557d9e5,scientific.study,premium,53.92,53.92,medium,low,10,namesilo,,,19/09/2026 06:46
+30845601-6284-4c14-af32-223f46433cfe,druggist.film,available,77.98,97.98,low,low,8,namecheap,,,19/09/2026 19:38
 893aee89-5f74-46e9-be61-81f2db32c2ad,remedy.pictures,available,14.99,18.99,medium,low,6,name.com,,,13/08/2026 11:01
-6f407176-b659-4c72-bcff-cc374a6b1dac,cells.yoga,available,45.98,,medium,low,5,namecheap,,,
-d0545838-33ea-4fac-b4e8-9de93704efed,studies.tips,available,15.99,30.99,low,low,7,namesilo,,,16/09/2026 11:06
-dcfca0e4-21b1-4d70-9670-fc8863805e71,tablets.sexy,available,2999,,medium,low,7,name.com,,,
-e5476718-6a45-40cc-9357-75fd32eabbca,manufacturing.adult,available,69.98,166.98,low,low,13,namecheap,,,14/09/2026 05:36
-ce5bec24-183e-48e4-a811-b4ff5ecd48ce,vitamins.gift,available,14.99,14.99,medium,low,8,namesilo,,,
-5fa87cf4-dcd3-4849-8598-aadcc06deb93,patent.fast,premium,53.92,53.92,medium,low,6,namesilo,,,06/08/2026 05:19
-4db0f8eb-579c-4161-9ec1-cf9ecc7b188d,pills.recipes,available,11.99,,medium,low,5,name.com,,,
-58274094-e9fc-4dc8-8c9d-e01825694ebc,trials.sbs,premium,154.7,309.4,medium,low,6,namecheap,,,
-c8ec1e63-1457-4a32-8e26-29fca6c6949f,supplement.fit,premium,512,29.5,medium,low,10,namesilo,,,17/09/2026 06:43
-815cc185-c494-4875-bc58-0a02fb6fa0a1,pills.dentist,available,65.99,65.99,medium,low,5,namesilo,,,
-a4ceb89e-abfe-4dbe-951d-887714ce2d0e,ingredients.lawyer,available,62.99,62.99,medium,low,11,namesilo,,,
-c3463733-5f1c-49b3-9cac-fd636e9f439f,substance.estate,available,6.98,52.98,medium,low,9,namecheap,,,14/09/2026 23:41
-41f9614b-ef16-485f-ac92-7f6bc146a52e,remedy.top,premium,720.6,720.6,medium,low,6,namesilo,,,13/08/2026 11:01
-64d2f9a3-1824-42d4-8d30-d303f64abd8b,distribution.ryukyu,available,22.98,,medium,low,12,namecheap,,,
-5555ec97-a6b0-4fe8-b39d-61703679c7e8,generic.bar,premium,393.75,562.5,medium,low,7,name.com,,,18/08/2026 21:28
-1aef8ce8-4ff1-43da-9193-ea29c2be4d96,manufacturing.osaka,available,32.98,41.98,low,low,13,namecheap,,,14/09/2026 05:36
-ba4723f9-17c5-4026-9560-60f13c98cc85,biomedical.florist,available,14.99,46.99,low,low,10,name.com,,,10/08/2026 02:15
-e6030534-04a8-4234-8d64-591677a2c089,chemical.diamonds,available,54.99,54.99,low,low,8,namesilo,,,08/09/2026 15:30
-f6fe6c0f-7ac6-42cb-af85-6803c15983f5,painkiller.site,available,0.98,31.98,low,low,10,namecheap,,,
-a0442df0-935e-44f3-82cb-2fd4fec53631,biomedical.viajes,available,37.99,37.99,low,low,10,namesilo,,,10/08/2026 02:15
-612d983d-2db5-4532-9e0c-58b7f0fd6ca1,ingredients.qpon,available,1.99,,medium,low,11,name.com,,,
-a89ad3ce-5edc-46cc-910b-baec60d3832e,substance.international,available,9.48,40.48,medium,low,9,namecheap,,,14/09/2026 23:41
-62742bfa-35d5-4490-914a-b78b46e5ff7d,chemical.tube,premium,2600,26,low,low,8,namecheap,,,08/09/2026 15:30
-ad61b663-4560-4c18-9988-4688f6c55716,trials.video,available,14.99,,medium,low,6,name.com,,,
-6756bc9d-03ce-4156-9218-11e871f7c552,studies.business,premium,118.8,118.8,low,low,7,namesilo,,,16/09/2026 11:06
-82af75cd-95fb-492b-a57f-c628d085b199,capsule.pet,available,6.98,35.98,medium,low,7,namecheap,,,11/08/2026 18:13
-ac88fde6-9c1c-4485-9db9-a6551b136873,vaccinated.voting,available,1398,1448,low,low,10,namecheap,,,21/08/2026 21:34
-577fb2ce-3524-45e7-b57e-4f8cd1d71c24,vitamins.archi,available,24.99,,medium,low,8,name.com,,,
-33312c6f-5a0a-41ca-9700-a3e217261a9c,chemical.place,available,22.49,22.49,low,low,8,namesilo,,,08/09/2026 15:30
-ff6b167c-a8b3-4409-af1b-a4302d3cbfdd,regulation.dentist,available,63.98,81.98,medium,low,10,namecheap,,,09/09/2026 13:07
-6422d3c6-da17-4cee-a5d7-6c94e7695d6a,tablets.lifestyle,available,39.99,,medium,low,7,name.com,,,
-11eb828d-a406-49b8-aa58-8dcedb7ff37a,supplement.contact,available,13.98,16.78,medium,low,10,namecheap,,,17/09/2026 06:43
-df1f4f74-f06c-407a-92a8-438a70aa72c6,biomedical.gallery,available,28.99,28.99,low,low,10,namesilo,,,10/08/2026 02:15
-ad546914-e65a-46e2-8222-a7bd21bf49b2,substance.adult,available,69.98,166.98,medium,low,9,namecheap,,,14/09/2026 23:41
-ccb687df-ab0d-49c1-9442-5d8b88d7857f,medicinal.best,available,2.28,29.98,low,low,9,namecheap,,,24/08/2026 19:01
-f95aa2c3-d533-4a81-becc-e45fca1484f3,trials.marketing,available,9.99,,medium,low,6,name.com,,,
-c0e14cec-dedf-409a-b556-aad351b111f5,ingredients.irish,available,9.99,,medium,low,11,name.com,,,
-99b4e2c3-3855-4b89-ba31-3cf356c99adc,shop.international,resell,,,high,medium,4,"Go Canada Domains, LLC",24/06/2015 16:00,24/06/2026 16:00,
-cb7bf5ee-b889-40d4-91e4-18e8a7fe0827,biologic.film,available,77.98,97.98,low,low,8,namecheap,,,10/08/2026 02:14
-54a5c93e-a71b-4345-8e3a-caef920ada15,biomedical.design,available,12.98,68.98,low,low,10,namecheap,,,10/08/2026 02:15
-529dd1a9-8c58-4f15-a47a-ce2d025e8dba,medicinal.bargains,available,14.98,37.98,low,low,9,namecheap,,,24/08/2026 19:01
-0a825c28-388d-444c-8616-f7a5bd2b84eb,generic.holiday,available,9.99,83.99,medium,low,7,name.com,,,18/08/2026 21:28
-a232694a-1fbe-4e5f-acc2-894b09e564db,supply.tube,premium,130,26,medium,low,6,namecheap,,,14/09/2026 05:32
-5136722a-da0d-48df-84cf-2594faa8d5cd,stores.fast,premium,625,,medium,low,6,name.com,,,
-27e107b5-b6be-4d9c-8c3a-4d3799836ce6,remedy.how,premium,111.25,111.25,medium,low,6,name.com,,,13/08/2026 11:01
-72d42564-9d2a-4bda-a775-0c157ce8559e,pills.team,available,7.99,,medium,low,5,name.com,,,
-727bf18d-2016-4677-ab69-2ac4eecf6940,tablets.camp,available,11.99,,medium,low,7,name.com,,,
-429615d4-b911-4eb4-9f2b-ea97bf07e206,chemical.tickets,available,359.99,488.88,low,low,8,namesilo,,,08/09/2026 15:30
-6462dd2c-98fc-4c34-aead-8fe8b67a163c,chemical.fit,available,2.98,45.98,low,low,8,namecheap,,,08/09/2026 15:30
-c08fa09d-1d24-4525-b8cb-8ff076f0eb28,grade.tennis,available,65.99,65.99,medium,low,5,namesilo,,,23/08/2026 00:34
-0d0a1360-97ef-470d-8f9e-0248eb673fac,trials.support,available,11.99,,medium,low,6,name.com,,,
-e575106a-4aae-40af-943c-e6e4718d1eb3,goods.markets,premium,500,,high,low,5,name.com,,,
-e8a6f2e3-544a-42ed-984c-24afc5323dd2,tablets.shoes,available,39.99,,medium,low,7,name.com,,,
-c655882e-89d7-4b65-8e9f-862e07215b92,vitamins.kaufen,available,5.99,26.99,medium,low,8,namesilo,,,
-f773d8f5-da88-4da7-81eb-499ab121064a,tablets.sucks,available,298,,medium,low,7,namecheap,,,
-4312db6e-2f4f-4bed-907c-cd54bbbf9be2,cells.promo,available,19.99,,medium,low,5,name.com,,,
-99dde6bb-98a6-473e-9c38-ecc697f270a1,supply.tips,premium,512,512,medium,low,6,namesilo,,,14/09/2026 05:32
-31661f43-d0f2-4cb8-8a51-169f376bf4be,regulation.dance,available,10.48,36.98,medium,low,10,namecheap,,,09/09/2026 13:07
-6b88d324-cd53-4483-b313-9baedfffe23b,trials.reisen,available,24.99,,medium,low,6,name.com,,,
-cc2812d2-3a30-462d-b489-3bbb6028b164,chemical.london,premium,138.73,31.97,low,low,8,namesilo,,,08/09/2026 15:30
-452f79ec-96d8-49af-b232-31a5c26218e5,generic.phd,premium,198.75,198.75,medium,low,7,name.com,,,18/08/2026 21:28
-e6f096a4-2476-45a1-b1f3-09af5b26535a,vitamins.vip,resell,,,medium,low,8,Dynadot Inc,24/04/2021 14:49,24/04/2028 14:49,
-f3e8c6fb-9f9e-42da-a507-76d4c84df5fc,biomedical.sexy,available,2749.99,2749.99,low,low,10,namesilo,,,10/08/2026 02:15
-c96c622c-1b5f-4158-a7ed-e4d4f6be6915,drugged.webcam,premium,625,81.25,low,low,7,name.com,,,14/08/2026 20:06
-14e0af79-a358-47af-89c0-ed765872fb6b,vaccinated.photo,available,29.99,29.99,medium,low,10,namesilo,,,21/08/2026 21:34
-b93fb06c-3270-474d-869c-b056d2b8ffa4,pod.esq,premium,198.75,198.75,medium,medium,3,name.com,,,12/08/2026 15:05
-440ddeee-4db2-4b68-92d4-58a6c60330a8,pod.film,premium,242,242,medium,medium,3,namesilo,,,12/08/2026 15:05
-0bda462e-b259-423a-b9e5-ccfe65b1c9dc,ingredients.fun,resell,4.99,,medium,low,11,"Chengdu West Dimension Digital Technology Co., Ltd.",13/05/2026 07:02,13/05/2027 07:02,
-60a82d38-b5f6-42f8-a4dc-7d307aefebe1,trials.sex,available,154.98,,medium,low,6,namecheap,,,
-21bfaee1-497d-4070-ab48-c4607aeb7b25,clinical.rich,available,94.99,1999,low,low,8,namesilo,,,12/08/2026 11:04
-5a3d6f66-f003-4675-af32-efbfcc96acfe,medicinal.tel,available,10.98,15.98,low,low,9,namecheap,,,24/08/2026 19:01
-73d576aa-4407-4b73-bafc-5a527ed5833e,products.vip,premium,1107,17.7,low,low,8,namesilo,,,08/09/2026 11:31
-5636d8b8-972a-45b5-bb61-8e789af0cf46,remedy.tattoo,available,2.98,48.98,medium,low,6,namecheap,,,13/08/2026 11:01
-c97e574c-a010-4330-80e6-7b7cad71cd90,ingredients.moe,available,13.99,13.99,medium,low,11,namesilo,,,
-24a1a971-7d98-477c-aa36-80179008893d,generic.cfd,premium,74.75,149.5,medium,low,7,namecheap,,,18/08/2026 21:28
-7f8fee2c-b7d3-4c3b-b49a-9e3c76ee3c4c,studies.football,available,25.99,25.99,low,low,7,namesilo,,,16/09/2026 11:06
-9bdd3bb8-d740-4951-acbe-8be1fe06bda1,substance.salon,available,55.98,69.98,medium,low,9,namecheap,,,14/09/2026 23:41
-e94e547f-6089-43d6-bb32-770d236701f4,capsule.porn,available,69.98,154.98,medium,low,7,namecheap,,,11/08/2026 18:13
-3ee317b6-057b-4389-9d05-34fc2906dc49,trials.hamburg,available,59.99,,medium,low,6,name.com,,,
-e9ea41d5-2824-4a4f-b879-40851080d75f,vaccinated.restaurant,available,11.98,81.98,low,low,10,namecheap,,,21/08/2026 21:34
-d54174db-a725-4ec9-8e62-2ff151a3d6ce,tablets.repair,available,9.99,,medium,low,7,name.com,,,
-ee21c41c-9ece-4270-9703-88cd7e788856,studies.xxx,available,69.98,154.98,low,low,7,namecheap,,,16/09/2026 11:06
-5535515c-bf1a-4163-b16b-971dcbc444f1,capsule.singles,available,3.98,36.98,medium,low,7,namecheap,,,11/08/2026 18:13
-2d60ada3-0235-46ce-9153-1e97646a84f5,clinical.spot,premium,116,116,low,low,8,namesilo,,,12/08/2026 11:04
-45a495ea-382d-4992-abfb-148ea6beaf35,clinical.cat,available,26.98,38.98,low,low,8,namecheap,,,12/08/2026 11:04
-cba81a27-ef9a-48a8-9cd0-32399c2aa0d4,fluid.express,available,9.98,49.98,medium,low,5,namecheap,,,18/08/2026 09:14
-2622952d-5c65-4e74-80a8-dfbc5fde2065,products.pub,available,39.99,39.99,low,low,8,namesilo,,,08/09/2026 11:31
-498056ae-06c6-4629-bd95-0f8d1292811f,tablets.vip,premium,125,,medium,low,7,name.com,,,
-f42adb3d-3b8a-432e-9937-5e4c481ca476,biomedical.place,available,22.49,22.49,low,low,10,namesilo,,,10/08/2026 02:15
-eeeab178-00a3-48c8-a053-e56cf9b79579,vitamins.money,available,19.99,,medium,low,8,name.com,,,
-9281d539-c003-4d45-9ea8-72ac781cfd87,generic.fun,premium,312.5,1250,medium,low,7,name.com,,,18/08/2026 21:28
-cf45cd18-9c7a-4fd9-9be9-e3837879ff8f,vaccinated.moda,available,19.99,52.99,low,low,10,name.com,,,21/08/2026 21:34
-9d2996d2-3ce6-46dd-ad40-6244422bfe65,regulation.wedding,available,32.49,32.49,medium,low,10,namesilo,,,09/09/2026 13:07
-e755a069-e271-4b9d-8e91-4ffceac6e1d3,clinical.hiphop,available,23.99,23.99,low,low,8,namesilo,,,12/08/2026 11:04
-1a621a4b-01b1-4507-a075-3193574a32f1,tablets.tools,available,17.99,,medium,low,7,name.com,,,
-7913ce16-f1ae-45e3-b15b-ae9e2d944e5b,tablets.lgbt,available,19.99,,medium,low,7,name.com,,,
-de834adf-c4c3-4d6d-8af6-ff3850696540,biomedical.church,available,8.48,78.98,low,low,10,namecheap,,,10/08/2026 02:15
-5a8aed9d-6f56-446d-961f-afb121ad3480,vaccination.shop,premium,1107,1107,high,low,11,namesilo,,,
-f40f803c-2645-48d1-bea4-9b4edb1c68b9,products.casino,available,6.98,191.98,low,low,8,namecheap,,,08/09/2026 11:31
-9fe62758-5ea1-4aac-812f-247753628e96,supplement.men,available,5.25,6.25,medium,low,10,namesilo,,,17/09/2026 06:43
-9b8347b9-e810-4d4c-8d0c-53f1d4323a46,pills.rich,available,94.99,1999,medium,low,5,namesilo,,,
-575ffd7a-641b-4f84-af5a-28f6ca7d414e,studies.recipes,available,8.99,77.99,low,low,7,namesilo,,,16/09/2026 11:06
-b9e4e4d3-bb84-494c-812e-c476809d9632,studies.osaka,available,32.98,41.98,low,low,7,namecheap,,,16/09/2026 11:06
-300dcb9b-8641-4c47-aae5-48343f4f99d6,clinical.green,available,11.98,102.98,low,low,8,namecheap,,,12/08/2026 11:04
-592b359a-54b2-4b0a-a9c0-1b3e78dcea86,supply.miami,premium,96,21.24,medium,low,6,namesilo,,,14/09/2026 05:32
-b11cc5af-b0be-49f2-a726-b496cca51fc3,drugged.voting,available,1398,1448,low,low,7,namecheap,,,14/08/2026 20:06
-cb89aab3-4c62-44da-ae7f-80e3e710a418,chemical.plus,resell,,,low,low,8,"DNSPod, Inc.",10/05/2022 13:15,10/05/2027 13:15,08/09/2026 15:30
-9a675981-52db-4f96-8842-9ed98614ebfb,regulation.fish,available,44.49,44.49,medium,low,10,namesilo,,,09/09/2026 13:07
-00da79c6-8f3b-4e8a-88eb-a22188b6b3ed,products.tattoo,available,2.98,48.98,low,low,8,namecheap,,,08/09/2026 11:31
-da4361ae-29bb-4090-aa3c-4f0447303367,ingredients.coupons,available,3.99,,medium,low,11,name.com,,,
-72c8e174-a915-4e85-8806-6d46b2d5f04b,studies.gallery,available,28.99,28.99,low,low,7,namesilo,,,16/09/2026 11:06
-ebeb9a0a-2a44-458e-9966-35674a7cbb90,chemical.limited,available,36.99,36.99,low,low,8,namesilo,,,08/09/2026 15:30
-e3238d2a-b057-4698-b30c-5b6742e60516,tablets.biz,resell,,,medium,low,7,"GoDaddy.com, LLC",22/01/2010 17:39,21/01/2027 23:59,
-db08ab81-8859-496c-98f2-37c57330b418,ingredients.hot,premium,125,,medium,low,11,name.com,,,
-c322de0e-f264-4284-a241-c2c3d2d680cd,vitamins.place,available,22.49,22.49,medium,low,8,namesilo,,,
-37d9faec-5b83-497e-995c-cba0a9b3b323,clinical.llc,available,11.98,54.98,low,low,8,namecheap,,,12/08/2026 11:04
-47b15dcc-12ef-416b-94da-746b31923dd3,substance.tattoo,available,2.98,48.98,medium,low,9,namecheap,,,14/09/2026 23:41
-16e7cfef-9d46-4098-a51a-c8f5c566d519,shell.xyz,resell,,,medium,medium,5,"Spaceship, Inc.",06/08/2017 11:44,06/08/2027 23:59,09/08/2026 05:25
-0ffabc4f-ada6-408e-812d-0d76fb2c3b44,drugged.auto,available,2070,2950,low,low,7,namecheap,,,14/08/2026 20:06
-ba5ffeb2-65a9-4a72-b004-fe580ef5f507,manufacturing.accountants,available,117.99,117.99,low,low,13,namesilo,,,14/09/2026 05:36
-a50c190c-a367-4a24-8f32-586d563cc9bd,pills.zip,premium,73.75,,medium,low,5,name.com,,,
-6cab8ab7-b7ca-4d06-a6e5-46d97941c9ee,substance.review,premium,1107,116,medium,low,9,namesilo,,,14/09/2026 23:41
-0d8e61c3-9fed-4f42-8492-e34d64637f51,ingredients.casa,available,2.19,12.99,medium,low,11,namesilo,,,
-98621440-c8e5-4e3f-b07c-700853d62c48,remedy.hair,resell,,,medium,low,6,UM Domains Pte. Ltd.,10/04/2026 03:12,10/04/2027 23:59,13/08/2026 11:01
-c4792f6c-a906-4acb-8a8d-ec03b8ed37dd,medicine.hiv,available,,,high,low,8,,,,
-9d067979-0ddf-4481-89d5-c38393aca5fc,supply.mobi,resell,,,medium,low,6,Squarespace Domains II LLC,06/08/2019 10:14,06/08/2028 10:14,14/09/2026 05:32
-6367125e-2d77-4681-b298-0fc57d84ca18,substance.kim,available,5.98,32.98,medium,low,9,namecheap,,,14/09/2026 23:41
-f2472c5a-6d9e-469b-99e4-8d838e1bec8b,medicinal.voyage,available,9.99,83.99,low,low,9,name.com,,,24/08/2026 19:01
-78f62b37-cf2d-41d8-abbc-f0d79e0c5773,ingredients.mba,available,19.99,,medium,low,11,name.com,,,
-cb09904e-71c3-4368-a6c9-99dcc6264940,generic.faith,available,12.98,16.98,medium,low,7,namecheap,,,18/08/2026 21:28
-78be8d9d-7bbb-4343-ab0d-c92e4c4ceff3,patent.black,available,17.48,82.98,medium,low,6,namecheap,,,06/08/2026 05:19
-ea468e82-d3ca-456e-8a36-112cf4d8d52c,pod.rich,available,94.99,1999,medium,medium,3,namesilo,,,12/08/2026 15:05
-9356d02d-3e06-4676-9b3f-fe80d17dc880,products.life,resell,,,low,low,8,Squarespace Domains II LLC,02/01/2021 08:22,02/01/2027 08:22,08/09/2026 11:31
-1a21f4e1-b09b-4363-8755-b84aa241670d,supplement.menu,available,27.99,27.99,low,low,10,namesilo,,,17/09/2026 06:43
-98e52c70-cba4-4403-aed9-a6ee57af4b3c,clinical.plumbing,available,14.99,94.99,low,low,8,name.com,,,12/08/2026 11:04
-9e0bb794-dd8c-4184-bc4c-63c6d9ff0b06,vitamins.vana,available,2498,,medium,low,8,namecheap,,,
-021a465c-efce-4b38-b095-1f4ea04aa5ed,drugged.exposed,available,22.98,28.98,low,low,7,namecheap,,,14/08/2026 20:06
-d41ebc5a-36c6-467c-a33f-2236b2b53a1c,biologic.juegos,available,368.98,478.98,low,low,8,namecheap,,,10/08/2026 02:14
-66099293-fe32-4528-833d-75a3649c012c,tablets.art,premium,153.75,,medium,low,7,name.com,,,
-b69e6f0c-3fd4-40e9-9baa-25f4bf024b5a,supply.glass,premium,118.8,118.8,medium,low,6,namesilo,,,14/09/2026 05:32
-570db0a6-1e77-4d8f-b9f7-55e88cad0b2e,supply.actor,available,9.48,54.98,medium,low,6,namecheap,,,14/09/2026 05:32
-d0d807cb-217f-4a3d-8252-a58ef24170b0,ingredients.dance,available,17.99,,medium,low,11,name.com,,,
-22bb5447-e99e-434b-b5df-4269f6391c09,generic.zip,premium,161.25,161.25,medium,low,7,name.com,,,18/08/2026 21:28
-c0fde039-a170-4a25-8d34-de92e3b31c32,fluid.motorcycles,available,1.8,19.98,medium,low,5,namecheap,,,18/08/2026 09:14
-03a1b434-1782-4f5e-9fe4-45566588af66,biologic.futbol,available,5.98,21.98,low,low,8,namecheap,,,10/08/2026 02:14
-c2f32586-9548-4eb2-be12-ad57ff6f3437,vitamins.legal,available,9.99,,medium,low,8,name.com,,,
-42c01e02-1706-44b4-a217-20a5b82721e8,clinical.cheap,available,5.98,49.98,low,low,8,namecheap,,,12/08/2026 11:04
-d791c2de-859d-4c02-ad1e-d0e4f2a1921e,clinical.restaurant,available,11.98,81.98,low,low,8,namecheap,,,12/08/2026 11:04
-436de8dc-1806-40e1-8481-08865b96cf39,tablets.gay,available,50.98,,medium,low,7,namecheap,,,
-574a00ba-52eb-44fa-9c1b-5bce47f49648,drugged.love,available,4.98,38.98,low,low,7,namecheap,,,14/08/2026 20:06
-ab38a6cc-7de3-4b71-82b9-a4a0601f4c60,pills.clinic,available,19.99,,medium,low,5,name.com,,,
-efcf8ab7-3207-4a45-8ee5-74c66b730d18,ingredients.cfd,available,1.49,,medium,low,11,name.com,,,
-ef2c4fdf-f062-44e7-ae8e-e64bc547d849,drugged.pink,available,6.48,31.48,low,low,7,namecheap,,,14/08/2026 20:06
-e79166e7-7c75-44d1-a3fd-b46aa97ac586,remedy.deals,available,5.99,50.99,medium,low,6,name.com,,,13/08/2026 11:01
-6e0f71db-363d-41b3-a2dd-ef5d1df570a6,formula.courses,available,1.98,50.98,medium,low,7,namecheap,,,03/09/2026 21:16
-0f7ae9ff-ef0a-4cf4-834c-685da5c629a4,substance.onl,available,3.48,28.98,medium,low,9,namecheap,,,14/09/2026 23:41
-ea8e3449-fbb6-4654-8a67-da07f9452f17,trials.salon,available,14.99,,medium,low,6,name.com,,,
-9da10f15-e724-4f4f-b0cf-f0e1f881174e,regulation.party,premium,448,53.92,low,low,10,namesilo,,,09/09/2026 13:07
-0587c2a4-8e1d-40ac-9f57-154a013b79ad,stores.plumbing,available,14.99,,medium,low,6,name.com,,,
-67331005-87e4-46bb-980a-09006e395944,biology.technology,resell,,,high,low,7,"Spaceship, Inc.",22/02/2026 17:46,22/02/2027 17:46,
-c8d9c5cb-f70a-4622-a045-c7d45ef87ba3,medicinal.you,available,23.98,27.98,low,low,9,namecheap,,,24/08/2026 19:01
-67579058-a458-420f-926c-887f20a20277,healthful.men,premium,437.5,62.5,medium,low,9,name.com,,,21/08/2026 02:02
-d10ba204-d011-4dc3-9666-a6d7a1593a63,supply.solutions,resell,,,medium,low,6,"Spaceship, Inc.",23/03/2014 16:00,23/03/2027 16:00,14/09/2026 05:32
-ed3a453b-c7a8-4183-a33b-0a9852693624,biomedical.diamonds,available,54.99,54.99,low,low,10,namesilo,,,10/08/2026 02:15
-93b5f1b7-1ee6-42b5-ad83-bdd9be958c8e,manufacturing.travel,available,23.98,186.98,low,low,13,namecheap,,,14/09/2026 05:36
-f32c2a28-a444-4e25-b493-0119bbd1d26e,supply.theater,available,65.99,65.99,medium,low,6,namesilo,,,14/09/2026 05:32
-3928f4ed-d6db-4dbd-a330-34179f84a5fb,regulation.memorial,available,52.99,52.99,medium,low,10,namesilo,,,09/09/2026 13:07
-c2687d3c-9184-41a5-87ae-7cf08da3b4d5,substance.games,available,11.98,42.98,medium,low,9,namecheap,,,14/09/2026 23:41
-368ed412-e7f1-4798-8223-5b5930d1ede6,capsule.reise,available,99.99,122.99,medium,low,7,name.com,,,11/08/2026 18:13
-c49ccfc5-a2f9-4065-ae51-1101b7a89e91,substance.my,resell,,,medium,low,9,Exabytes Network Sdn Bhd,06/06/2026 06:05,06/06/2027 06:05,14/09/2026 23:41
+4c13cc57-cb0e-418e-b541-a4f005c4cef3,manufacturing.observer,premium,11.8,11.8,low,low,13,namesilo,,,19/09/2026 07:25
