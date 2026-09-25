@@ -1,10 +1,10 @@
-# One-Word Pharmaceutical Domain Names (43,834)
+# One-Word Pharmaceutical Domain Names (39,327)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-43%2C834%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-39%2C327%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers one-word domain names tied to the pharmaceuticals keyword, spanning 506 different TLDs with a median asking price of $714. Updated daily, it groups short, single-word names that fit pharmaceutical branding, from clinical terms to consumer-facing labels.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **43,834 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **39,327 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 43,834 domains · **Median ask:** $384.57 · **High-demand under $2,500:** 57
+**Public extract:** 1,000 rows · **Live catalog:** 39,327 domains · **Median ask:** $331.24 · **High-demand under $2,500:** 43
 
 **Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/sector/pharmaceuticals`
@@ -66,24 +66,24 @@ print(df.head())
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------------------------------- |
 | medication.talk  | premium   | $75       | —             | high           | low    | 10     | name.com                                                             |
 | remedy.autos     | available | $1.80     | $19.98        | high           | low    | 6      | namecheap                                                            |
-| remedy.agency    | resell    | —         | —             | high           | low    | 6      | Sav.com, LLC - 11                                                    |
-| drugs.tech       | premium   | $1,625    | $6,500        | high           | high   | 5      | namecheap                                                            |
-| remedy.berlin    | available | $79.98    | $89.98        | high           | low    | 6      | namecheap                                                            |
-| remedy.care      | resell    | —         | —             | high           | low    | 6      | Spaceship, Inc.                                                      |
-| remedy.bid       | premium   | $437.50   | $62.50        | high           | low    | 6      | name.com                                                             |
+| drugs.co         | resell    | —         | —             | high           | high   | 5      | InternetX GmbH                                                       |
+| drugs.space      | premium   | $3,250    | $13,000       | high           | high   | 5      | namecheap                                                            |
 | remedy.builders  | available | $7.99     | $50.99        | high           | low    | 6      | name.com                                                             |
 | remedy.so        | resell    | —         | —             | high           | high   | 6      | NameCheap                                                            |
-| remedy.cricket   | premium   | $437.50   | $62.50        | high           | low    | 6      | name.com                                                             |
-| remedy.cam       | available | $2.98     | $22.98        | high           | low    | 6      | namecheap                                                            |
+| drugs.tech       | premium   | $1,625    | $6,500        | high           | high   | 5      | namecheap                                                            |
+| remedy.casa      | available | $1.98     | $17.98        | high           | low    | 6      | namecheap                                                            |
 | remedy.xyz       | resell    | —         | —             | high           | high   | 6      | Go Daddy, LLC                                                        |
 | remedy.download  | premium   | $437.50   | $62.50        | high           | low    | 6      | name.com                                                             |
-| remedy.casa      | available | $1.98     | $17.98        | high           | low    | 6      | namecheap                                                            |
-| tablet.at        | resell    | —         | —             | high           | high   | 6      | Webagentur.at Internet Services GmbH ( https://nic.at/registrar/25 ) |
-| remedy.free      | premium   | $116      | $116          | high           | low    | 6      | namesilo                                                             |
-| remedy.christmas | available | $1.80     | $49.98        | high           | low    | 6      | namecheap                                                            |
-| tablet.io        | resell    | —         | —             | high           | high   | 6      | NameSilo, LLC                                                        |
-| remedy.ngo       | premium   | $625      | $312.50       | high           | low    | 6      | name.com                                                             |
 | remedy.clinic    | available | $11.98    | $82.98        | high           | low    | 6      | namecheap                                                            |
+| tablet.at        | resell    | —         | —             | high           | high   | 6      | Webagentur.at Internet Services GmbH ( https://nic.at/registrar/25 ) |
+| remedy.ing       | premium   | $437.50   | $437.50       | high           | low    | 6      | name.com                                                             |
+| remedy.condos    | available | $58.99    | $58.99        | high           | low    | 6      | namesilo                                                             |
+| tablet.gg        | resell    | —         | —             | high           | high   | 6      | NameCheap, Inc (https://www.namecheap.com)                           |
+| remedy.prof      | premium   | $111.25   | $111.25       | high           | low    | 6      | name.com                                                             |
+| remedy.forum     | available | $1.80     | $49.98        | high           | low    | 6      | namecheap                                                            |
+| tablet.io        | resell    | —         | —             | high           | high   | 6      | NameSilo, LLC                                                        |
+| pharmacy.academy | premium   | $500      | —             | high           | low    | 8      | name.com                                                             |
+| remedy.gift      | available | $14.99    | $14.99        | high           | low    | 6      | namesilo                                                             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 43,834 live domains                        |
+| 1,000-row public sample | 39,327 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 57 high-demand names under $2,500          |
+| Basic exported fields   | 43 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
