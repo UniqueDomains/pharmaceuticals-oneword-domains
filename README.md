@@ -1,10 +1,10 @@
-# One-Word Pharmaceutical Domain Names (125,988)
+# One-Word Pharmaceutical Domain Names (126,064)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-125%2C988%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-126%2C064%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers one-word domain names tied to the pharmaceuticals keyword, spanning 506 different TLDs with a median asking price of $714. Updated daily, it groups short, single-word names that fit pharmaceutical branding, from clinical terms to consumer-facing labels.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **125,988 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **126,064 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 125,988 domains · **Median ask:** $273.02 · **High-demand under $2,500:** 253
+**Public extract:** 1,000 rows · **Live catalog:** 126,064 domains · **Median ask:** $270.81 · **High-demand under $2,500:** 253
 
-**Last updated:** 2026-10-13
+**Last updated:** 2026-10-14
 **Canonical page:** `https://unique.domains/domains/sector/pharmaceuticals`
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
 | drug.academy     | available | $17.99    | $46.99        | high           | low    | 4      | namesilo                                            |
-| drug.asia        | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                     |
+| medical.pics     | resell    | $1.99     | $45.99        | high           | low    | 7      | Dynadot Inc                                         |
 | drug.adult       | premium   | $322.40   | $322.40       | high           | low    | 4      | namecheap                                           |
 | drug.accountant  | available | $23.59    | $23.59        | high           | low    | 4      | namesilo                                            |
-| drug.bargains    | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                    |
+| medicine.capital | resell    | $9.99     | —             | high           | low    | 8      | Dynadot Inc                                         |
 | drug.agency      | premium   | $512      | $512          | high           | low    | 4      | namesilo                                            |
 | drug.accountants | available | $117.99   | $117.99       | high           | low    | 4      | namesilo                                            |
-| drug.beauty      | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                     |
+| medicine.xxx     | resell    | $154.98   | —             | high           | low    | 8      | GoDaddy.com, LLC                                    |
 | drug.art         | premium   | $354.90   | $91           | high           | low    | 4      | namecheap                                           |
 | drug.actor       | available | $16.99    | $44.49        | high           | low    | 4      | namesilo                                            |
-| drug.bid         | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| drug.asia        | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                     |
 | drug.best        | premium   | $95.57    | $95.57        | high           | low    | 4      | namesilo                                            |
 | drug.ag          | available | $89.99    | $79.99        | high           | low    | 4      | namesilo                                            |
-| drug.casa        | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                         |
+| drug.bargains    | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                    |
 | drug.blog        | premium   | $640      | $2,660        | high           | low    | 4      | namesilo                                            |
 | drug.airforce    | available | $103.99   | $103.99       | high           | low    | 4      | namesilo                                            |
-| drug.center      | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                    |
+| drug.beauty      | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                     |
 | drug.boo         | premium   | $323.70   | $323.70       | high           | low    | 4      | namecheap                                           |
 | drug.apartments  | available | $60.98    | $72.98        | high           | low    | 4      | namecheap                                           |
-| drug.city        | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| drug.bid         | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 125,988 live domains                                 |
+| 1,000-row public sample | 126,064 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
 | Basic exported fields   | 253 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Pharmaceutical Domain Names*. Version 2026-10-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Pharmaceutical Domain Names*. Version 2026-10-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
